@@ -1,0 +1,1001 @@
+AnimalID,DateTime_Intake,IntakeType,IntakeCondition,AnimalType_Intake,SexuponIntake,AgeuponIntake,Breed_Intake,Color_Intake,DateTime_Outcome,DateofBirth,SexuponOutcome,AgeuponOutcome,Result,year,month
+A797495,2019-06-14 11:34:00,Stray,Normal,Dog,Neutered Male,0.25,Cairn Terrier,dark,2019-06-15 12:44:00,2019-02-14 00:00:00,Neutered Male,0.25,0.0,2019,6
+A801314,2019-08-02 14:43:00,Stray,Nursing,Cat,Unknown,0.038461538461538464,Domestic Shorthair,light,2019-08-02 18:22:00,2019-07-18 00:00:00,Unknown,0.038461538461538464,0.0,2019,8
+A699842,2015-05-19 12:33:00,Owner Surrender,Normal,Dog,Spayed Female,0.25,Chihuahua Shorthair Mix,light,2015-05-23 14:03:00,2015-01-23 00:00:00,Spayed Female,0.25,0.0,2015,5
+A801561,2019-08-05 18:31:00,Stray,Normal,Cat,Intact Male,0.25,Domestic Shorthair,dark,2019-09-02 17:22:00,2019-04-09 00:00:00,Neutered Male,0.3333333333333333,0.0,2019,8
+A792521,2019-04-11 16:57:00,Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Chihuahua Shorthair/Dachshund,medium,2019-04-13 11:20:00,2019-01-20 00:00:00,Spayed Female,0.16666666666666666,0.0,2019,4
+A667481,2013-11-18 17:58:00,Stray,Normal,Dog,Intact Male,2.0,Rottweiler Mix,dark,2013-11-20 18:56:00,2011-11-18 00:00:00,Neutered Male,2.0,0.0,2013,11
+A773647,2018-06-04 06:56:00,Stray,Injured,Bird,Unknown,1.0,Quaker Mix,Green,2018-06-04 13:08:00,2017-06-04 00:00:00,Unknown,1.0,0.0,2018,6
+A719762,2016-01-27 12:53:00,Stray,Normal,Dog,Intact Female,0.07692307692307693,Pit Bull Mix,dark,2016-01-28 18:37:00,2015-12-27 00:00:00,Intact Female,0.07692307692307693,0.0,2016,1
+A798690,2019-06-29 12:20:00,Stray,Normal,Dog,Intact Male,5.0,Chihuahua Shorthair,dark,2019-07-03 16:51:00,2014-06-29 00:00:00,Neutered Male,5.0,0.0,2019,6
+A736195,2016-10-06 13:02:00,Stray,Normal,Cat,Intact Male,0.057692307692307696,Domestic Medium Hair Mix,dark,2016-10-06 15:39:00,2016-09-14 00:00:00,Intact Male,0.057692307692307696,0.0,2016,10
+A771959,2018-05-12 15:07:00,Stray,Normal,Dog,Intact Male,16.0,Chihuahua Shorthair Mix,light,2018-05-13 16:17:00,2002-04-13 00:00:00,Intact Male,16.0,0.0,2018,5
+A722182,2016-03-12 11:35:00,Owner Surrender,Normal,Cat,Intact Female,3.0,Domestic Shorthair Mix,dark,2016-03-31 13:31:00,2013-03-12 00:00:00,Spayed Female,3.0,0.0,2016,3
+A744686,2017-03-20 16:16:00,Owner Surrender,Normal,Dog,Spayed Female,2.0,Pit Bull Mix,medium,2017-03-22 13:06:00,2015-03-06 00:00:00,Spayed Female,2.0,0.0,2017,3
+A731061,2016-07-15 11:29:00,Owner Surrender,Normal,Bird,Intact Male,0.4166666666666667,Chicken Mix,dark,2016-07-28 00:00:00,2016-01-15 00:00:00,Intact Male,0.5,0.0,2016,7
+A700397,2015-05-01 11:43:00,Owner Surrender,Normal,Dog,Spayed Female,2.0,Jack Russell Terrier Mix,light,2015-05-03 19:10:00,2013-04-13 00:00:00,Spayed Female,2.0,0.0,2015,5
+A698164,2015-03-06 18:48:00,Wildlife,Normal,Other,Unknown,0.07692307692307693,Bat,dark,2015-03-07 09:44:00,2015-02-06 00:00:00,Unknown,0.07692307692307693,1.0,2015,3
+A515503,2016-08-03 09:28:00,Stray,Normal,Dog,Neutered Male,10.0,Labrador Retriever Mix,dark,2016-08-04 09:14:00,2006-07-10 00:00:00,Neutered Male,10.0,0.0,2016,8
+A786619,2018-12-28 15:57:00,Stray,Normal,Dog,Intact Female,4.0,Labrador Retriever Mix,medium,2018-12-29 17:07:00,2014-12-29 00:00:00,Intact Female,4.0,0.0,2018,12
+A684390,2014-07-22 18:45:00,Stray,Normal,Dog,Intact Male,5.0,Chihuahua Shorthair Mix,light,2014-09-01 19:25:00,2009-07-22 00:00:00,Neutered Male,5.0,0.0,2014,7
+A711459,2015-09-07 11:30:00,Stray,Normal,Dog,Neutered Male,2.0,Labrador Retriever Mix,dark,2015-09-20 15:53:00,2013-09-07 00:00:00,Neutered Male,2.0,0.0,2015,9
+A746641,2017-04-06 09:13:00,Owner Surrender,Normal,Cat,Neutered Male,3.0,Domestic Shorthair Mix,medium,2017-04-08 16:51:00,2014-04-06 00:00:00,Neutered Male,3.0,0.0,2017,4
+A744588,2017-03-03 14:53:00,Owner Surrender,Normal,Cat,Neutered Male,4.0,Domestic Longhair Mix,light,2017-03-12 11:41:00,2013-03-03 00:00:00,Neutered Male,4.0,0.0,2017,3
+A738949,2016-12-07 13:03:00,Stray,Normal,Cat,Spayed Female,1.0,Domestic Shorthair Mix,medium,2016-12-12 16:04:00,2015-11-24 00:00:00,Spayed Female,1.0,0.0,2016,12
+A699965,2015-04-05 11:03:00,Stray,Normal,Dog,Neutered Male,2.0,Miniature Pinscher Mix,dark,2015-04-11 15:24:00,2013-04-05 00:00:00,Neutered Male,2.0,0.0,2015,4
+A705637,2015-06-19 17:17:00,Owner Surrender,Sick,Dog,Unknown,0.5,Boxer Mix,light,2015-06-19 00:00:00,2014-11-19 00:00:00,Unknown,0.5,0.0,2015,6
+A810724,2019-12-18 15:47:00,Stray,Normal,Cat,Neutered Male,1.0,Domestic Shorthair,medium,2019-12-18 18:18:00,2018-12-18 00:00:00,Neutered Male,1.0,0.0,2019,12
+A769138,2018-03-30 22:46:00,Stray,Normal,Dog,Intact Male,0.4166666666666667,Beagle Mix,dark,2018-04-16 15:01:00,2017-10-06 00:00:00,Neutered Male,0.5,0.0,2018,3
+A687390,2014-09-04 11:54:00,Stray,Normal,Cat,Unknown,1.0,Domestic Shorthair Mix,light,2014-09-06 09:00:00,2013-09-04 00:00:00,Unknown,1.0,0.0,2014,9
+A812831,2020-01-29 14:06:00,Stray,Normal,Dog,Intact Female,0.25,Yorkshire Terrier,dark,2020-01-29 18:45:00,2019-10-29 00:00:00,Intact Female,0.25,0.0,2020,1
+A663684,2014-11-10 11:24:00,Owner Surrender,Normal,Dog,Neutered Male,6.0,Siberian Husky Mix,light,2014-11-13 18:43:00,2008-10-24 00:00:00,Neutered Male,6.0,0.0,2014,11
+A616489,2014-10-16 14:17:00,Stray,Normal,Dog,Spayed Female,3.0,Beagle Mix,medium,2014-10-16 18:47:00,2011-01-23 00:00:00,Spayed Female,3.0,0.0,2014,10
+A800742,2019-07-26 00:21:00,Wildlife,Normal,Other,Unknown,1.0,Bat,dark,2019-07-26 10:03:00,2018-07-26 00:00:00,Unknown,1.0,1.0,2019,7
+A783600,2018-11-02 15:00:00,Stray,Normal,Cat,Intact Female,0.038461538461538464,Domestic Shorthair Mix,dark,2018-11-03 07:37:00,2018-10-18 00:00:00,Intact Female,0.038461538461538464,0.0,2018,11
+A704245,2015-06-02 18:22:00,Stray,Normal,Dog,Intact Female,0.16666666666666666,Black Mouth Cur Mix,medium,2015-06-07 18:21:00,2015-03-22 00:00:00,Spayed Female,0.16666666666666666,0.0,2015,6
+A710782,2015-08-27 15:12:00,Stray,Normal,Cat,Unknown,0.057692307692307696,Domestic Shorthair Mix,light,2015-08-27 17:16:00,2015-08-05 00:00:00,Unknown,0.057692307692307696,0.0,2015,8
+A678459,2014-05-09 11:02:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Longhair Mix,light,2014-06-03 17:19:00,2014-03-29 00:00:00,Neutered Male,0.16666666666666666,0.0,2014,5
+A693409,2014-12-07 12:51:00,Stray,Normal,Cat,Intact Female,0.3333333333333333,Domestic Shorthair Mix,dark,2014-12-08 09:00:00,2014-08-07 00:00:00,Intact Female,0.3333333333333333,0.0,2014,12
+A703114,2015-05-20 16:41:00,Stray,Normal,Dog,Intact Female,0.08333333333333333,Cardigan Welsh Corgi/Australian Cattle Dog,Tricolor,2015-05-23 14:04:00,2015-03-20 00:00:00,Intact Female,0.16666666666666666,0.0,2015,5
+A730980,2016-07-14 11:06:00,Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair Mix,light,2016-07-15 09:00:00,2015-07-14 00:00:00,Neutered Male,1.0,0.0,2016,7
+A699135,2015-03-23 11:19:00,Stray,Normal,Dog,Intact Male,0.5833333333333334,Catahoula Mix,dark,2015-03-26 15:41:00,2014-07-23 00:00:00,Intact Male,0.6666666666666666,0.0,2015,3
+A766869,2019-02-25 18:07:00,Owner Surrender,Normal,Dog,Neutered Male,1.0,Black/Tan Hound Mix,Tricolor,2018-02-20 18:32:00,2017-12-03 00:00:00,Neutered Male,0.16666666666666666,0.0,2019,2
+A804099,2019-09-10 16:10:00,Owner Surrender,Normal,Cat,Neutered Male,4.0,Domestic Shorthair,dark,2019-10-13 18:08:00,2015-09-10 00:00:00,Neutered Male,4.0,0.0,2019,9
+A668994,2013-12-12 15:17:00,Wildlife,Sick,Other,Unknown,0.75,Fox Mix,medium,2013-12-12 15:48:00,2013-03-12 00:00:00,Unknown,0.75,1.0,2013,12
+A788628,2019-02-06 06:38:00,Stray,Nursing,Cat,Intact Female,0.0027397260273972603,Domestic Shorthair Mix,light,2019-05-12 18:35:00,2019-02-05 00:00:00,Spayed Female,0.25,0.0,2019,2
+A673275,2014-02-21 12:22:00,Stray,Normal,Dog,Intact Male,3.0,Pit Bull Mix,medium,2014-03-19 15:17:00,2011-02-21 00:00:00,Intact Male,3.0,1.0,2014,2
+A784146,2018-11-12 13:56:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Medium Hair Mix,light,2018-11-23 21:04:00,2018-09-12 00:00:00,Intact Male,0.16666666666666666,0.0,2018,11
+A783950,2018-12-04 11:08:00,Owner Surrender,Normal,Dog,Spayed Female,5.0,Staffordshire Mix,medium,2018-11-26 17:05:00,2013-01-28 00:00:00,Spayed Female,5.0,0.0,2018,12
+A803724,2019-09-05 12:05:00,Owner Surrender,Normal,Dog,Neutered Male,0.5833333333333334,Wire Hair Fox Terrier,dark,2019-09-06 16:14:00,2019-01-05 00:00:00,Neutered Male,0.6666666666666666,0.0,2019,9
+A783719,2018-11-05 10:25:00,Stray,Normal,Dog,Intact Male,0.4166666666666667,Great Pyrenees/Catahoula,light,2018-11-12 15:59:00,2018-05-21 00:00:00,Intact Male,0.4166666666666667,0.0,2018,11
+A726864,2016-05-15 15:27:00,Stray,Normal,Cat,Unknown,0.057692307692307696,Domestic Shorthair Mix,light,2016-05-15 17:17:00,2016-04-23 00:00:00,Unknown,0.057692307692307696,0.0,2016,5
+A729606,2016-06-21 09:14:00,Stray,Normal,Dog,Intact Male,2.0,Basset Hound/Labrador Retriever,dark,2016-06-26 17:38:00,2014-06-21 00:00:00,Neutered Male,2.0,0.0,2016,6
+A707383,2015-07-12 11:03:00,Stray,Normal,Dog,Intact Male,0.16666666666666666,Anatol Shepherd/Australian Shepherd,Tricolor,2015-07-29 15:51:00,2015-04-12 00:00:00,Intact Male,0.25,0.0,2015,7
+A727699,2016-05-25 08:02:00,Stray,Injured,Cat,Spayed Female,10.0,Domestic Shorthair Mix,dark,2016-06-02 14:29:00,2006-05-25 00:00:00,Spayed Female,10.0,1.0,2016,5
+A708286,2015-07-25 11:58:00,Stray,Normal,Cat,Neutered Male,3.0,Domestic Shorthair Mix,dark,2015-07-30 13:57:00,2012-07-25 00:00:00,Neutered Male,3.0,0.0,2015,7
+A755288,2017-08-01 07:29:00,Stray,Injured,Cat,Intact Male,2.0,Domestic Shorthair Mix,light,2017-08-01 10:48:00,2015-08-01 00:00:00,Intact Male,2.0,0.0,2017,8
+A789704,2019-02-26 11:26:00,Owner Surrender,Normal,Dog,Intact Male,3.0,Chihuahua Shorthair Mix,light,2019-03-19 14:26:00,2016-02-26 00:00:00,Neutered Male,3.0,0.0,2019,2
+A724124,2016-04-12 13:05:00,Stray,Normal,Dog,Intact Male,1.0,Australian Cattle Dog Mix,medium,2016-04-18 18:43:00,2015-04-12 00:00:00,Neutered Male,1.0,0.0,2016,4
+A692375,2014-11-19 10:54:00,Owner Surrender,Normal,Dog,Intact Male,0.07692307692307693,German Shepherd/Labrador Retriever,dark,2014-12-20 17:56:00,2014-10-19 00:00:00,Neutered Male,0.16666666666666666,0.0,2014,11
+A750648,2017-05-30 08:01:00,Stray,Sick,Dog,Intact Male,0.4166666666666667,Pit Bull Mix,light,2017-05-30 13:26:00,2016-11-30 00:00:00,Intact Male,0.4166666666666667,0.0,2017,5
+A717021,2015-11-30 17:23:00,Stray,Normal,Cat,Intact Female,10.0,Domestic Shorthair Mix,dark,2015-11-30 18:29:00,2005-11-30 00:00:00,Intact Female,10.0,1.0,2015,11
+A726173,2016-05-07 13:22:00,Stray,Normal,Cat,Intact Male,0.3333333333333333,Domestic Shorthair Mix,dark,2016-05-11 19:04:00,2015-12-07 00:00:00,Neutered Male,0.4166666666666667,0.0,2016,5
+A694795,2015-07-13 14:18:00,Owner Surrender,Normal,Dog,Spayed Female,1.0,Pit Bull Mix,dark,2015-08-27 00:00:00,2014-01-04 00:00:00,Spayed Female,1.0,0.0,2015,7
+A772638,2018-05-22 09:47:00,Stray,Sick,Cat,Intact Male,0.07692307692307693,Domestic Medium Hair Mix,light,2018-06-16 13:23:00,2018-04-22 00:00:00,Intact Male,0.08333333333333333,0.0,2018,5
+A711213,2015-09-03 17:35:00,Stray,Normal,Dog,Intact Female,1.0,Labrador Retriever Mix,medium,2015-09-11 18:40:00,2014-09-03 00:00:00,Spayed Female,1.0,0.0,2015,9
+A769410,2018-04-14 16:56:00,Stray,Normal,Dog,Intact Female,3.0,Chihuahua Shorthair Mix,medium,2018-04-18 17:50:00,2015-04-04 00:00:00,Spayed Female,3.0,0.0,2018,4
+A763361,2017-12-08 14:21:00,Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair Mix,dark,2017-12-20 17:31:00,2016-12-08 00:00:00,Spayed Female,1.0,0.0,2017,12
+A671537,2014-01-26 16:55:00,Stray,Normal,Dog,Intact Male,1.0,Anatol Shepherd/Labrador Retriever,light,2014-02-02 14:00:00,2012-07-26 00:00:00,Intact Male,1.0,0.0,2014,1
+A666071,2013-10-26 14:45:00,Stray,Normal,Cat,Intact Female,0.07692307692307693,Domestic Shorthair Mix,dark,2013-10-30 15:14:00,2013-09-26 00:00:00,Intact Female,0.07692307692307693,0.0,2013,10
+A706132,2015-06-25 11:20:00,Stray,Normal,Dog,Spayed Female,2.0,Australian Shepherd Mix,dark,2015-07-01 14:56:00,2013-06-25 00:00:00,Spayed Female,2.0,0.0,2015,6
+A741105,2016-12-28 11:53:00,Stray,Normal,Dog,Intact Female,1.0,American Staffordshire Terrier Mix,light,2017-01-07 15:33:00,2015-12-28 00:00:00,Spayed Female,1.0,0.0,2016,12
+A681526,2014-06-17 23:23:00,Public Assist,Normal,Cat,Intact Female,1.0,Domestic Medium Hair Mix,medium,2014-06-21 09:00:00,2013-06-17 00:00:00,Intact Female,1.0,0.0,2014,6
+A786348,2018-12-22 15:11:00,Stray,Normal,Cat,Intact Female,0.16666666666666666,Domestic Shorthair Mix,dark,2018-12-27 16:18:00,2018-09-22 00:00:00,Spayed Female,0.25,0.0,2018,12
+A678492,2014-05-09 14:32:00,Stray,Normal,Cat,Intact Male,0.057692307692307696,Siamese Mix,light,2014-05-09 15:28:00,2014-04-17 00:00:00,Intact Male,0.057692307692307696,0.0,2014,5
+A682618,2014-06-30 13:49:00,Euthanasia Request,Normal,Dog,Neutered Male,5.0,Australian Cattle Dog,medium,2014-06-30 16:00:00,2008-12-30 00:00:00,Neutered Male,5.0,1.0,2014,6
+A662854,2016-11-15 17:08:00,Stray,Normal,Dog,Neutered Male,5.0,Australian Shepherd Mix,medium,2016-11-22 00:00:00,2011-09-09 00:00:00,Neutered Male,5.0,0.0,2016,11
+A673080,2014-02-19 13:51:00,Public Assist,Normal,Dog,Intact Female,4.0,Yorkshire Terrier Mix,dark,2014-04-29 14:44:00,2010-02-19 00:00:00,Spayed Female,4.0,0.0,2014,2
+A752511,2017-06-23 11:38:00,Stray,Normal,Cat,Intact Male,0.25,Domestic Shorthair Mix,dark,2017-08-19 12:52:00,2017-03-23 00:00:00,Neutered Male,0.3333333333333333,0.0,2017,6
+A692921,2014-11-28 13:19:00,Stray,Normal,Dog,Intact Female,1.0,Pit Bull Mix,medium,2014-12-30 19:16:00,2013-11-28 00:00:00,Spayed Female,1.0,0.0,2014,11
+A741964,2017-01-12 12:16:00,Owner Surrender,Normal,Cat,Neutered Male,9.0,Siamese Mix,medium,2017-01-13 16:38:00,2008-01-12 00:00:00,Neutered Male,9.0,0.0,2017,1
+A725308,2016-04-28 08:03:00,Stray,Nursing,Cat,Unknown,0.00821917808219178,Domestic Shorthair Mix,dark,2016-04-28 17:06:00,2016-04-25 00:00:00,Unknown,0.00821917808219178,0.0,2016,4
+A788754,2019-02-08 10:19:00,Stray,Normal,Dog,Intact Female,0.25,Siberian Husky Mix,medium,2019-02-13 18:06:00,2018-10-17 00:00:00,Spayed Female,0.25,0.0,2019,2
+A745352,2017-03-16 14:15:00,Stray,Normal,Cat,Intact Female,7.0,Domestic Medium Hair Mix,dark,2017-03-21 15:03:00,2010-03-16 00:00:00,Intact Female,7.0,0.0,2017,3
+A430328,2016-10-24 18:49:00,Stray,Normal,Dog,Spayed Female,10.0,Labrador Retriever Mix,dark,2016-10-25 13:04:00,2005-12-22 00:00:00,Spayed Female,10.0,0.0,2016,10
+A773735,2018-06-04 19:12:00,Stray,Normal,Cat,Intact Female,0.6666666666666666,Domestic Medium Hair Mix,medium,2018-09-07 17:56:00,2017-09-04 00:00:00,Spayed Female,1.0,0.0,2018,6
+A802058,2019-08-13 14:02:00,Stray,Normal,Cat,Intact Male,0.038461538461538464,Domestic Shorthair Mix,dark,2019-08-13 17:49:00,2019-07-29 00:00:00,Intact Male,0.038461538461538464,0.0,2019,8
+A791366,2019-03-25 07:04:00,Stray,Sick,Cat,Intact Male,0.25,Domestic Shorthair Mix,dark,2019-03-31 17:32:00,2018-11-25 00:00:00,Intact Male,0.3333333333333333,0.0,2019,3
+A807095,2019-10-20 15:39:00,Stray,Normal,Cat,Intact Female,0.057692307692307696,Domestic Shorthair,dark,2019-10-20 18:24:00,2019-09-25 00:00:00,Intact Female,0.057692307692307696,0.0,2019,10
+A668787,2013-12-09 15:24:00,Stray,Normal,Dog,Intact Female,1.0,Beagle/Boxer,dark,2013-12-13 17:24:00,2012-12-09 00:00:00,Spayed Female,1.0,0.0,2013,12
+A778759,2018-08-20 08:45:00,Stray,Normal,Cat,Intact Male,0.0136986301369863,Domestic Shorthair Mix,dark,2018-08-20 10:36:00,2018-08-15 00:00:00,Intact Male,0.0136986301369863,0.0,2018,8
+A781105,2018-09-24 14:01:00,Owner Surrender,Normal,Dog,Intact Female,0.5833333333333334,Chihuahua Shorthair Mix,medium,2018-09-26 18:19:00,2018-01-24 00:00:00,Spayed Female,0.6666666666666666,0.0,2018,9
+A726164,2016-05-07 12:36:00,Owner Surrender,Normal,Dog,Spayed Female,1.0,Labrador Retriever Mix,dark,2016-05-07 15:39:00,2015-05-07 00:00:00,Spayed Female,1.0,0.0,2016,5
+A766788,2018-02-16 15:15:00,Stray,Normal,Dog,Intact Female,6.0,Great Pyrenees Mix,light,2018-02-28 15:29:00,2012-02-16 00:00:00,Spayed Female,6.0,0.0,2018,2
+A751071,2017-06-03 17:45:00,Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair Mix,light,2017-06-07 00:00:00,2016-06-03 00:00:00,Neutered Male,1.0,0.0,2017,6
+A672121,2014-02-04 15:58:00,Stray,Normal,Dog,Intact Male,2.0,Pit Bull/Australian Cattle Dog,light,2014-03-17 18:08:00,2012-02-04 00:00:00,Neutered Male,2.0,0.0,2014,2
+A767651,2018-03-05 01:57:00,Public Assist,Normal,Cat,Spayed Female,3.0,Siamese Mix,medium,2018-03-07 12:10:00,2015-03-05 00:00:00,Spayed Female,3.0,0.0,2018,3
+A694410,2014-12-27 16:26:00,Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair Mix,dark,2014-12-31 16:24:00,2014-10-16 00:00:00,Neutered Male,0.16666666666666666,0.0,2014,12
+A732823,2016-08-13 14:22:00,Public Assist,Sick,Cat,Intact Female,1.0,Domestic Shorthair Mix,dark,2016-09-21 15:23:00,2015-08-13 00:00:00,Spayed Female,1.0,0.0,2016,8
+A677474,2016-09-13 16:10:00,Euthanasia Request,Aged,Dog,Spayed Female,9.0,Rottweiler Mix,dark,2016-09-13 18:01:00,2007-09-13 00:00:00,Spayed Female,9.0,1.0,2016,9
+A785692,2018-12-07 17:33:00,Stray,Normal,Dog,Intact Male,1.0,Chihuahua Longhair Mix,light,2018-12-11 15:36:00,2017-12-07 00:00:00,Intact Male,1.0,0.0,2018,12
+A708959,2015-08-03 12:12:00,Stray,Normal,Dog,Intact Male,1.0,Chihuahua Shorthair/Dachshund,medium,2015-08-13 16:07:00,2014-08-03 00:00:00,Neutered Male,1.0,0.0,2015,8
+A775101,2019-11-22 12:22:00,Stray,Normal,Dog,Neutered Male,1.0,Chihuahua Shorthair Mix,light,2019-11-26 11:41:00,2018-04-13 00:00:00,Neutered Male,1.0,0.0,2019,11
+A771512,2018-05-06 11:36:00,Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair Mix,dark,2018-05-09 07:13:00,2017-05-06 00:00:00,Intact Female,1.0,0.0,2018,5
+A761557,2017-11-06 17:28:00,Stray,Sick,Cat,Unknown,6.0,Domestic Shorthair Mix,dark,2017-11-06 18:06:00,2011-11-06 00:00:00,Unknown,6.0,1.0,2017,11
+A725293,2016-04-27 17:48:00,Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair Mix,medium,2016-06-03 15:36:00,2015-04-27 00:00:00,Spayed Female,1.0,0.0,2016,4
+A735139,2016-09-19 17:08:00,Public Assist,Normal,Dog,Neutered Male,0.6666666666666666,Pit Bull Mix,dark,2016-09-28 11:06:00,2016-01-19 00:00:00,Neutered Male,0.6666666666666666,0.0,2016,9
+A807826,2019-10-30 16:50:00,Owner Surrender,Normal,Cat,Neutered Male,11.0,Domestic Shorthair,light,2019-11-10 16:45:00,2008-10-30 00:00:00,Neutered Male,11.0,0.0,2019,10
+A667470,2013-11-18 15:40:00,Stray,Normal,Cat,Intact Female,0.07692307692307693,Domestic Shorthair Mix,medium,2014-02-08 12:48:00,2013-10-20 00:00:00,Spayed Female,0.25,0.0,2013,11
+A670498,2014-01-09 12:05:00,Owner Surrender,Normal,Cat,Intact Female,1.0,Domestic Longhair Mix,dark,2014-01-14 16:50:00,2013-01-09 00:00:00,Spayed Female,1.0,0.0,2014,1
+A714174,2015-10-19 11:56:00,Public Assist,Injured,Cat,Intact Female,1.0,Domestic Shorthair Mix,dark,2015-10-19 15:57:00,2014-10-19 00:00:00,Intact Female,1.0,0.0,2015,10
+A668706,2013-12-07 15:36:00,Stray,Normal,Cat,Intact Male,0.4166666666666667,Domestic Shorthair Mix,light,2013-12-17 12:13:00,2013-07-07 00:00:00,Neutered Male,0.4166666666666667,0.0,2013,12
+A792226,2019-04-08 10:57:00,Stray,Injured,Dog,Intact Female,2.0,Pit Bull/Pug,light,2019-08-17 12:28:00,2017-04-08 00:00:00,Spayed Female,2.0,0.0,2019,4
+A717538,2015-12-09 18:00:00,Stray,Injured,Dog,Intact Female,10.0,Miniature Schnauzer Mix,dark,2015-12-22 19:46:00,2005-12-09 00:00:00,Intact Female,10.0,1.0,2015,12
+A697373,2015-03-02 14:58:00,Owner Surrender,Normal,Dog,Spayed Female,0.8333333333333334,Dachshund Wirehair/Cairn Terrier,dark,2015-03-04 15:38:00,2014-04-22 00:00:00,Spayed Female,0.8333333333333334,0.0,2015,3
+A773438,2018-06-01 11:26:00,Owner Surrender,Normal,Cat,Neutered Male,3.0,Domestic Shorthair Mix,medium,2018-06-10 14:12:00,2015-06-01 00:00:00,Neutered Male,3.0,0.0,2018,6
+A777444,2018-07-28 15:46:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair Mix,light,2018-08-31 14:01:00,2018-06-13 00:00:00,Spayed Female,0.16666666666666666,0.0,2018,7
+A669820,2013-12-27 18:09:00,Wildlife,Normal,Other,Unknown,1.0,Bat Mix,dark,2013-12-27 18:57:00,2012-12-27 00:00:00,Unknown,1.0,1.0,2013,12
+A774755,2018-06-19 17:04:00,Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Shorthair Mix,dark,2018-06-21 06:17:00,2018-05-20 00:00:00,Intact Male,0.07692307692307693,0.0,2018,6
+A726348,2016-05-10 07:44:00,Stray,Injured,Dog,Neutered Male,4.0,Chihuahua Shorthair Mix,dark,2016-05-14 15:40:00,2012-05-10 00:00:00,Neutered Male,4.0,0.0,2016,5
+A752135,2017-07-16 12:35:00,Stray,Normal,Dog,Spayed Female,2.0,Australian Shepherd/Field Spaniel,dark,2017-07-26 13:41:00,2015-06-18 00:00:00,Spayed Female,2.0,0.0,2017,7
+A793073,2019-06-02 12:16:00,Stray,Normal,Dog,Intact Male,1.0,Boxer Mix,dark,2019-06-09 17:52:00,2018-06-02 00:00:00,Neutered Male,1.0,0.0,2019,6
+A670319,2014-01-05 18:03:00,Stray,Normal,Dog,Neutered Male,3.0,Miniature Schnauzer Mix,light,2014-01-06 12:55:00,2011-01-05 00:00:00,Neutered Male,3.0,0.0,2014,1
+A687689,2015-12-16 11:46:00,Owner Surrender,Normal,Dog,Neutered Male,1.0,American Bulldog Mix,light,2015-12-06 15:05:00,2014-07-08 00:00:00,Neutered Male,1.0,0.0,2015,12
+A718511,2017-02-12 15:47:00,Stray,Normal,Dog,Spayed Female,5.0,Pit Bull Mix,light,2017-02-13 11:06:00,2012-01-01 00:00:00,Spayed Female,5.0,0.0,2017,2
+A657795,2014-12-04 14:56:00,Stray,Normal,Dog,Neutered Male,1.0,Labrador Retriever Mix,dark,2014-12-04 16:00:00,2013-01-04 00:00:00,Neutered Male,1.0,0.0,2014,12
+A805096,2019-09-22 12:58:00,Owner Surrender,Normal,Dog,Intact Male,0.3333333333333333,Catahoula Mix,medium,2019-10-26 12:38:00,2019-04-29 00:00:00,Intact Male,0.4166666666666667,0.0,2019,9
+A679690,2014-05-24 18:21:00,Stray,Sick,Dog,Intact Male,0.16666666666666666,Golden Retriever Mix,light,2014-05-24 18:53:00,2014-02-24 00:00:00,Intact Male,0.16666666666666666,0.0,2014,5
+A684704,2014-07-27 13:34:00,Stray,Nursing,Cat,Intact Female,0.005479452054794521,Domestic Shorthair Mix,dark,2014-07-29 14:34:00,2014-07-25 00:00:00,Intact Female,0.010958904109589041,0.0,2014,7
+A690563,2014-10-22 14:32:00,Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair Mix,dark,2014-10-23 09:00:00,2013-10-22 00:00:00,Intact Male,1.0,0.0,2014,10
+A681972,2014-06-22 11:24:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Siamese Mix,light,2014-06-29 14:49:00,2014-04-22 00:00:00,Neutered Male,0.16666666666666666,0.0,2014,6
+A697940,2015-03-04 14:22:00,Public Assist,Normal,Dog,Intact Female,7.0,Labrador Retriever Mix,dark,2015-03-11 17:00:00,2008-03-04 00:00:00,Intact Female,7.0,0.0,2015,3
+A711463,2015-09-07 12:02:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,dark,2015-11-14 15:18:00,2015-07-31 00:00:00,Neutered Male,0.25,0.0,2015,9
+A690521,2014-10-21 18:45:00,Wildlife,Normal,Other,Unknown,0.5,Bat Mix,dark,2014-10-21 19:01:00,2014-04-21 00:00:00,Unknown,0.5,1.0,2014,10
+A807892,2019-10-31 16:53:00,Stray,Nursing,Dog,Intact Male,0.07692307692307693,Labrador Retriever Mix,light,2019-12-07 18:38:00,2019-10-01 00:00:00,Neutered Male,0.16666666666666666,0.0,2019,10
+A773196,2018-05-29 11:21:00,Stray,Normal,Cat,Intact Female,0.07692307692307693,Domestic Shorthair Mix,light,2018-06-16 13:22:00,2018-04-29 00:00:00,Intact Female,0.08333333333333333,0.0,2018,5
+A809821,2019-12-02 10:30:00,Stray,Nursing,Dog,Intact Male,0.0,German Shepherd Mix,dark,2020-01-31 17:01:00,2019-12-02 00:00:00,Neutered Male,0.08333333333333333,0.0,2019,12
+A690703,2014-10-24 14:53:00,Stray,Normal,Dog,Intact Male,0.08333333333333333,Chihuahua Shorthair Mix,light,2014-11-06 13:48:00,2014-08-24 00:00:00,Neutered Male,0.16666666666666666,0.0,2014,10
+A782692,2018-10-19 17:55:00,Stray,Normal,Cat,Unknown,0.4166666666666667,Domestic Shorthair Mix,dark,2018-10-25 17:53:00,2018-05-19 00:00:00,Unknown,0.4166666666666667,0.0,2018,10
+A729846,2016-06-24 15:21:00,Stray,Nursing,Cat,Intact Male,0.07692307692307693,Domestic Shorthair Mix,dark,2016-06-24 15:24:00,2016-05-24 00:00:00,Intact Male,0.07692307692307693,0.0,2016,6
+A713136,2015-10-03 09:42:00,Owner Surrender,Normal,Cat,Spayed Female,5.0,Siamese Mix,dark,2015-10-07 14:23:00,2009-10-06 00:00:00,Spayed Female,6.0,0.0,2015,10
+A531598,2014-02-18 12:24:00,Stray,Normal,Dog,Neutered Male,6.0,Border Collie,dark,2014-02-18 16:53:00,2008-02-13 00:00:00,Neutered Male,6.0,0.0,2014,2
+A667384,2013-11-17 11:27:00,Stray,Normal,Dog,Intact Female,0.16666666666666666,Pit Bull Mix,light,2013-11-21 18:23:00,2013-09-02 00:00:00,Spayed Female,0.16666666666666666,0.0,2013,11
+A809449,2019-11-24 15:54:00,Stray,Normal,Dog,Intact Female,0.5833333333333334,Hovawart/Flat Coat Retriever,dark,2019-11-29 10:31:00,2019-03-29 00:00:00,Spayed Female,0.6666666666666666,0.0,2019,11
+A732900,2016-08-14 13:39:00,Stray,Injured,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,dark,2016-08-21 14:56:00,2016-06-23 00:00:00,Intact Male,0.08333333333333333,0.0,2016,8
+A812553,2020-01-24 15:21:00,Owner Surrender,Normal,Dog,Intact Female,0.5833333333333334,Pit Bull Mix,dark,2020-01-31 13:22:00,2019-06-24 00:00:00,Spayed Female,0.5833333333333334,0.0,2020,1
+A756596,2017-08-22 15:01:00,Stray,Normal,Dog,Intact Male,8.0,Miniature Schnauzer,dark,2017-08-31 14:20:00,2009-08-22 00:00:00,Neutered Male,8.0,0.0,2017,8
+A779184,2018-09-12 06:48:00,Owner Surrender,Normal,Cat,Spayed Female,0.25,Domestic Shorthair Mix,dark,2018-10-17 10:08:00,2018-05-28 00:00:00,Spayed Female,0.3333333333333333,0.0,2018,9
+A798794,2019-06-30 15:37:00,Stray,Normal,Cat,Intact Female,0.07692307692307693,Domestic Shorthair,dark,2019-07-02 14:39:00,2019-06-02 00:00:00,Intact Female,0.07692307692307693,0.0,2019,6
+A797531,2019-06-14 13:47:00,Stray,Normal,Cat,Intact Male,0.038461538461538464,Domestic Shorthair,dark,2019-06-14 15:47:00,2019-05-30 00:00:00,Intact Male,0.038461538461538464,0.0,2019,6
+A688855,2014-11-03 22:29:00,Stray,Normal,Dog,Neutered Male,4.0,German Shepherd/Pit Bull,medium,2014-11-04 16:13:00,2010-09-26 00:00:00,Neutered Male,4.0,0.0,2014,11
+A793289,2019-04-22 18:45:00,Stray,Normal,Cat,Intact Male,0.057692307692307696,Domestic Shorthair Mix,dark,2019-04-23 11:18:00,2019-04-01 00:00:00,Intact Male,0.057692307692307696,0.0,2019,4
+A702019,2015-10-14 15:34:00,Stray,Normal,Dog,Neutered Male,1.0,Labrador Retriever Mix,light,2016-01-15 18:43:00,2014-07-07 00:00:00,Neutered Male,1.0,0.0,2015,10
+A711795,2015-09-12 12:57:00,Stray,Normal,Cat,Unknown,0.3333333333333333,Domestic Shorthair Mix,dark,2015-09-12 13:11:00,2015-05-12 00:00:00,Unknown,0.3333333333333333,0.0,2015,9
+A694053,2014-12-19 11:42:00,Stray,Normal,Dog,Intact Male,0.019230769230769232,Anatol Shepherd Mix,dark,2014-12-26 16:13:00,2014-12-12 00:00:00,Intact Male,0.038461538461538464,0.0,2014,12
+A727015,2016-05-17 14:07:00,Wildlife,Normal,Other,Unknown,0.038461538461538464,Opossum,dark,2016-05-17 17:14:00,2016-05-01 00:00:00,Unknown,0.038461538461538464,1.0,2016,5
+A673936,2019-09-04 11:43:00,Stray,Normal,Cat,Neutered Male,6.0,Bombay Mix,dark,2019-09-04 13:40:00,2012-11-04 00:00:00,Neutered Male,6.0,0.0,2019,9
+A781168,2018-09-25 12:53:00,Stray,Normal,Cat,Intact Female,0.057692307692307696,Domestic Shorthair Mix,medium,2018-11-04 16:45:00,2018-09-02 00:00:00,Spayed Female,0.16666666666666666,0.0,2018,9
+A773583,2018-06-03 11:05:00,Stray,Normal,Dog,Neutered Male,1.0,Pit Bull Mix,dark,2018-06-10 19:38:00,2017-06-03 00:00:00,Neutered Male,1.0,0.0,2018,6
+A680835,2014-06-08 15:02:00,Stray,Normal,Cat,Intact Female,2.0,Manx Mix,dark,2014-06-13 08:00:00,2012-06-08 00:00:00,Intact Female,2.0,0.0,2014,6
+A794236,2019-05-09 12:47:00,Stray,Normal,Dog,Intact Female,0.6666666666666666,Miniature Poodle,dark,2019-05-13 19:20:00,2018-09-05 00:00:00,Intact Female,0.6666666666666666,0.0,2019,5
+A738321,2016-11-12 16:45:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Medium Hair Mix,dark,2016-11-19 14:51:00,2016-09-27 00:00:00,Neutered Male,0.08333333333333333,0.0,2016,11
+A673828,2014-03-03 12:51:00,Stray,Normal,Dog,Intact Male,1.0,Chihuahua Shorthair Mix,medium,2014-03-21 17:16:00,2012-09-03 00:00:00,Neutered Male,1.0,0.0,2014,3
+A631224,2017-12-20 16:11:00,Stray,Sick,Cat,Neutered Male,15.0,Domestic Longhair/Domestic Longhair,medium,2017-12-20 18:01:00,2002-07-02 00:00:00,Neutered Male,15.0,1.0,2017,12
+A711291,2015-09-05 09:10:00,Stray,Injured,Dog,Intact Male,1.0,Chihuahua Shorthair Mix,light,2015-09-11 16:04:00,2014-09-05 00:00:00,Intact Male,1.0,0.0,2015,9
+A714224,2015-10-19 17:19:00,Owner Surrender,Normal,Dog,Spayed Female,6.0,Australian Cattle Dog/Beagle,medium,2015-11-15 14:54:00,2009-04-19 00:00:00,Spayed Female,6.0,0.0,2015,10
+A731800,2016-07-27 15:53:00,Stray,Normal,Dog,Intact Male,1.0,Scottish Terrier Mix,dark,2016-07-31 18:00:00,2015-07-27 00:00:00,Neutered Male,1.0,0.0,2016,7
+A738368,2016-11-13 16:40:00,Stray,Normal,Cat,Intact Male,0.038461538461538464,Domestic Shorthair Mix,dark,2017-02-09 13:39:00,2016-10-29 00:00:00,Neutered Male,0.25,0.0,2016,11
+A799999,2019-07-15 10:31:00,Stray,Normal,Dog,Intact Male,0.75,Plott Hound,dark,2019-08-30 09:41:00,2018-09-15 00:00:00,Neutered Male,0.9166666666666666,0.0,2019,7
+A698997,2015-03-20 16:18:00,Stray,Normal,Dog,Intact Male,1.0,German Shepherd Mix,dark,2015-03-29 15:48:00,2014-03-20 00:00:00,Intact Male,1.0,0.0,2015,3
+A721351,2016-02-25 11:21:00,Stray,Normal,Dog,Intact Female,1.0,Pit Bull Mix,medium,2016-06-10 15:29:00,2015-02-25 00:00:00,Spayed Female,1.0,1.0,2016,2
+A757642,2017-09-04 15:54:00,Public Assist,Normal,Dog,Intact Male,6.0,German Shepherd Mix,dark,2017-10-04 17:47:00,2011-09-04 00:00:00,Intact Male,6.0,0.0,2017,9
+A728934,2016-06-11 11:18:00,Owner Surrender,Normal,Cat,Spayed Female,14.0,Domestic Shorthair Mix,light,2016-07-02 19:16:00,2002-06-11 00:00:00,Spayed Female,14.0,0.0,2016,6
+A787320,2019-01-11 11:49:00,Stray,Normal,Dog,Intact Female,2.0,German Shepherd Mix,light,2019-01-18 12:08:00,2017-01-11 00:00:00,Spayed Female,2.0,0.0,2019,1
+A655220,2014-01-22 15:14:00,Stray,Normal,Cat,Neutered Male,0.75,Domestic Longhair Mix,dark,2014-01-23 15:16:00,2013-04-22 00:00:00,Neutered Male,0.75,0.0,2014,1
+A711570,2015-09-09 09:05:00,Stray,Normal,Dog,Neutered Male,3.0,American Bulldog/Great Pyrenees,light,2015-09-15 11:27:00,2012-09-09 00:00:00,Neutered Male,3.0,0.0,2015,9
+A771903,2018-10-23 17:21:00,Stray,Normal,Dog,Intact Female,1.0,Maltese Mix,light,2018-10-30 11:44:00,2017-10-11 00:00:00,Spayed Female,1.0,0.0,2018,10
+A713237,2015-10-04 14:08:00,Wildlife,Sick,Other,Unknown,3.0,Raccoon Mix,dark,2015-10-05 09:25:00,2012-10-04 00:00:00,Unknown,3.0,1.0,2015,10
+A681122,2014-06-12 20:45:00,Public Assist,Normal,Cat,Intact Female,8.0,Domestic Shorthair Mix,dark,2014-06-24 17:02:00,2006-06-12 00:00:00,Spayed Female,8.0,0.0,2014,6
+A474001,2017-12-03 11:25:00,Owner Surrender,Normal,Cat,Spayed Female,11.0,Domestic Longhair Mix,light,2017-12-29 17:49:00,2006-07-27 00:00:00,Spayed Female,11.0,0.0,2017,12
+A718321,2015-12-27 17:33:00,Owner Surrender,Normal,Cat,Spayed Female,1.0,Domestic Shorthair Mix,dark,2016-01-10 14:26:00,2014-12-27 00:00:00,Spayed Female,1.0,0.0,2015,12
+A721642,2016-03-01 16:56:00,Stray,Normal,Cat,Intact Female,0.057692307692307696,Domestic Shorthair Mix,dark,2016-03-02 09:48:00,2016-02-08 00:00:00,Intact Female,0.057692307692307696,1.0,2016,3
+A775681,2018-07-03 14:14:00,Stray,Normal,Dog,Intact Female,0.16666666666666666,Chihuahua Shorthair Mix,Tricolor,2019-01-22 14:48:00,2018-04-07 00:00:00,Intact Female,0.75,0.0,2018,7
+A702049,2015-05-08 12:49:00,Stray,Normal,Cat,Unknown,0.019230769230769232,Domestic Shorthair Mix,medium,2015-05-08 14:59:00,2015-04-28 00:00:00,Unknown,0.019230769230769232,0.0,2015,5
+A703327,2015-05-23 12:00:00,Stray,Normal,Dog,Neutered Male,2.0,Australian Cattle Dog Mix,Tricolor,2015-05-23 17:01:00,2012-11-01 00:00:00,Neutered Male,2.0,0.0,2015,5
+A666841,2013-11-07 19:47:00,Stray,Normal,Dog,Intact Male,0.08333333333333333,Labrador Retriever/Rottweiler,dark,2013-11-08 15:02:00,2013-09-07 00:00:00,Intact Male,0.16666666666666666,0.0,2013,11
+A724201,2016-04-13 16:41:00,Stray,Normal,Dog,Neutered Male,5.0,Rhod Ridgeback Mix,medium,2016-04-13 19:01:00,2011-04-13 00:00:00,Neutered Male,5.0,0.0,2016,4
+A711101,2015-09-01 18:17:00,Stray,Normal,Dog,Spayed Female,0.16666666666666666,Labrador Retriever Mix,dark,2015-09-04 14:12:00,2015-06-09 00:00:00,Spayed Female,0.16666666666666666,0.0,2015,9
+A701077,2015-04-24 18:04:00,Public Assist,Normal,Dog,Neutered Male,1.0,Chihuahua Shorthair Mix,medium,2015-05-03 11:55:00,2013-10-23 00:00:00,Neutered Male,1.0,0.0,2015,4
+A768584,2018-03-22 11:15:00,Owner Surrender,Normal,Dog,Intact Female,2.0,Anatol Shepherd Mix,dark,2018-04-08 17:13:00,2016-03-22 00:00:00,Spayed Female,2.0,0.0,2018,3
+A687904,2014-09-11 16:33:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,dark,2014-09-29 17:50:00,2014-07-27 00:00:00,Intact Male,0.16666666666666666,0.0,2014,9
+A667105,2014-09-19 15:14:00,Stray,Normal,Dog,Neutered Male,6.0,Dachshund,medium,2014-09-19 16:13:00,2007-11-12 00:00:00,Neutered Male,6.0,0.0,2014,9
+A792044,2019-04-04 18:38:00,Stray,Normal,Cat,Intact Female,2.0,Domestic Shorthair Mix,medium,2019-06-11 14:48:00,2017-04-04 00:00:00,Spayed Female,2.0,0.0,2019,4
+A760524,2017-11-15 18:58:00,Owner Surrender,Normal,Dog,Neutered Male,4.0,Labrador Retriever Mix,dark,2017-12-27 15:27:00,2013-10-19 00:00:00,Neutered Male,4.0,0.0,2017,11
+A749339,2017-05-13 15:43:00,Stray,Injured,Dog,Neutered Male,5.0,Labrador Retriever Mix,light,2017-05-14 14:52:00,2012-05-14 00:00:00,Neutered Male,5.0,0.0,2017,5
+A733538,2016-08-23 17:16:00,Owner Surrender,Normal,Cat,Intact Male,1.0,Domestic Shorthair Mix,light,2016-10-05 13:33:00,2015-08-23 00:00:00,Neutered Male,1.0,0.0,2016,8
+A680770,2014-06-07 15:02:00,Stray,Injured,Dog,Unknown,0.005479452054794521,Dachshund Mix,medium,2014-06-07 17:16:00,2014-06-05 00:00:00,Unknown,0.005479452054794521,0.0,2014,6
+A771947,2018-05-12 13:35:00,Stray,Sick,Cat,Spayed Female,9.0,Domestic Shorthair Mix,medium,2019-03-23 16:21:00,2008-11-12 00:00:00,Spayed Female,10.0,0.0,2018,5
+A710639,2015-08-25 13:57:00,Stray,Normal,Cat,Neutered Male,8.0,Domestic Shorthair Mix,dark,2015-08-26 09:00:00,2007-08-25 00:00:00,Neutered Male,8.0,0.0,2015,8
+A806264,2019-10-08 07:51:00,Wildlife,Sick,Other,Unknown,2.0,Opossum,dark,2019-10-08 12:19:00,2017-10-08 00:00:00,Unknown,2.0,1.0,2019,10
+A691855,2014-11-12 19:05:00,Stray,Normal,Dog,Neutered Male,1.0,Labrador Retriever Mix,dark,2014-11-16 15:22:00,2013-11-10 00:00:00,Neutered Male,1.0,0.0,2014,11
+A807921,2019-11-01 11:11:00,Owner Surrender,Normal,Cat,Intact Female,0.25,Domestic Shorthair,medium,2019-11-15 16:51:00,2019-08-01 00:00:00,Spayed Female,0.25,0.0,2019,11
+A691725,2014-11-08 13:02:00,Stray,Normal,Cat,Intact Male,0.057692307692307696,Domestic Shorthair Mix,dark,2014-11-08 15:37:00,2014-10-17 00:00:00,Intact Male,0.057692307692307696,0.0,2014,11
+A772479,2018-05-20 11:48:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair Mix,dark,2018-08-19 13:35:00,2018-03-20 00:00:00,Spayed Female,0.3333333333333333,0.0,2018,5
+A706808,2015-07-03 15:41:00,Stray,Normal,Cat,Intact Female,0.057692307692307696,Domestic Shorthair Mix,dark,2015-07-27 13:38:00,2015-06-11 00:00:00,Intact Female,0.08333333333333333,1.0,2015,7
+A787200,2019-01-09 14:16:00,Stray,Normal,Dog,Intact Male,0.08333333333333333,Labrador Retriever Mix,light,2019-01-13 13:44:00,2018-11-09 00:00:00,Intact Male,0.16666666666666666,0.0,2019,1
+A705102,2015-06-13 11:30:00,Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair Mix,medium,2015-06-14 09:00:00,2014-06-13 00:00:00,Intact Female,1.0,0.0,2015,6
+A722352,2016-03-31 18:13:00,Owner Surrender,Normal,Dog,Spayed Female,0.5833333333333334,Labrador Retriever Mix,dark,2016-04-02 18:13:00,2015-08-15 00:00:00,Spayed Female,0.5833333333333334,0.0,2016,3
+A806239,2019-10-07 15:17:00,Wildlife,Injured,Other,Unknown,2.0,Skunk,dark,2019-10-07 10:31:00,2017-10-07 00:00:00,Unknown,2.0,1.0,2019,10
+A757425,2017-09-02 13:03:00,Public Assist,Normal,Dog,Neutered Male,2.0,Chinese Sharpei Mix,medium,2017-09-15 14:20:00,2015-09-02 00:00:00,Neutered Male,2.0,0.0,2017,9
+A723213,2016-03-28 14:15:00,Wildlife,Normal,Other,Unknown,1.0,Bat Mix,dark,2016-03-28 15:25:00,2015-03-28 00:00:00,Unknown,1.0,1.0,2016,3
+A788943,2019-02-12 11:36:00,Stray,Normal,Dog,Intact Female,0.4166666666666667,Pit Bull Mix,light,2019-02-17 15:30:00,2018-09-12 00:00:00,Spayed Female,0.4166666666666667,0.0,2019,2
+A800994,2019-07-29 17:29:00,Stray,Normal,Dog,Neutered Male,2.0,Labrador Retriever,dark,2019-08-31 18:40:00,2017-07-29 00:00:00,Neutered Male,2.0,0.0,2019,7
+A667048,2017-04-18 11:14:00,Owner Surrender,Sick,Dog,Neutered Male,8.0,Pit Bull Mix,dark,2017-04-18 16:00:00,2008-07-18 00:00:00,Neutered Male,8.0,0.0,2017,4
+A749690,2017-05-18 12:21:00,Owner Surrender,Normal,Cat,Neutered Male,6.0,Domestic Shorthair Mix,dark,2017-05-22 18:13:00,2011-05-18 00:00:00,Neutered Male,6.0,0.0,2017,5
+A774615,2018-06-18 11:00:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair Mix,medium,2018-07-12 13:28:00,2018-04-29 00:00:00,Intact Female,0.16666666666666666,0.0,2018,6
+A794635,2019-05-10 13:18:00,Stray,Normal,Dog,Neutered Male,2.0,Labrador Retriever/Boxer,dark,2019-05-22 13:11:00,2017-05-10 00:00:00,Neutered Male,2.0,0.0,2019,5
+A773881,2018-06-07 08:25:00,Stray,Aged,Dog,Neutered Male,24.0,German Shepherd Mix,medium,2018-06-07 15:33:00,1994-06-07 00:00:00,Neutered Male,24.0,0.0,2018,6
+A797942,2019-06-19 14:34:00,Stray,Normal,Cat,Intact Female,0.057692307692307696,Domestic Shorthair,dark,2019-06-19 18:18:00,2019-05-29 00:00:00,Intact Female,0.057692307692307696,0.0,2019,6
+A634578,2016-05-22 13:18:00,Stray,Normal,Dog,Neutered Male,7.0,Labrador Retriever Mix,dark,2016-12-15 10:41:00,2008-08-12 00:00:00,Neutered Male,8.0,0.0,2016,5
+A805907,2019-10-03 14:13:00,Stray,Normal,Cat,Intact Female,0.057692307692307696,Domestic Medium Hair,dark,2019-11-18 17:47:00,2019-09-11 00:00:00,Spayed Female,0.16666666666666666,0.0,2019,10
+A757115,2017-08-30 11:30:00,Wildlife,Injured,Other,Unknown,1.0,Opossum,dark,2017-08-30 11:51:00,2016-08-30 00:00:00,Unknown,1.0,1.0,2017,8
+A747825,2017-04-25 12:55:00,Stray,Nursing,Cat,Intact Female,0.0136986301369863,Domestic Shorthair Mix,dark,2017-04-25 15:39:00,2017-04-20 00:00:00,Intact Female,0.0136986301369863,0.0,2017,4
+A733252,2016-12-16 08:59:00,Stray,Normal,Dog,Spayed Female,0.6666666666666666,Siberian Husky,dark,2016-12-16 14:43:00,2016-04-13 00:00:00,Spayed Female,0.6666666666666666,0.0,2016,12
+A726074,2016-05-05 17:42:00,Owner Surrender,Normal,Dog,Spayed Female,7.0,Rhod Ridgeback Mix,medium,2016-07-28 00:00:00,2008-11-05 00:00:00,Spayed Female,7.0,0.0,2016,5
+A719638,2016-01-24 14:25:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Longhair Mix,dark,2016-02-03 12:45:00,2015-11-24 00:00:00,Intact Female,0.16666666666666666,0.0,2016,1
+A665009,2013-10-12 13:07:00,Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,Chihuahua Shorthair Mix,medium,2013-10-12 15:04:00,2013-08-21 00:00:00,Intact Male,0.08333333333333333,0.0,2013,10
+A777227,2018-07-25 13:29:00,Stray,Normal,Dog,Intact Male,0.3333333333333333,Chihuahua Shorthair/Beagle,medium,2018-07-29 16:21:00,2018-02-25 00:00:00,Neutered Male,0.4166666666666667,0.0,2018,7
+A680253,2014-05-31 13:38:00,Stray,Normal,Dog,Intact Female,0.8333333333333334,Golden Retriever Mix,medium,2014-06-04 16:35:00,2013-07-01 00:00:00,Intact Female,0.9166666666666666,0.0,2014,5
+A681025,2014-06-11 13:55:00,Stray,Normal,Dog,Intact Female,1.0,Chihuahua Shorthair Mix,medium,2014-06-20 16:16:00,2013-06-11 00:00:00,Spayed Female,1.0,0.0,2014,6
+A666659,2013-11-05 12:25:00,Stray,Normal,Dog,Intact Female,0.08333333333333333,Labrador Retriever Mix,dark,2013-11-10 16:42:00,2013-09-05 00:00:00,Intact Female,0.16666666666666666,0.0,2013,11
+A799826,2019-07-12 12:52:00,Stray,Normal,Dog,Intact Female,0.08333333333333333,Labrador Retriever,dark,2019-07-23 14:21:00,2019-05-20 00:00:00,Intact Female,0.16666666666666666,0.0,2019,7
+A772560,2018-05-21 11:03:00,Owner Surrender,Normal,Cat,Spayed Female,6.0,Balinese,medium,2018-05-29 18:15:00,2012-05-21 00:00:00,Spayed Female,6.0,0.0,2018,5
+A735895,2016-10-01 11:06:00,Stray,Normal,Dog,Intact Male,0.25,German Shepherd Mix,medium,2016-10-07 12:33:00,2016-07-01 00:00:00,Neutered Male,0.25,0.0,2016,10
+A779158,2018-08-26 14:52:00,Wildlife,Sick,Other,Unknown,0.07692307692307693,Raccoon,dark,2018-08-26 19:12:00,2018-07-26 00:00:00,Unknown,0.07692307692307693,1.0,2018,8
+A676808,2014-04-15 13:39:00,Stray,Normal,Dog,Intact Male,1.0,Chihuahua Shorthair Mix,dark,2014-04-26 13:09:00,2013-04-15 00:00:00,Neutered Male,1.0,0.0,2014,4
+A721935,2016-03-07 16:30:00,Stray,Normal,Dog,Intact Male,5.0,Dachshund Mix,dark,2016-03-11 17:10:00,2011-03-07 00:00:00,Neutered Male,5.0,0.0,2016,3
+A711416,2015-09-06 14:41:00,Stray,Normal,Cat,Unknown,0.038461538461538464,Domestic Shorthair Mix,dark,2015-09-06 16:34:00,2015-08-22 00:00:00,Unknown,0.038461538461538464,0.0,2015,9
+A739520,2016-12-03 18:53:00,Stray,Normal,Cat,Intact Female,0.057692307692307696,Domestic Shorthair Mix,dark,2017-02-11 17:44:00,2016-11-06 00:00:00,Spayed Female,0.25,0.0,2016,12
+A690782,2015-03-15 11:10:00,Public Assist,Normal,Dog,Intact Male,7.0,German Shepherd/Rottweiler,medium,2015-03-24 18:24:00,2007-10-26 00:00:00,Intact Male,7.0,0.0,2015,3
+A677698,2014-04-28 10:07:00,Stray,Nursing,Cat,Intact Male,0.019230769230769232,Domestic Shorthair Mix,dark,2014-04-28 10:36:00,2014-04-18 00:00:00,Intact Male,0.019230769230769232,0.0,2014,4
+A697168,2015-02-19 08:54:00,Stray,Injured,Dog,Neutered Male,5.0,Pit Bull Mix,dark,2015-02-28 14:56:00,2010-02-19 00:00:00,Neutered Male,5.0,0.0,2015,2
+A680875,2014-06-09 12:58:00,Stray,Normal,Dog,Intact Female,13.0,Chihuahua Shorthair Mix,medium,2014-06-09 19:33:00,2001-06-09 00:00:00,Intact Female,13.0,0.0,2014,6
+A734485,2016-09-07 13:07:00,Stray,Normal,Dog,Intact Female,1.0,Labrador Retriever/Whippet,dark,2016-09-13 00:00:00,2015-09-07 00:00:00,Spayed Female,1.0,0.0,2016,9
+A808752,2019-11-13 13:18:00,Stray,Nursing,Cat,Intact Female,0.057692307692307696,Domestic Shorthair,dark,2019-11-13 13:49:00,2019-10-22 00:00:00,Intact Female,0.057692307692307696,0.0,2019,11
+A792547,2019-04-12 11:13:00,Stray,Normal,Cat,Intact Female,0.038461538461538464,Domestic Shorthair Mix,dark,2019-04-12 16:17:00,2019-03-28 00:00:00,Intact Female,0.038461538461538464,0.0,2019,4
+A761967,2017-11-12 15:55:00,Stray,Normal,Dog,Neutered Male,4.0,Labrador Retriever Mix,dark,2018-03-10 10:58:00,2013-11-12 00:00:00,Neutered Male,4.0,0.0,2017,11
+A716372,2015-11-18 17:11:00,Stray,Normal,Dog,Intact Male,0.08333333333333333,Boxer Mix,medium,2016-03-11 12:09:00,2015-10-01 00:00:00,Neutered Male,0.4166666666666667,0.0,2015,11
+A772753,2018-05-23 11:35:00,Stray,Normal,Dog,Intact Female,0.25,Labrador Retriever Mix,dark,2018-05-23 16:35:00,2018-01-23 00:00:00,Intact Female,0.25,0.0,2018,5
+A764722,2018-01-05 07:06:00,Stray,Normal,Dog,Intact Male,0.08333333333333333,Labrador Retriever Mix,dark,2018-01-08 16:48:00,2017-11-05 00:00:00,Intact Male,0.16666666666666666,1.0,2018,1
+A753344,2017-07-05 11:05:00,Owner Surrender,Sick,Cat,Neutered Male,14.0,Himalayan,light,2017-07-05 15:19:00,2003-07-05 00:00:00,Neutered Male,14.0,0.0,2017,7
+A782090,2018-10-10 14:34:00,Wildlife,Sick,Other,Unknown,1.0,Bat Mix,dark,2018-10-10 16:42:00,2017-10-10 00:00:00,Unknown,1.0,1.0,2018,10
+A706351,2015-06-27 16:32:00,Stray,Normal,Dog,Neutered Male,2.0,Cairn Terrier Mix,dark,2015-07-02 12:38:00,2013-06-27 00:00:00,Neutered Male,2.0,0.0,2015,6
+A711541,2015-09-08 14:49:00,Stray,Normal,Dog,Neutered Male,10.0,Labrador Retriever Mix,light,2015-09-08 18:15:00,2005-09-08 00:00:00,Neutered Male,10.0,0.0,2015,9
+A761452,2017-11-05 09:29:00,Public Assist,Normal,Dog,Intact Male,0.07692307692307693,Border Collie Mix,dark,2017-11-08 07:48:00,2017-10-05 00:00:00,Intact Male,0.07692307692307693,0.0,2017,11
+A741794,2017-01-09 07:11:00,Stray,Injured,Dog,Intact Male,2.0,Pit Bull,dark,2017-01-09 09:46:00,2015-01-09 00:00:00,Intact Male,2.0,1.0,2017,1
+A679147,2014-05-19 15:54:00,Public Assist,Normal,Dog,Intact Male,2.0,Miniature Poodle/Miniature Schnauzer,dark,2014-05-27 17:51:00,2012-05-17 00:00:00,Intact Male,2.0,0.0,2014,5
+A736992,2016-10-20 15:07:00,Stray,Normal,Bird,Unknown,1.0,Cockatiel Mix,dark,2016-10-24 13:11:00,2015-10-20 00:00:00,Unknown,1.0,0.0,2016,10
+A802877,2019-08-24 11:45:00,Stray,Normal,Dog,Intact Female,1.0,Miniature Poodle/Lhasa Apso,light,2019-08-29 12:38:00,2018-02-24 00:00:00,Intact Female,1.0,0.0,2019,8
+A784159,2018-11-12 15:38:00,Stray,Normal,Dog,Intact Male,1.0,Labrador Retriever Mix,dark,2019-02-07 17:34:00,2017-11-12 00:00:00,Neutered Male,1.0,0.0,2018,11
+A723759,2016-04-06 11:31:00,Owner Surrender,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,medium,2016-04-07 00:00:00,2016-02-06 00:00:00,Intact Male,0.08333333333333333,0.0,2016,4
+A783896,2018-11-08 12:11:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Medium Hair Mix,medium,2018-11-23 13:28:00,2018-09-23 00:00:00,Intact Female,0.08333333333333333,0.0,2018,11
+A769603,2018-04-07 12:00:00,Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair Mix,medium,2018-04-10 18:30:00,2017-04-07 00:00:00,Intact Male,1.0,0.0,2018,4
+A674107,2014-03-07 13:15:00,Stray,Aged,Dog,Spayed Female,10.0,Labrador Retriever Mix,medium,2014-03-14 12:43:00,2004-03-07 00:00:00,Spayed Female,10.0,0.0,2014,3
+A718873,2016-05-23 13:25:00,Owner Surrender,Normal,Dog,Spayed Female,1.0,Boxer Mix,dark,2016-05-31 19:27:00,2015-01-08 00:00:00,Spayed Female,1.0,0.0,2016,5
+A790789,2019-03-16 14:54:00,Owner Surrender,Normal,Dog,Intact Male,1.0,German Shepherd Mix,light,2019-03-20 12:18:00,2017-11-17 00:00:00,Intact Male,1.0,0.0,2019,3
+A806632,2019-10-13 15:33:00,Stray,Injured,Dog,Intact Male,1.0,Alaskan Husky,dark,2019-10-19 16:45:00,2018-10-13 00:00:00,Neutered Male,1.0,0.0,2019,10
+A712057,2015-09-16 12:16:00,Owner Surrender,Normal,Dog,Neutered Male,7.0,Pomeranian Mix,light,2015-09-17 12:22:00,2008-09-16 00:00:00,Neutered Male,7.0,0.0,2015,9
+A762652,2017-11-22 12:55:00,Stray,Normal,Dog,Intact Female,0.16666666666666666,Pit Bull Mix,medium,2017-11-27 18:56:00,2017-09-15 00:00:00,Spayed Female,0.16666666666666666,0.0,2017,11
+A712713,2015-09-27 11:00:00,Stray,Normal,Cat,Intact Male,0.019230769230769232,Domestic Shorthair Mix,light,2015-11-29 17:24:00,2015-09-19 00:00:00,Neutered Male,0.16666666666666666,0.0,2015,9
+A773406,2018-05-31 16:13:00,Stray,Normal,Cat,Unknown,0.057692307692307696,Domestic Shorthair Mix,dark,2018-05-31 18:13:00,2018-05-10 00:00:00,Unknown,0.057692307692307696,0.0,2018,5
+A751371,2017-06-07 11:55:00,Stray,Normal,Cat,Neutered Male,9.0,Domestic Shorthair,medium,2017-09-05 10:23:00,2007-07-14 00:00:00,Neutered Male,10.0,0.0,2017,6
+A743620,2017-03-24 13:44:00,Owner Surrender,Normal,Cat,Neutered Male,2.0,Siamese Mix,light,2017-03-24 19:13:00,2015-02-13 00:00:00,Neutered Male,2.0,0.0,2017,3
+A697475,2015-02-24 14:32:00,Stray,Sick,Dog,Intact Female,14.0,Dachshund Mix,medium,2015-03-01 14:53:00,2001-02-24 00:00:00,Intact Female,14.0,1.0,2015,2
+A757139,2017-09-02 13:50:00,Public Assist,Normal,Dog,Intact Male,1.0,German Shepherd Mix,dark,2017-09-10 18:26:00,2016-03-02 00:00:00,Neutered Male,1.0,0.0,2017,9
+A748917,2017-05-08 14:16:00,Stray,Normal,Dog,Intact Female,1.0,Bull Terrier,dark,2017-05-14 17:59:00,2016-05-08 00:00:00,Spayed Female,1.0,0.0,2017,5
+A769204,2018-04-01 12:18:00,Stray,Normal,Livestock,Intact Male,0.4166666666666667,Sheep Mix,dark,2019-03-26 10:32:00,2017-10-01 00:00:00,Intact Male,1.0,0.0,2018,4
+A681983,2014-06-22 13:26:00,Stray,Normal,Cat,Spayed Female,8.0,Domestic Shorthair Mix,medium,2014-06-23 09:00:00,2006-06-22 00:00:00,Spayed Female,8.0,0.0,2014,6
+A704235,2015-06-02 17:06:00,Stray,Normal,Dog,Intact Male,3.0,Chihuahua Shorthair Mix,medium,2015-07-03 17:12:00,2012-06-02 00:00:00,Neutered Male,3.0,0.0,2015,6
+A705495,2015-06-18 11:15:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,dark,2015-06-30 12:14:00,2015-04-30 00:00:00,Neutered Male,0.08333333333333333,0.0,2015,6
+A758584,2017-09-18 19:08:00,Stray,Normal,Cat,Intact Male,0.019230769230769232,American Shorthair Mix,light,2017-11-26 11:37:00,2017-09-09 00:00:00,Neutered Male,0.16666666666666666,0.0,2017,9
+A729276,2016-06-15 14:50:00,Stray,Normal,Dog,Intact Male,0.08333333333333333,Plott Hound Mix,dark,2016-06-20 13:33:00,2016-04-15 00:00:00,Neutered Male,0.16666666666666666,0.0,2016,6
+A748665,2017-05-05 11:17:00,Wildlife,Injured,Other,Unknown,2.0,Raccoon Mix,dark,2017-05-05 11:42:00,2015-05-05 00:00:00,Unknown,2.0,1.0,2017,5
+A755329,2017-08-01 15:29:00,Stray,Normal,Dog,Intact Male,2.0,Australian Kelpie Mix,dark,2017-08-05 17:18:00,2015-08-01 00:00:00,Neutered Male,2.0,0.0,2017,8
+A771739,2018-05-08 11:22:00,Stray,Normal,Cat,Intact Male,0.057692307692307696,Domestic Shorthair Mix,light,2018-06-23 19:00:00,2018-04-13 00:00:00,Neutered Male,0.16666666666666666,0.0,2018,5
+A774431,2018-06-15 12:21:00,Stray,Normal,Cat,Intact Female,0.16666666666666666,Domestic Shorthair Mix,medium,2018-06-19 18:42:00,2018-03-19 00:00:00,Spayed Female,0.25,0.0,2018,6
+A802520,2019-08-19 14:57:00,Owner Surrender,Normal,Cat,Spayed Female,10.0,Domestic Shorthair Mix,light,2019-08-24 12:02:00,2009-08-19 00:00:00,Spayed Female,10.0,0.0,2019,8
+A757719,2017-09-05 17:38:00,Stray,Normal,Cat,Intact Male,0.038461538461538464,Domestic Shorthair Mix,light,2017-09-05 18:39:00,2017-08-21 00:00:00,Intact Male,0.038461538461538464,0.0,2017,9
+A796750,2019-06-04 19:23:00,Owner Surrender,Normal,Other,Unknown,1.0,Guinea Pig,medium,2019-06-05 00:00:00,2018-06-04 00:00:00,Unknown,1.0,0.0,2019,6
+A782393,2018-10-14 14:49:00,Stray,Injured,Cat,Intact Female,0.08333333333333333,Siamese Mix,medium,2018-10-15 10:03:00,2018-09-07 00:00:00,Intact Female,0.08333333333333333,1.0,2018,10
+A765528,2018-01-22 10:40:00,Wildlife,Sick,Other,Unknown,1.0,Raccoon Mix,dark,2018-01-22 11:51:00,2017-01-22 00:00:00,Unknown,1.0,1.0,2018,1
+A682937,2014-07-05 08:30:00,Stray,Injured,Cat,Intact Female,0.3333333333333333,Domestic Shorthair Mix,dark,2014-07-22 18:43:00,2014-03-05 00:00:00,Spayed Female,0.3333333333333333,0.0,2014,7
+A742739,2017-01-27 12:22:00,Owner Surrender,Normal,Dog,Intact Male,1.0,Chinese Crested Mix,dark,2017-01-30 22:38:00,2015-07-27 00:00:00,Neutered Male,1.0,0.0,2017,1
+A728908,2016-09-21 10:04:00,Owner Surrender,Normal,Dog,Neutered Male,2.0,Labrador Retriever Mix,dark,2016-11-15 02:51:00,2014-06-10 00:00:00,Neutered Male,2.0,0.0,2016,9
+A673089,2014-03-22 16:32:00,Owner Surrender,Normal,Dog,Spayed Female,10.0,Maltese Mix,light,2014-03-23 17:16:00,2004-02-19 00:00:00,Spayed Female,10.0,0.0,2014,3
+A783865,2018-11-07 16:55:00,Stray,Normal,Dog,Intact Female,4.0,Staffordshire Mix,dark,2018-12-13 00:00:00,2013-11-13 00:00:00,Intact Female,5.0,0.0,2018,11
+A751032,2017-06-03 13:52:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair Mix,dark,2017-07-19 13:22:00,2017-04-24 00:00:00,Spayed Female,0.16666666666666666,0.0,2017,6
+A776473,2018-07-14 12:27:00,Stray,Normal,Cat,Intact Female,2.0,Domestic Shorthair Mix,dark,2018-07-18 14:39:00,2016-07-14 00:00:00,Intact Female,2.0,0.0,2018,7
+A808377,2019-11-07 18:19:00,Stray,Normal,Dog,Intact Female,2.0,Pit Bull,dark,2019-11-29 12:23:00,2017-11-07 00:00:00,Spayed Female,2.0,0.0,2019,11
+A672563,2014-02-12 16:00:00,Stray,Normal,Dog,Intact Female,4.0,Chihuahua Shorthair Mix,medium,2014-02-13 18:53:00,2010-02-12 00:00:00,Spayed Female,4.0,0.0,2014,2
+A756430,2017-08-29 18:16:00,Owner Surrender,Normal,Dog,Neutered Male,0.16666666666666666,Boxer Mix,medium,2017-08-30 15:35:00,2017-06-15 00:00:00,Neutered Male,0.16666666666666666,0.0,2017,8
+A775092,2018-07-13 13:10:00,Owner Surrender,Normal,Dog,Neutered Male,0.3333333333333333,German Shepherd/Labrador Retriever,dark,2018-07-14 19:06:00,2018-02-24 00:00:00,Neutered Male,0.3333333333333333,0.0,2018,7
+A683412,2014-07-10 10:45:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Siamese Mix,light,2014-07-14 12:35:00,2014-05-10 00:00:00,Intact Male,0.16666666666666666,0.0,2014,7
+A697416,2015-02-23 14:53:00,Stray,Normal,Cat,Unknown,2.0,Domestic Shorthair Mix,dark,2015-02-24 09:00:00,2013-02-23 00:00:00,Unknown,2.0,0.0,2015,2
+A650538,2015-02-10 14:48:00,Stray,Normal,Dog,Intact Male,2.0,Chihuahua Shorthair Mix,dark,2015-02-12 14:50:00,2012-10-29 00:00:00,Neutered Male,2.0,0.0,2015,2
+A801471,2019-08-04 16:04:00,Owner Surrender,Normal,Dog,Intact Male,0.07692307692307693,Pit Bull,medium,2019-08-05 18:18:00,2019-07-04 00:00:00,Intact Male,0.07692307692307693,0.0,2019,8
+A469338,2014-05-04 16:22:00,Stray,Normal,Dog,Neutered Male,10.0,Labrador Retriever Mix,dark,2014-05-04 16:53:00,2004-04-25 00:00:00,Neutered Male,10.0,0.0,2014,5
+A688705,2014-09-22 15:58:00,Stray,Normal,Cat,Intact Female,0.16666666666666666,Domestic Shorthair Mix,light,2014-10-04 18:02:00,2014-07-07 00:00:00,Spayed Female,0.16666666666666666,0.0,2014,9
+A655759,2016-03-29 11:37:00,Owner Surrender,Normal,Dog,Spayed Female,3.0,Golden Retriever Mix,light,2016-04-30 17:59:00,2013-01-05 00:00:00,Spayed Female,3.0,0.0,2016,3
+A725784,2016-05-03 11:12:00,Owner Surrender,Normal,Cat,Neutered Male,4.0,Domestic Medium Hair Mix,medium,2016-05-16 16:07:00,2012-05-03 00:00:00,Neutered Male,4.0,0.0,2016,5
+A719481,2016-01-21 11:06:00,Stray,Normal,Dog,Intact Male,0.08333333333333333,Labrador Retriever Mix,light,2016-01-23 16:01:00,2015-11-30 00:00:00,Intact Male,0.08333333333333333,0.0,2016,1
+A700786,2015-04-19 15:11:00,Stray,Nursing,Cat,Intact Male,0.057692307692307696,Domestic Shorthair Mix,dark,2015-04-19 19:06:00,2015-03-28 00:00:00,Intact Male,0.057692307692307696,0.0,2015,4
+A681104,2014-06-12 16:06:00,Stray,Normal,Cat,Spayed Female,7.0,Domestic Longhair Mix,medium,2014-06-13 13:05:00,2007-06-12 00:00:00,Spayed Female,7.0,1.0,2014,6
+A676581,2014-04-12 10:45:00,Public Assist,Normal,Dog,Spayed Female,9.0,Miniature Schnauzer Mix,light,2014-04-13 12:22:00,2005-04-12 00:00:00,Spayed Female,9.0,0.0,2014,4
+A791458,2019-03-23 13:04:00,Stray,Normal,Cat,Intact Female,0.0,Domestic Shorthair Mix,dark,2019-06-18 12:09:00,2019-03-25 00:00:00,Spayed Female,0.16666666666666666,0.0,2019,3
+A714182,2015-10-19 12:35:00,Wildlife,Normal,Other,Unknown,1.0,Skunk,dark,2015-10-19 13:34:00,2014-10-19 00:00:00,Unknown,1.0,1.0,2015,10
+A795583,2019-05-22 12:19:00,Stray,Normal,Other,Intact Male,1.0,Rabbit Sh,dark,2019-06-07 18:54:00,2018-05-22 00:00:00,Neutered Male,1.0,0.0,2019,5
+A729868,2016-06-24 17:23:00,Stray,Normal,Cat,Intact Female,0.16666666666666666,Domestic Medium Hair Mix,medium,2016-09-30 12:59:00,2016-04-18 00:00:00,Spayed Female,0.4166666666666667,0.0,2016,6
+A737980,2016-11-07 17:21:00,Stray,Normal,Dog,Intact Female,0.9166666666666666,Blue Lacy,medium,2016-11-11 19:11:00,2015-12-07 00:00:00,Spayed Female,0.9166666666666666,0.0,2016,11
+A810938,2019-12-23 11:56:00,Stray,Normal,Dog,Intact Male,2.0,Smooth Fox Terrier,dark,2019-12-31 16:16:00,2017-12-23 00:00:00,Neutered Male,2.0,0.0,2019,12
+A757119,2017-08-30 13:30:00,Public Assist,Normal,Dog,Spayed Female,8.0,Labrador Retriever Mix,dark,2017-10-13 11:27:00,2009-08-30 00:00:00,Spayed Female,8.0,0.0,2017,8
+A705186,2015-06-14 13:48:00,Stray,Nursing,Cat,Unknown,0.038461538461538464,Domestic Shorthair Mix,light,2015-06-14 14:31:00,2015-05-30 00:00:00,Unknown,0.038461538461538464,0.0,2015,6
+A689346,2014-10-02 14:23:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Medium Hair Mix,light,2014-10-13 14:54:00,2014-08-26 00:00:00,Intact Male,0.08333333333333333,0.0,2014,10
+A766386,2018-02-08 11:05:00,Stray,Normal,Dog,Intact Male,1.0,Labrador Retriever Mix,dark,2018-02-08 17:06:00,2017-02-08 00:00:00,Intact Male,1.0,0.0,2018,2
+A693399,2014-12-07 12:16:00,Stray,Normal,Dog,Spayed Female,13.0,Pit Bull/Chinese Sharpei,dark,2014-12-07 15:40:00,2001-12-07 00:00:00,Spayed Female,13.0,0.0,2014,12
+A789048,2019-02-14 11:12:00,Public Assist,Normal,Dog,Intact Female,1.0,Australian Shepherd/Labrador Retriever,dark,2019-02-21 12:11:00,2017-11-13 00:00:00,Intact Female,1.0,0.0,2019,2
+A675620,2014-03-30 12:11:00,Stray,Normal,Dog,Intact Female,4.0,Golden Retriever/Chow Chow,medium,2014-04-18 12:49:00,2010-03-30 00:00:00,Spayed Female,4.0,0.0,2014,3
+A779802,2018-09-05 17:38:00,Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair Mix,medium,2018-09-10 14:34:00,2017-09-05 00:00:00,Intact Female,1.0,0.0,2018,9
+A781285,2018-09-26 18:11:00,Stray,Normal,Cat,Neutered Male,2.0,Domestic Shorthair Mix,dark,2018-09-30 17:46:00,2016-03-08 00:00:00,Neutered Male,2.0,0.0,2018,9
+A695618,2015-01-19 12:02:00,Stray,Normal,Dog,Intact Male,0.08333333333333333,Labrador Retriever Mix,dark,2015-01-23 17:12:00,2014-11-19 00:00:00,Neutered Male,0.16666666666666666,0.0,2015,1
+A745971,2017-03-27 12:00:00,Stray,Normal,Dog,Intact Female,2.0,Basset Hound Mix,dark,2017-04-10 17:09:00,2015-03-27 00:00:00,Intact Female,2.0,0.0,2017,3
+A679606,2014-05-23 16:18:00,Stray,Nursing,Dog,Intact Male,0.08333333333333333,Pit Bull Mix,dark,2014-05-23 16:24:00,2014-04-17 00:00:00,Intact Male,0.08333333333333333,0.0,2014,5
+A793140,2019-04-20 11:44:00,Owner Surrender,Normal,Cat,Spayed Female,2.0,Domestic Shorthair Mix,dark,2019-04-27 12:52:00,2017-04-20 00:00:00,Spayed Female,2.0,0.0,2019,4
+A743388,2017-02-09 14:23:00,Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair Mix,light,2017-03-26 16:48:00,2016-02-09 00:00:00,Spayed Female,1.0,0.0,2017,2
+A768030,2018-03-11 16:06:00,Stray,Normal,Dog,Spayed Female,7.0,Maltese,light,2018-03-13 09:21:00,2010-09-11 00:00:00,Spayed Female,7.0,0.0,2018,3
+A767249,2018-02-25 16:34:00,Stray,Normal,Dog,Intact Male,1.0,Chihuahua Longhair Mix,dark,2018-03-01 18:19:00,2017-02-25 00:00:00,Neutered Male,1.0,0.0,2018,2
+A767731,2018-09-06 11:19:00,Owner Surrender,Normal,Dog,Neutered Male,0.5,Jack Russell Terrier Mix,light,2018-09-08 16:49:00,2018-03-03 00:00:00,Neutered Male,0.5,0.0,2018,9
+A722965,2019-01-19 16:03:00,Owner Surrender,Other,Cat,Neutered Male,4.0,Domestic Shorthair Mix,dark,2019-04-27 15:24:00,2014-03-24 00:00:00,Neutered Male,5.0,0.0,2019,1
+A752104,2017-11-24 13:44:00,Owner Surrender,Normal,Dog,Neutered Male,1.0,Labrador Retriever Mix,light,2017-12-09 12:06:00,2016-06-18 00:00:00,Neutered Male,1.0,0.0,2017,11
+A781171,2018-09-25 13:03:00,Stray,Normal,Cat,Unknown,0.019230769230769232,Domestic Shorthair Mix,light,2018-09-26 09:43:00,2018-09-18 00:00:00,Unknown,0.019230769230769232,0.0,2018,9
+A732600,2016-08-10 13:39:00,Public Assist,Normal,Dog,Intact Male,4.0,Dachshund Mix,medium,2016-08-18 11:33:00,2012-08-10 00:00:00,Intact Male,4.0,0.0,2016,8
+A670094,2014-01-01 23:40:00,Stray,Normal,Dog,Spayed Female,10.0,German Shepherd/Australian Cattle Dog,dark,2014-01-04 14:31:00,2004-01-04 00:00:00,Spayed Female,10.0,0.0,2014,1
+A769324,2018-04-03 15:38:00,Stray,Normal,Dog,Intact Male,0.08333333333333333,Labrador Retriever Mix,dark,2018-04-08 18:47:00,2018-02-03 00:00:00,Neutered Male,0.16666666666666666,0.0,2018,4
+A755489,2017-08-03 23:57:00,Stray,Normal,Cat,Unknown,0.08333333333333333,Domestic Shorthair Mix,dark,2017-08-04 13:31:00,2017-06-04 00:00:00,Unknown,0.08333333333333333,0.0,2017,8
+A693853,2014-12-15 17:00:00,Stray,Normal,Other,Intact Male,1.0,New Zealand Wht Mix,light,2014-12-30 18:50:00,2013-12-15 00:00:00,Intact Male,1.0,0.0,2014,12
+A734935,2016-11-19 14:14:00,Stray,Normal,Dog,Spayed Female,1.0,German Shepherd Mix,dark,2016-11-19 14:51:00,2015-09-15 00:00:00,Spayed Female,1.0,0.0,2016,11
+A734519,2016-09-08 08:15:00,Stray,Nursing,Cat,Unknown,0.00821917808219178,Domestic Shorthair Mix,dark,2016-09-08 12:10:00,2016-09-05 00:00:00,Unknown,0.00821917808219178,0.0,2016,9
+A676697,2014-04-14 11:44:00,Stray,Normal,Dog,Spayed Female,12.0,Great Pyrenees Mix,light,2014-04-14 16:54:00,2002-04-14 00:00:00,Spayed Female,12.0,0.0,2014,4
+A751919,2019-11-21 14:24:00,Owner Surrender,Normal,Dog,Spayed Female,2.0,Labrador Retriever Mix,dark,2019-11-27 14:51:00,2017-05-09 00:00:00,Spayed Female,2.0,0.0,2019,11
+A761372,2017-11-03 15:11:00,Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair Mix,light,2017-11-19 14:33:00,2016-11-03 00:00:00,Spayed Female,1.0,0.0,2017,11
+A718681,2016-01-04 23:21:00,Public Assist,Normal,Dog,Intact Male,2.0,Pit Bull Mix,medium,2016-01-17 16:25:00,2014-01-04 00:00:00,Neutered Male,2.0,0.0,2016,1
+A735877,2016-09-30 18:22:00,Stray,Normal,Dog,Intact Male,12.0,Australian Cattle Dog Mix,dark,2016-10-01 14:59:00,2004-10-01 00:00:00,Intact Male,12.0,0.0,2016,9
+A708387,2015-07-27 11:48:00,Stray,Normal,Dog,Intact Male,0.16666666666666666,Pembroke Welsh Corgi Mix,dark,2015-07-31 18:00:00,2015-05-05 00:00:00,Neutered Male,0.16666666666666666,0.0,2015,7
+A670542,2014-01-09 18:01:00,Stray,Normal,Dog,Intact Male,1.0,Pit Bull Mix,dark,2014-01-10 17:06:00,2012-09-09 00:00:00,Intact Male,1.0,0.0,2014,1
+A728304,2016-06-02 19:21:00,Owner Surrender,Nursing,Dog,Intact Male,0.0,Pit Bull Mix,light,2016-06-17 12:40:00,2016-06-02 00:00:00,Intact Male,0.038461538461538464,0.0,2016,6
+A677224,2014-04-21 16:21:00,Stray,Normal,Dog,Intact Male,2.0,Chihuahua Longhair Mix,medium,2014-05-04 16:09:00,2012-04-21 00:00:00,Neutered Male,2.0,0.0,2014,4
+A744827,2017-03-08 11:58:00,Stray,Normal,Cat,Intact Male,0.057692307692307696,Domestic Shorthair Mix,dark,2017-04-15 18:45:00,2017-02-11 00:00:00,Neutered Male,0.16666666666666666,0.0,2017,3
+A755611,2017-08-06 09:16:00,Stray,Normal,Dog,Intact Male,0.08333333333333333,Labrador Retriever Mix,dark,2017-08-08 16:49:00,2017-06-21 00:00:00,Intact Male,0.08333333333333333,0.0,2017,8
+A782363,2018-10-14 08:02:00,Stray,Injured,Dog,Neutered Male,3.0,German Shepherd Mix,medium,2018-10-15 11:05:00,2015-10-14 00:00:00,Neutered Male,3.0,0.0,2018,10
+A696372,2015-02-03 15:45:00,Wildlife,Normal,Other,Unknown,1.0,Bat,dark,2015-02-04 08:28:00,2014-02-03 00:00:00,Unknown,1.0,1.0,2015,2
+A755711,2017-09-06 14:44:00,Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair Mix,dark,2017-09-11 10:09:00,2017-07-06 00:00:00,Neutered Male,0.16666666666666666,0.0,2017,9
+A449752,2014-03-09 11:13:00,Public Assist,Normal,Dog,Spayed Female,11.0,Chihuahua Shorthair,medium,2014-03-10 13:59:00,2002-10-12 00:00:00,Spayed Female,11.0,0.0,2014,3
+A792385,2019-04-09 18:52:00,Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,German Shepherd Mix,dark,2019-04-12 14:56:00,2019-01-27 00:00:00,Neutered Male,0.16666666666666666,0.0,2019,4
+A769892,2018-04-12 10:02:00,Wildlife,Normal,Other,Unknown,2.0,Bat,dark,2018-04-12 10:26:00,2016-04-12 00:00:00,Unknown,2.0,1.0,2018,4
+A757423,2017-09-02 12:54:00,Public Assist,Normal,Dog,Intact Female,2.0,Pit Bull Mix,light,2017-09-15 14:19:00,2015-09-02 00:00:00,Intact Female,2.0,0.0,2017,9
+A782252,2018-10-12 13:50:00,Owner Surrender,Normal,Cat,Neutered Male,12.0,Domestic Shorthair Mix,dark,2018-12-23 19:08:00,2006-10-12 00:00:00,Neutered Male,12.0,0.0,2018,10
+A809582,2019-11-27 11:36:00,Stray,Normal,Dog,Intact Female,1.0,German Shepherd/Labrador Retriever,dark,2019-12-05 19:04:00,2018-11-27 00:00:00,Spayed Female,1.0,0.0,2019,11
+A674881,2014-03-19 15:18:00,Stray,Normal,Dog,Intact Male,0.3333333333333333,Miniature Poodle/Miniature Schnauzer,dark,2014-03-23 17:08:00,2013-10-19 00:00:00,Neutered Male,0.4166666666666667,0.0,2014,3
+A717835,2015-12-16 11:05:00,Stray,Normal,Dog,Spayed Female,2.0,Chihuahua Shorthair Mix,Tricolor,2015-12-22 09:55:00,2013-06-21 00:00:00,Spayed Female,2.0,0.0,2015,12
+A786540,2018-12-27 12:17:00,Stray,Normal,Dog,Intact Female,0.08333333333333333,St. Bernard Rough Coat Mix,Tricolor,2019-01-04 16:56:00,2018-11-02 00:00:00,Spayed Female,0.16666666666666666,0.0,2018,12
+A721887,2016-03-06 15:10:00,Stray,Normal,Dog,Intact Female,1.0,Maltese Mix,light,2016-03-10 17:04:00,2015-03-06 00:00:00,Spayed Female,1.0,0.0,2016,3
+A743080,2017-02-03 13:28:00,Stray,Normal,Dog,Intact Male,0.3333333333333333,Dachshund/Chihuahua Shorthair,light,2017-02-07 18:34:00,2016-10-03 00:00:00,Neutered Male,0.3333333333333333,0.0,2017,2
+A709079,2015-08-04 16:26:00,Owner Surrender,Normal,Cat,Intact Male,0.019230769230769232,Domestic Shorthair Mix,medium,2015-08-09 13:03:00,2015-07-28 00:00:00,Intact Male,0.019230769230769232,1.0,2015,8
+A753037,2017-08-17 13:09:00,Owner Surrender,Normal,Cat,Spayed Female,0.16666666666666666,Siamese Mix,light,2017-08-17 18:18:00,2017-05-30 00:00:00,Spayed Female,0.16666666666666666,0.0,2017,8
+A772984,2018-05-25 20:02:00,Stray,Sick,Cat,Intact Female,0.07692307692307693,Domestic Shorthair Mix,medium,2018-06-26 16:42:00,2018-04-25 00:00:00,Spayed Female,0.16666666666666666,0.0,2018,5
+A755560,2017-08-04 18:47:00,Stray,Normal,Cat,Intact Female,3.0,Domestic Shorthair Mix,medium,2017-08-11 13:40:00,2014-08-05 00:00:00,Intact Female,3.0,0.0,2017,8
+A792247,2019-04-08 13:08:00,Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Shorthair Mix,dark,2019-05-12 18:36:00,2019-03-08 00:00:00,Neutered Male,0.16666666666666666,0.0,2019,4
+A802512,2019-10-02 12:03:00,Owner Surrender,Normal,Dog,Spayed Female,2.0,Chihuahua Shorthair Mix,dark,2019-10-06 13:23:00,2017-08-19 00:00:00,Spayed Female,2.0,0.0,2019,10
+A728925,2016-06-10 18:45:00,Stray,Injured,Cat,Unknown,2.0,Domestic Shorthair Mix,dark,2016-06-14 17:38:00,2014-06-10 00:00:00,Unknown,2.0,1.0,2016,6
+A771871,2018-05-11 11:37:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,dark,2018-05-15 18:38:00,2018-03-11 00:00:00,Neutered Male,0.16666666666666666,0.0,2018,5
+A766317,2018-02-06 15:09:00,Stray,Normal,Dog,Intact Female,1.0,Anatol Shepherd Mix,light,2018-02-18 11:24:00,2017-02-06 00:00:00,Spayed Female,1.0,0.0,2018,2
+A808882,2019-11-15 14:51:00,Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair,dark,2019-11-17 11:35:00,2019-09-10 00:00:00,Intact Male,0.16666666666666666,0.0,2019,11
+A784761,2018-11-19 18:48:00,Stray,Injured,Cat,Neutered Male,2.0,Domestic Shorthair Mix,dark,2018-11-28 16:49:00,2016-11-19 00:00:00,Neutered Male,2.0,0.0,2018,11
+A789321,2019-02-19 13:07:00,Stray,Normal,Dog,Intact Female,1.0,Chihuahua Shorthair Mix,medium,2019-02-24 14:27:00,2018-02-19 00:00:00,Spayed Female,1.0,0.0,2019,2
+A801032,2019-07-30 14:52:00,Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair,dark,2019-09-29 15:27:00,2018-07-30 00:00:00,Neutered Male,1.0,0.0,2019,7
+A732530,2016-08-09 13:01:00,Stray,Normal,Cat,Unknown,0.019230769230769232,Domestic Shorthair Mix,dark,2016-08-09 14:01:00,2016-08-02 00:00:00,Unknown,0.019230769230769232,0.0,2016,8
+A768893,2018-03-26 18:20:00,Stray,Normal,Dog,Intact Female,2.0,Pit Bull Mix,light,2018-03-30 00:00:00,2016-03-26 00:00:00,Intact Female,2.0,0.0,2018,3
+A705946,2015-06-22 18:36:00,Public Assist,Normal,Dog,Spayed Female,0.08333333333333333,Yorkshire Terrier Mix,dark,2015-06-24 14:03:00,2015-04-27 00:00:00,Spayed Female,0.08333333333333333,0.0,2015,6
+A686032,2014-08-15 18:48:00,Wildlife,Normal,Other,Unknown,1.0,Bat Mix,dark,2014-08-16 08:38:00,2013-08-15 00:00:00,Unknown,1.0,1.0,2014,8
+A757380,2017-09-01 14:47:00,Public Assist,Normal,Other,Intact Female,2.0,Rabbit Sh Mix,dark,2017-09-19 13:14:00,2015-09-01 00:00:00,Intact Female,2.0,0.0,2017,9
+A780127,2018-09-10 11:10:00,Stray,Normal,Dog,Intact Female,0.16666666666666666,Weimaraner/Vizsla,dark,2018-09-11 14:45:00,2018-07-10 00:00:00,Intact Female,0.16666666666666666,0.0,2018,9
+A774352,2018-06-13 22:45:00,Stray,Sick,Dog,Intact Female,12.0,Toy Poodle Mix,light,2018-06-21 17:25:00,2006-06-14 00:00:00,Intact Female,12.0,0.0,2018,6
+A770483,2018-04-20 12:46:00,Stray,Normal,Cat,Unknown,0.005479452054794521,Domestic Shorthair Mix,dark,2018-04-21 12:47:00,2018-04-18 00:00:00,Unknown,0.00821917808219178,0.0,2018,4
+A799764,2019-07-11 13:42:00,Owner Surrender,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,dark,2019-07-20 14:44:00,2019-05-11 00:00:00,Spayed Female,0.16666666666666666,0.0,2019,7
+A791040,2019-03-20 16:12:00,Wildlife,Normal,Other,Unknown,3.0,Bat Mix,dark,2019-03-21 09:16:00,2016-03-20 00:00:00,Unknown,3.0,1.0,2019,3
+A761710,2017-11-08 11:12:00,Stray,Normal,Dog,Intact Male,0.16666666666666666,Border Collie,dark,2017-11-12 16:44:00,2017-09-04 00:00:00,Neutered Male,0.16666666666666666,0.0,2017,11
+A672474,2014-02-10 21:22:00,Stray,Normal,Dog,Intact Male,6.0,Chihuahua Shorthair Mix,light,2014-02-13 17:52:00,2008-02-11 00:00:00,Neutered Male,6.0,0.0,2014,2
+A706313,2015-06-27 13:22:00,Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Longhair Mix,dark,2015-08-22 13:21:00,2015-04-20 00:00:00,Neutered Male,0.3333333333333333,0.0,2015,6
+A685678,2014-08-11 11:04:00,Stray,Normal,Cat,Unknown,1.0,Domestic Shorthair Mix,dark,2014-08-12 09:00:00,2013-08-11 00:00:00,Unknown,1.0,0.0,2014,8
+A728397,2016-06-03 15:25:00,Stray,Sick,Cat,Intact Male,0.08333333333333333,Siamese Mix,light,2016-07-08 17:09:00,2016-04-26 00:00:00,Neutered Male,0.16666666666666666,0.0,2016,6
+A796554,2019-06-03 07:28:00,Stray,Injured,Cat,Intact Male,0.07692307692307693,Domestic Shorthair,dark,2019-08-23 19:04:00,2019-05-03 00:00:00,Neutered Male,0.25,0.0,2019,6
+A705510,2015-06-18 12:26:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,dark,2015-06-18 17:27:00,2015-05-11 00:00:00,Intact Male,0.08333333333333333,0.0,2015,6
+A717800,2015-12-15 16:09:00,Stray,Normal,Dog,Neutered Male,7.0,German Shepherd Mix,dark,2016-03-01 12:36:00,2008-12-15 00:00:00,Neutered Male,7.0,0.0,2015,12
+A674477,2014-03-13 15:05:00,Stray,Injured,Dog,Neutered Male,15.0,Miniature Poodle,light,2014-03-17 11:43:00,1999-03-13 00:00:00,Neutered Male,15.0,0.0,2014,3
+A752108,2017-06-18 12:04:00,Stray,Normal,Dog,Intact Male,1.0,Labrador Retriever/Pointer,dark,2017-06-27 17:08:00,2016-06-18 00:00:00,Neutered Male,1.0,0.0,2017,6
+A681538,2014-06-18 10:44:00,Stray,Normal,Dog,Intact Female,0.5,Pit Bull Mix,dark,2014-06-19 18:03:00,2013-11-18 00:00:00,Intact Female,0.5833333333333334,0.0,2014,6
+A752233,2017-06-19 18:47:00,Stray,Normal,Cat,Intact Male,0.5833333333333334,Domestic Shorthair Mix,dark,2017-07-01 13:11:00,2016-10-19 00:00:00,Neutered Male,0.6666666666666666,0.0,2017,6
+A770009,2018-12-03 11:18:00,Owner Surrender,Normal,Dog,Spayed Female,1.0,Staffordshire Mix,medium,2018-12-09 17:56:00,2017-09-14 00:00:00,Spayed Female,1.0,0.0,2018,12
+A738998,2016-11-26 10:27:00,Public Assist,Injured,Dog,Intact Female,4.0,Chihuahua Longhair Mix,dark,2016-11-27 08:50:00,2012-11-26 00:00:00,Intact Female,4.0,1.0,2016,11
+A696992,2015-02-16 10:54:00,Stray,Normal,Dog,Intact Male,1.0,Australian Shepherd Mix,medium,2015-02-21 18:29:00,2013-08-16 00:00:00,Neutered Male,1.0,0.0,2015,2
+A674371,2014-03-12 11:02:00,Stray,Normal,Dog,Intact Male,2.0,Miniature Schnauzer Mix,dark,2014-03-27 16:13:00,2012-03-12 00:00:00,Neutered Male,2.0,0.0,2014,3
+A685209,2014-08-04 11:21:00,Stray,Normal,Dog,Intact Female,0.6666666666666666,Pharaoh Hound Mix,dark,2014-09-14 14:54:00,2013-11-07 00:00:00,Spayed Female,0.8333333333333334,0.0,2014,8
+A746162,2017-03-29 13:26:00,Stray,Nursing,Cat,Intact Male,0.019230769230769232,Domestic Medium Hair Mix,dark,2017-03-30 15:24:00,2017-03-20 00:00:00,Intact Male,0.019230769230769232,0.0,2017,3
+A731014,2016-07-14 16:56:00,Stray,Normal,Dog,Spayed Female,4.0,Shih Tzu/Toy Poodle,light,2016-07-18 11:30:00,2012-07-14 00:00:00,Spayed Female,4.0,0.0,2016,7
+A803620,2019-11-26 12:53:00,Owner Surrender,Normal,Cat,Neutered Male,0.3333333333333333,Domestic Medium Hair,dark,2019-11-29 15:25:00,2019-07-23 00:00:00,Neutered Male,0.3333333333333333,0.0,2019,11
+A810571,2019-12-16 07:40:00,Stray,Normal,Cat,Intact Female,2.0,Domestic Shorthair,dark,2019-12-28 17:58:00,2017-12-16 00:00:00,Intact Female,2.0,0.0,2019,12
+A728655,2016-06-06 16:18:00,Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Medium Hair Mix,dark,2016-06-10 18:42:00,2016-03-30 00:00:00,Neutered Male,0.16666666666666666,0.0,2016,6
+A684965,2014-07-31 00:25:00,Stray,Injured,Cat,Intact Female,0.07692307692307693,Domestic Shorthair,dark,2014-08-06 14:23:00,2014-07-01 00:00:00,Intact Female,0.08333333333333333,0.0,2014,7
+A805690,2019-09-30 17:44:00,Owner Surrender,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair,dark,2019-10-16 18:44:00,2019-07-16 00:00:00,Intact Male,0.25,0.0,2019,9
+A665865,2013-10-23 18:15:00,Stray,Normal,Dog,Neutered Male,3.0,Beagle Mix,light,2013-10-24 12:04:00,2010-06-06 00:00:00,Neutered Male,3.0,0.0,2013,10
+A799652,2019-07-10 16:58:00,Stray,Normal,Cat,Intact Female,0.16666666666666666,Domestic Shorthair,dark,2019-08-26 17:47:00,2019-04-26 00:00:00,Spayed Female,0.3333333333333333,0.0,2019,7
+A782613,2018-10-18 11:42:00,Public Assist,Normal,Cat,Intact Male,2.0,Domestic Longhair Mix,dark,2018-11-20 17:00:00,2016-10-18 00:00:00,Neutered Male,2.0,0.0,2018,10
+A692666,2014-11-24 11:03:00,Stray,Normal,Dog,Intact Female,0.08333333333333333,Plott Hound Mix,dark,2014-11-29 17:50:00,2014-09-30 00:00:00,Spayed Female,0.08333333333333333,0.0,2014,11
+A550920,2017-01-08 10:34:00,Owner Surrender,Normal,Dog,Neutered Male,10.0,Cocker Spaniel,medium,2017-01-12 11:36:00,2006-07-30 00:00:00,Neutered Male,10.0,0.0,2017,1
+A709381,2015-08-08 12:24:00,Stray,Normal,Dog,Spayed Female,3.0,Dachshund,medium,2015-08-09 12:27:00,2012-08-08 00:00:00,Spayed Female,3.0,0.0,2015,8
+A676982,2018-05-15 16:37:00,Owner Surrender,Normal,Dog,Spayed Female,5.0,Beagle/Dachshund,dark,2018-07-19 10:34:00,2013-04-17 00:00:00,Spayed Female,5.0,0.0,2018,5
+A672734,2014-02-15 19:25:00,Public Assist,Other,Dog,Intact Male,0.6666666666666666,Chihuahua Shorthair Mix,medium,2014-02-27 18:50:00,2013-06-15 00:00:00,Neutered Male,0.6666666666666666,0.0,2014,2
+A789200,2019-02-17 12:30:00,Stray,Normal,Cat,Neutered Male,1.0,Domestic Shorthair Mix,light,2019-02-18 14:47:00,2018-02-17 00:00:00,Neutered Male,1.0,0.0,2019,2
+A742744,2017-01-27 12:52:00,Owner Surrender,Normal,Dog,Neutered Male,1.0,Chihuahua Shorthair/Jack Russell Terrier,medium,2017-01-28 16:06:00,2016-01-27 00:00:00,Neutered Male,1.0,0.0,2017,1
+A760939,2017-10-26 12:53:00,Stray,Sick,Cat,Intact Female,0.3333333333333333,Siamese Mix,light,2017-11-10 15:24:00,2017-06-26 00:00:00,Spayed Female,0.3333333333333333,0.0,2017,10
+A725993,2016-05-04 16:41:00,Owner Surrender,Normal,Cat,Neutered Male,2.0,Domestic Shorthair Mix,light,2016-05-14 16:04:00,2014-05-04 00:00:00,Neutered Male,2.0,0.0,2016,5
+A743093,2017-02-03 14:53:00,Stray,Normal,Dog,Intact Female,0.16666666666666666,Pit Bull Mix,medium,2017-02-03 18:08:00,2016-12-03 00:00:00,Intact Female,0.16666666666666666,0.0,2017,2
+A695985,2016-04-19 13:21:00,Public Assist,Normal,Dog,Spayed Female,2.0,Pit Bull Mix,dark,2016-04-23 16:01:00,2014-01-26 00:00:00,Spayed Female,2.0,0.0,2016,4
+A737608,2016-11-01 12:52:00,Owner Surrender,Normal,Cat,Intact Female,0.4166666666666667,Domestic Shorthair Mix,dark,2016-11-05 18:58:00,2016-06-01 00:00:00,Spayed Female,0.4166666666666667,0.0,2016,11
+A774789,2018-06-20 11:23:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Medium Hair Mix,dark,2018-06-24 14:49:00,2018-05-05 00:00:00,Intact Female,0.08333333333333333,0.0,2018,6
+A702650,2015-05-16 14:54:00,Stray,Normal,Cat,Intact Female,0.038461538461538464,Domestic Shorthair Mix,dark,2015-07-18 20:16:00,2015-05-01 00:00:00,Spayed Female,0.16666666666666666,0.0,2015,5
+A798071,2019-06-21 11:38:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,dark,2019-07-15 00:00:00,2019-05-06 00:00:00,Intact Female,0.16666666666666666,0.0,2019,6
+A766776,2018-04-13 15:49:00,Owner Surrender,Normal,Dog,Neutered Male,1.0,Standard Schnauzer Mix,dark,2018-04-17 12:00:00,2017-02-16 00:00:00,Neutered Male,1.0,0.0,2018,4
+A709067,2015-08-04 15:48:00,Stray,Normal,Dog,Intact Female,0.4166666666666667,Boxer Mix,dark,2015-08-05 00:00:00,2015-02-04 00:00:00,Intact Female,0.4166666666666667,0.0,2015,8
+A742760,2017-12-17 11:57:00,Owner Surrender,Normal,Dog,Neutered Male,1.0,Catahoula/Labrador Retriever,light,2018-03-02 11:53:00,2016-01-27 00:00:00,Neutered Male,2.0,0.0,2017,12
+A771606,2018-05-07 14:14:00,Stray,Normal,Cat,Intact Female,0.019230769230769232,Domestic Shorthair Mix,dark,2018-08-12 15:16:00,2018-04-25 00:00:00,Spayed Female,0.25,0.0,2018,5
+A810006,2019-12-05 12:39:00,Stray,Normal,Dog,Intact Female,0.08333333333333333,Labrador Retriever,dark,2019-12-09 17:09:00,2019-10-05 00:00:00,Spayed Female,0.16666666666666666,0.0,2019,12
+A690909,2014-10-28 06:47:00,Stray,Normal,Cat,Intact Female,9.0,Domestic Shorthair Mix,medium,2014-10-30 12:21:00,2005-10-28 00:00:00,Intact Female,9.0,1.0,2014,10
+A666314,2013-10-30 11:26:00,Stray,Sick,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,light,2013-10-30 11:40:00,2013-08-30 00:00:00,Intact Male,0.08333333333333333,1.0,2013,10
+A680179,2014-05-30 14:09:00,Stray,Sick,Dog,Intact Male,0.08333333333333333,Australian Cattle Dog Mix,Tricolor,2014-05-30 17:35:00,2014-03-30 00:00:00,Intact Male,0.08333333333333333,0.0,2014,5
+A720353,2016-02-07 16:10:00,Stray,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever Mix,dark,2016-02-11 17:01:00,2015-12-07 00:00:00,Spayed Female,0.16666666666666666,0.0,2016,2
+A669961,2013-12-31 07:34:00,Stray,Injured,Dog,Intact Female,1.0,Border Collie Mix,dark,2014-02-01 14:36:00,2012-12-31 00:00:00,Spayed Female,1.0,0.0,2013,12
+A766307,2018-02-06 12:29:00,Stray,Normal,Dog,Intact Male,0.5833333333333334,Labrador Retriever,dark,2018-03-17 18:26:00,2017-06-13 00:00:00,Neutered Male,0.75,0.0,2018,2
+A719472,2016-03-27 11:32:00,Stray,Normal,Dog,Intact Female,2.0,Miniature Poodle Mix,light,2016-03-30 18:21:00,2014-01-20 00:00:00,Intact Female,2.0,0.0,2016,3
+A719098,2016-01-13 07:15:00,Stray,Feral,Cat,Intact Male,4.0,Domestic Shorthair Mix,light,2016-01-20 18:58:00,2012-01-13 00:00:00,Neutered Male,4.0,0.0,2016,1
+A694256,2014-12-23 16:46:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair Mix,medium,2014-12-26 14:55:00,2014-11-16 00:00:00,Intact Female,0.08333333333333333,0.0,2014,12
+A716583,2015-11-21 13:26:00,Stray,Normal,Dog,Intact Female,1.0,Chihuahua Shorthair Mix,medium,2015-11-21 15:25:00,2014-11-21 00:00:00,Intact Female,1.0,0.0,2015,11
+A707285,2015-07-11 10:53:00,Owner Surrender,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair Mix,medium,2015-07-31 16:25:00,2015-05-11 00:00:00,Spayed Female,0.16666666666666666,0.0,2015,7
+A796886,2019-06-06 16:53:00,Stray,Normal,Dog,Intact Male,0.3333333333333333,Basenji/Beagle,dark,2019-06-13 12:34:00,2019-01-06 00:00:00,Intact Male,0.4166666666666667,0.0,2019,6
+A766148,2018-02-02 17:15:00,Owner Surrender,Normal,Dog,Intact Male,0.5,Labrador Retriever,medium,2018-02-16 11:18:00,2017-08-02 00:00:00,Neutered Male,0.5,0.0,2018,2
+A735071,2016-09-17 16:29:00,Public Assist,Normal,Dog,Spayed Female,5.0,Chihuahua Shorthair Mix,medium,2016-09-26 11:38:00,2011-09-17 00:00:00,Spayed Female,5.0,0.0,2016,9
+A753503,2017-07-07 14:29:00,Owner Surrender,Normal,Dog,Neutered Male,10.0,Chihuahua Shorthair Mix,medium,2017-07-07 17:51:00,2007-07-07 00:00:00,Neutered Male,10.0,0.0,2017,7
+A768845,2018-03-26 11:47:00,Stray,Normal,Dog,Intact Female,0.5,Border Collie Mix,dark,2018-04-05 13:52:00,2017-08-26 00:00:00,Spayed Female,0.5833333333333334,0.0,2018,3
+A800905,2019-07-28 15:33:00,Stray,Normal,Dog,Intact Male,2.0,Pit Bull Mix,dark,2019-09-08 13:36:00,2017-07-28 00:00:00,Neutered Male,2.0,0.0,2019,7
+A676750,2014-04-14 17:36:00,Owner Surrender,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,light,2014-04-14 18:10:00,2014-02-27 00:00:00,Intact Male,0.08333333333333333,1.0,2014,4
+A764573,2018-01-02 11:04:00,Wildlife,Normal,Other,Unknown,1.0,Bat,dark,2018-01-02 12:22:00,2017-01-02 00:00:00,Unknown,1.0,1.0,2018,1
+A687219,2014-09-02 12:22:00,Public Assist,Sick,Dog,Intact Male,4.0,Pit Bull Mix,dark,2015-01-05 15:27:00,2010-09-02 00:00:00,Neutered Male,4.0,0.0,2014,9
+A768625,2018-03-22 17:39:00,Stray,Normal,Dog,Intact Female,4.0,Pit Bull Mix,light,2018-03-26 17:32:00,2013-03-26 00:00:00,Spayed Female,5.0,0.0,2018,3
+A706754,2015-07-03 00:27:00,Stray,Nursing,Cat,Intact Male,0.005479452054794521,Domestic Shorthair,dark,2015-07-03 11:04:00,2015-07-01 00:00:00,Intact Male,0.005479452054794521,0.0,2015,7
+A667317,2013-11-16 10:26:00,Public Assist,Normal,Dog,Intact Male,0.16666666666666666,Border Collie/Labrador Retriever,dark,2013-11-20 18:42:00,2013-09-05 00:00:00,Neutered Male,0.16666666666666666,0.0,2013,11
+A789429,2019-02-21 14:42:00,Owner Surrender,Normal,Other,Unknown,0.07692307692307693,Mouse Mix,dark,2019-02-22 00:00:00,2019-01-21 00:00:00,Unknown,0.07692307692307693,0.0,2019,2
+A688628,2014-09-21 15:12:00,Stray,Nursing,Cat,Intact Male,0.038461538461538464,Domestic Shorthair Mix,light,2014-09-21 15:25:00,2014-09-04 00:00:00,Intact Male,0.038461538461538464,0.0,2014,9
+A730472,2016-07-05 13:12:00,Stray,Normal,Dog,Intact Male,0.08333333333333333,Labrador Retriever Mix,dark,2016-07-05 18:32:00,2016-05-14 00:00:00,Intact Male,0.08333333333333333,0.0,2016,7
+A669874,2013-12-29 08:16:00,Stray,Normal,Dog,Intact Female,2.0,Chihuahua Shorthair Mix,dark,2014-01-05 17:19:00,2011-12-29 00:00:00,Spayed Female,2.0,0.0,2013,12
+A781007,2018-09-23 14:04:00,Stray,Pregnant,Dog,Intact Female,1.0,Australian Cattle Dog Mix,light,2018-09-25 15:44:00,2017-09-23 00:00:00,Intact Female,1.0,0.0,2018,9
+A748171,2017-04-30 12:39:00,Stray,Normal,Cat,Neutered Male,5.0,Domestic Shorthair Mix,light,2017-08-15 14:22:00,2012-04-30 00:00:00,Neutered Male,5.0,0.0,2017,4
+A754071,2017-07-15 11:06:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair Mix,medium,2017-08-14 15:25:00,2017-05-15 00:00:00,Intact Female,0.16666666666666666,0.0,2017,7
+A789589,2019-02-24 11:44:00,Owner Surrender,Normal,Dog,Spayed Female,5.0,Labrador Retriever Mix,dark,2019-12-04 17:48:00,2014-02-24 00:00:00,Spayed Female,5.0,0.0,2019,2
+A677225,2014-04-21 16:31:00,Stray,Normal,Dog,Intact Female,1.0,Bull Terrier,light,2014-04-26 17:13:00,2013-04-21 00:00:00,Spayed Female,1.0,0.0,2014,4
+A699541,2015-03-29 12:05:00,Stray,Normal,Dog,Intact Male,0.07692307692307693,Chihuahua Shorthair Mix,medium,2015-03-30 10:55:00,2015-03-01 00:00:00,Intact Male,0.07692307692307693,0.0,2015,3
+A772552,2018-05-21 10:19:00,Stray,Normal,Dog,Intact Male,2.0,Belgian Malinois Mix,medium,2018-05-29 09:05:00,2016-05-21 00:00:00,Neutered Male,2.0,0.0,2018,5
+A728045,2016-05-30 13:31:00,Stray,Normal,Cat,Intact Male,0.057692307692307696,Siamese Mix,light,2016-06-02 11:47:00,2016-05-08 00:00:00,Intact Male,0.057692307692307696,0.0,2016,5
+A804027,2019-09-09 16:49:00,Stray,Normal,Dog,Spayed Female,4.0,Australian Cattle Dog,medium,2019-09-29 15:29:00,2014-09-29 00:00:00,Spayed Female,5.0,0.0,2019,9
+A736372,2016-10-09 14:25:00,Stray,Normal,Cat,Neutered Male,8.0,Siamese Mix,light,2016-10-16 16:00:00,2008-10-10 00:00:00,Neutered Male,8.0,0.0,2016,10
+A783511,2018-10-31 19:05:00,Stray,Normal,Cat,Spayed Female,0.4166666666666667,Domestic Shorthair Mix,light,2018-11-01 12:07:00,2018-05-31 00:00:00,Spayed Female,0.4166666666666667,0.0,2018,10
+A679998,2014-05-28 17:16:00,Stray,Normal,Dog,Spayed Female,2.0,Border Terrier Mix,medium,2014-05-29 12:02:00,2012-05-28 00:00:00,Spayed Female,2.0,0.0,2014,5
+A665129,2013-10-14 10:45:00,Stray,Normal,Cat,Intact Male,0.057692307692307696,Domestic Medium Hair Mix,light,2013-10-14 12:17:00,2013-09-22 00:00:00,Intact Male,0.057692307692307696,0.0,2013,10
+A688472,2014-09-19 14:28:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,dark,2014-11-18 15:54:00,2014-08-12 00:00:00,Neutered Male,0.25,0.0,2014,9
+A667770,2013-11-22 13:59:00,Stray,Normal,Dog,Intact Male,0.4166666666666667,Miniature Poodle/Labrador Retriever,light,2013-11-27 11:25:00,2013-06-22 00:00:00,Neutered Male,0.4166666666666667,0.0,2013,11
+A785689,2018-12-07 16:14:00,Owner Surrender,Normal,Dog,Spayed Female,3.0,Border Collie,light,2018-12-17 14:19:00,2015-12-07 00:00:00,Spayed Female,3.0,0.0,2018,12
+A733962,2016-08-30 10:21:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair Mix,dark,2016-09-05 00:00:00,2016-07-04 00:00:00,Spayed Female,0.16666666666666666,0.0,2016,8
+A697166,2015-02-19 12:07:00,Stray,Normal,Dog,Intact Female,0.0027397260273972603,Labrador Retriever/Anatol Shepherd,light,2015-05-02 21:32:00,2015-02-18 00:00:00,Spayed Female,0.16666666666666666,0.0,2015,2
+A742215,2017-01-17 15:34:00,Public Assist,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever Mix,dark,2017-02-02 14:17:00,2016-11-07 00:00:00,Spayed Female,0.16666666666666666,0.0,2017,1
+A731383,2016-07-21 13:03:00,Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair Mix,dark,2016-08-09 17:05:00,2016-05-14 00:00:00,Neutered Male,0.16666666666666666,0.0,2016,7
+A778751,2018-08-19 17:51:00,Stray,Normal,Dog,Neutered Male,1.0,Labrador Retriever Mix,dark,2018-08-23 00:00:00,2017-08-19 00:00:00,Neutered Male,1.0,0.0,2018,8
+A706210,2015-06-26 11:31:00,Stray,Normal,Dog,Intact Female,2.0,Australian Cattle Dog/Pit Bull,medium,2015-07-14 17:31:00,2013-06-26 00:00:00,Intact Female,2.0,0.0,2015,6
+A669467,2013-12-21 13:06:00,Public Assist,Normal,Dog,Intact Male,5.0,Chihuahua Shorthair Mix,medium,2014-01-01 17:32:00,2008-12-21 00:00:00,Neutered Male,5.0,0.0,2013,12
+A723779,2016-04-06 15:17:00,Owner Surrender,Normal,Cat,Intact Male,3.0,Domestic Longhair Mix,dark,2016-04-11 14:25:00,2013-04-06 00:00:00,Neutered Male,3.0,0.0,2016,4
+A745656,2017-03-21 16:21:00,Stray,Normal,Cat,Intact Female,0.019230769230769232,Domestic Medium Hair Mix,dark,2017-03-23 08:42:00,2017-03-14 00:00:00,Intact Female,0.019230769230769232,0.0,2017,3
+A811998,2020-01-14 08:55:00,Abandoned,Normal,Dog,Intact Male,1.0,Plott Hound,light,2020-01-21 18:03:00,2018-07-14 00:00:00,Neutered Male,1.0,0.0,2020,1
+A803582,2019-09-03 11:12:00,Stray,Normal,Dog,Intact Male,0.5,Dachshund/Rat Terrier,dark,2019-09-07 00:00:00,2019-02-03 00:00:00,Neutered Male,0.5833333333333334,0.0,2019,9
+A703364,2017-07-28 11:52:00,Stray,Normal,Dog,Neutered Male,6.0,Pug/Chihuahua Shorthair,dark,2017-07-29 14:39:00,2011-05-26 00:00:00,Neutered Male,6.0,0.0,2017,7
+A714524,2015-10-24 15:47:00,Stray,Injured,Dog,Neutered Male,2.0,Pit Bull Mix,medium,2015-12-04 11:59:00,2013-10-24 00:00:00,Neutered Male,2.0,0.0,2015,10
+A760710,2017-10-22 19:25:00,Stray,Normal,Dog,Intact Female,1.0,Staffordshire Mix,dark,2017-11-13 19:09:00,2016-10-22 00:00:00,Spayed Female,1.0,0.0,2017,10
+A802947,2019-08-25 11:44:00,Stray,Normal,Cat,Intact Male,2.0,Domestic Shorthair,dark,2019-08-29 15:29:00,2017-08-25 00:00:00,Intact Male,2.0,0.0,2019,8
+A688065,2014-09-14 11:15:00,Owner Surrender,Normal,Cat,Neutered Male,5.0,Domestic Medium Hair Mix,dark,2014-11-07 13:35:00,2009-09-14 00:00:00,Neutered Male,5.0,0.0,2014,9
+A757532,2017-09-03 15:25:00,Stray,Normal,Cat,Neutered Male,5.0,Siamese Mix,light,2017-09-24 17:12:00,2012-09-03 00:00:00,Neutered Male,5.0,0.0,2017,9
+A742832,2017-01-29 11:01:00,Stray,Normal,Dog,Neutered Male,10.0,Labrador Retriever Mix,light,2017-02-05 16:08:00,2007-01-29 00:00:00,Neutered Male,10.0,0.0,2017,1
+A714032,2015-10-17 09:39:00,Owner Surrender,Normal,Cat,Spayed Female,5.0,Domestic Shorthair Mix,medium,2015-10-24 13:33:00,2010-10-17 00:00:00,Spayed Female,5.0,0.0,2015,10
+A675366,2017-10-23 15:06:00,Public Assist,Normal,Dog,Neutered Male,5.0,Labrador Retriever Mix,dark,2017-11-04 14:27:00,2012-09-26 00:00:00,Neutered Male,5.0,0.0,2017,10
+A670730,2014-01-13 11:11:00,Owner Surrender,Normal,Dog,Intact Male,0.07692307692307693,German Shepherd/Boxer,dark,2014-01-16 17:50:00,2013-12-13 00:00:00,Intact Male,0.07692307692307693,0.0,2014,1
+A701664,2015-05-02 22:51:00,Public Assist,Normal,Dog,Intact Male,4.0,Greyhound,dark,2015-05-19 16:34:00,2011-05-02 00:00:00,Intact Male,4.0,0.0,2015,5
+A774098,2018-06-10 12:48:00,Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Shorthair Mix,dark,2018-06-22 09:35:00,2018-05-10 00:00:00,Intact Male,0.08333333333333333,1.0,2018,6
+A683823,2014-07-15 16:40:00,Stray,Normal,Dog,Intact Male,0.01643835616438356,Chihuahua Longhair Mix,dark,2014-07-15 18:28:00,2014-07-09 00:00:00,Intact Male,0.01643835616438356,0.0,2014,7
+A684436,2014-07-23 15:42:00,Stray,Normal,Dog,Intact Female,1.0,Labrador Retriever Mix,dark,2014-08-24 14:51:00,2013-07-23 00:00:00,Spayed Female,1.0,0.0,2014,7
+A796373,2019-05-31 18:59:00,Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Shorthair,dark,2019-06-01 13:40:00,2019-05-01 00:00:00,Intact Male,0.07692307692307693,0.0,2019,5
+A734133,2016-09-01 18:17:00,Stray,Normal,Cat,Intact Female,0.4166666666666667,Domestic Medium Hair Mix,medium,2016-09-02 09:00:00,2016-04-01 00:00:00,Intact Female,0.4166666666666667,0.0,2016,9
+A773730,2018-06-04 15:09:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,dark,2018-06-16 13:12:00,2018-04-19 00:00:00,Intact Male,0.08333333333333333,0.0,2018,6
+A773502,2018-06-02 10:48:00,Stray,Normal,Cat,Unknown,0.038461538461538464,Domestic Shorthair Mix,dark,2018-06-02 16:58:00,2018-05-18 00:00:00,Unknown,0.038461538461538464,0.0,2018,6
+A707231,2015-07-10 08:13:00,Stray,Sick,Cat,Intact Male,0.16666666666666666,Siamese Mix,light,2015-09-28 18:30:00,2015-04-23 00:00:00,Neutered Male,0.4166666666666667,0.0,2015,7
+A671417,2019-10-28 17:03:00,Stray,Normal,Dog,Neutered Male,6.0,Pit Bull Mix,medium,2019-11-02 12:27:00,2013-01-28 00:00:00,Neutered Male,6.0,0.0,2019,10
+A800177,2019-07-17 12:33:00,Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair,dark,2019-08-21 16:29:00,2019-04-20 00:00:00,Neutered Male,0.3333333333333333,0.0,2019,7
+A703911,2015-05-30 12:49:00,Stray,Normal,Cat,Intact Male,0.057692307692307696,Domestic Shorthair Mix,dark,2015-06-08 16:25:00,2015-05-07 00:00:00,Intact Male,0.07692307692307693,0.0,2015,5
+A744447,2017-03-01 11:10:00,Stray,Normal,Cat,Intact Male,0.75,Domestic Shorthair Mix,medium,2017-03-02 09:00:00,2016-05-01 00:00:00,Neutered Male,0.8333333333333334,0.0,2017,3
+A781016,2018-09-23 14:47:00,Stray,Normal,Dog,Neutered Male,2.0,Rat Terrier Mix,light,2018-09-28 13:56:00,2016-09-23 00:00:00,Neutered Male,2.0,0.0,2018,9
+A630918,2016-02-23 16:33:00,Public Assist,Normal,Dog,Spayed Female,3.0,Great Pyrenees Mix,light,2016-03-24 13:29:00,2012-04-28 00:00:00,Spayed Female,3.0,0.0,2016,2
+A740158,2016-12-12 09:23:00,Owner Surrender,Normal,Dog,Intact Female,0.9166666666666666,Labrador Retriever/German Shepherd,dark,2016-12-29 12:37:00,2016-01-12 00:00:00,Spayed Female,0.9166666666666666,0.0,2016,12
+A689620,2014-10-07 11:23:00,Owner Surrender,Normal,Dog,Intact Male,0.4166666666666667,Australian Cattle Dog Mix,medium,2014-10-10 19:06:00,2014-05-07 00:00:00,Neutered Male,0.4166666666666667,0.0,2014,10
+A656312,2017-04-02 17:52:00,Owner Surrender,Normal,Cat,Neutered Male,3.0,Siamese Mix,medium,2017-04-11 12:08:00,2013-04-13 00:00:00,Neutered Male,3.0,0.0,2017,4
+A776645,2018-07-17 10:44:00,Stray,Normal,Dog,Intact Female,1.0,Labrador Retriever Mix,light,2018-07-27 16:51:00,2017-01-17 00:00:00,Spayed Female,1.0,0.0,2018,7
+A771412,2018-05-04 14:31:00,Stray,Normal,Cat,Spayed Female,4.0,Domestic Shorthair Mix,light,2018-07-15 12:47:00,2013-05-11 00:00:00,Spayed Female,5.0,0.0,2018,5
+A786868,2019-01-03 13:08:00,Stray,Normal,Dog,Intact Female,5.0,Chihuahua Longhair/Chihuahua Shorthair,medium,2019-03-29 14:58:00,2014-01-03 00:00:00,Spayed Female,5.0,0.0,2019,1
+A729450,2016-06-18 14:53:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,dark,2016-06-28 18:45:00,2016-04-18 00:00:00,Neutered Male,0.16666666666666666,0.0,2016,6
+A806545,2019-10-12 12:29:00,Owner Surrender,Normal,Dog,Intact Male,14.0,Pit Bull Mix,light,2019-10-14 14:07:00,2005-10-12 00:00:00,Intact Male,14.0,0.0,2019,10
+A767286,2018-02-26 14:34:00,Stray,Normal,Dog,Intact Female,1.0,Border Terrier Mix,dark,2018-03-03 11:41:00,2017-02-26 00:00:00,Spayed Female,1.0,0.0,2018,2
+A760250,2017-10-15 12:33:00,Stray,Normal,Cat,Neutered Male,8.0,Domestic Shorthair Mix,light,2017-12-29 18:14:00,2009-10-15 00:00:00,Neutered Male,8.0,0.0,2017,10
+A703653,2015-05-27 16:11:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,dark,2015-06-20 19:11:00,2015-04-13 00:00:00,Spayed Female,0.16666666666666666,0.0,2015,5
+A747545,2017-04-21 08:46:00,Stray,Injured,Cat,Unknown,8.0,Domestic Shorthair Mix,dark,2017-04-21 10:24:00,2009-04-21 00:00:00,Unknown,8.0,1.0,2017,4
+A677984,2014-05-02 11:32:00,Public Assist,Normal,Dog,Intact Female,2.0,American Pit Bull Terrier Mix,dark,2014-08-04 16:36:00,2012-05-02 00:00:00,Spayed Female,2.0,0.0,2014,5
+A797349,2019-06-12 13:21:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,medium,2019-06-19 18:25:00,2019-05-02 00:00:00,Spayed Female,0.08333333333333333,0.0,2019,6
+A675416,2014-03-27 12:12:00,Owner Surrender,Normal,Dog,Spayed Female,1.0,West Highland/Chihuahua Shorthair,light,2014-04-01 13:22:00,2013-03-27 00:00:00,Spayed Female,1.0,0.0,2014,3
+A797914,2019-06-19 12:56:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,dark,2019-06-23 16:57:00,2019-05-12 00:00:00,Intact Female,0.08333333333333333,0.0,2019,6
+A757259,2017-09-01 07:57:00,Public Assist,Normal,Dog,Intact Male,1.0,Pit Bull Mix,dark,2017-09-28 09:45:00,2016-09-01 00:00:00,Intact Male,1.0,0.0,2017,9
+A671158,2014-08-24 16:43:00,Stray,Normal,Dog,Neutered Male,1.0,Black Mouth Cur Mix,dark,2014-08-26 13:34:00,2013-06-19 00:00:00,Neutered Male,1.0,0.0,2014,8
+A810200,2019-12-09 10:35:00,Stray,Normal,Dog,Intact Female,2.0,Border Terrier,light,2019-12-13 15:26:00,2017-12-09 00:00:00,Spayed Female,2.0,0.0,2019,12
+A756237,2017-08-16 12:29:00,Owner Surrender,Normal,Dog,Intact Male,7.0,Chihuahua Shorthair Mix,dark,2017-09-02 18:30:00,2010-08-16 00:00:00,Neutered Male,7.0,0.0,2017,8
+A775481,2018-06-30 17:00:00,Stray,Normal,Dog,Intact Female,1.0,Siberian Husky Mix,dark,2018-07-11 17:21:00,2017-06-30 00:00:00,Spayed Female,1.0,0.0,2018,6
+A765850,2018-08-22 12:44:00,Owner Surrender,Normal,Dog,Neutered Male,0.6666666666666666,Dalmatian/Pit Bull,light,2018-08-22 18:10:00,2017-12-20 00:00:00,Neutered Male,0.6666666666666666,0.0,2018,8
+A786384,2018-12-23 11:20:00,Stray,Normal,Dog,Intact Female,0.08333333333333333,Australian Shepherd Mix,dark,2019-01-19 16:15:00,2018-11-13 00:00:00,Spayed Female,0.16666666666666666,0.0,2018,12
+A765609,2018-01-23 13:25:00,Stray,Injured,Dog,Intact Male,3.0,Australian Cattle Dog Mix,medium,2018-01-29 15:53:00,2015-01-23 00:00:00,Neutered Male,3.0,0.0,2018,1
+A694897,2015-01-06 11:35:00,Stray,Nursing,Dog,Intact Female,0.038461538461538464,Pit Bull Mix,dark,2015-01-08 12:38:00,2014-12-22 00:00:00,Intact Female,0.038461538461538464,0.0,2015,1
+A744663,2017-03-05 12:44:00,Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair Mix,light,2017-03-06 09:00:00,2016-03-05 00:00:00,Neutered Male,1.0,0.0,2017,3
+A695636,2015-01-19 15:37:00,Owner Surrender,Normal,Dog,Intact Female,0.07692307692307693,Border Collie Mix,dark,2015-02-18 06:51:00,2014-12-22 00:00:00,Spayed Female,0.08333333333333333,0.0,2015,1
+A685585,2014-08-09 14:48:00,Owner Surrender,Sick,Dog,Intact Female,0.5833333333333334,Siberian Husky,dark,2014-08-12 11:29:00,2013-12-09 00:00:00,Spayed Female,0.6666666666666666,0.0,2014,8
+A785267,2018-11-29 16:05:00,Owner Surrender,Normal,Cat,Spayed Female,4.0,Domestic Shorthair Mix,dark,2018-12-15 16:01:00,2014-11-29 00:00:00,Spayed Female,4.0,0.0,2018,11
+A739645,2016-12-10 11:42:00,Public Assist,Normal,Dog,Intact Female,2.0,Pit Bull Mix,medium,2016-12-17 12:08:00,2014-12-05 00:00:00,Intact Female,2.0,0.0,2016,12
+A789561,2019-02-23 18:20:00,Stray,Normal,Dog,Intact Male,2.0,German Shepherd,dark,2019-03-01 19:04:00,2017-02-23 00:00:00,Neutered Male,2.0,0.0,2019,2
+A751379,2017-06-07 12:18:00,Stray,Normal,Dog,Intact Female,1.0,Pit Bull Mix,dark,2017-06-14 17:30:00,2015-12-07 00:00:00,Spayed Female,1.0,0.0,2017,6
+A804447,2019-09-14 16:38:00,Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair,dark,2019-10-20 17:35:00,2019-06-29 00:00:00,Neutered Male,0.25,0.0,2019,9
+A763591,2017-12-11 14:11:00,Stray,Normal,Dog,Intact Female,1.0,Staffordshire Mix,medium,2018-08-19 15:28:00,2016-12-11 00:00:00,Spayed Female,1.0,0.0,2017,12
+A703960,2015-05-30 18:41:00,Stray,Nursing,Cat,Unknown,0.00821917808219178,Domestic Shorthair Mix,dark,2015-05-30 18:42:00,2015-05-27 00:00:00,Unknown,0.00821917808219178,0.0,2015,5
+A683076,2014-07-06 16:41:00,Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair Mix,light,2014-07-11 15:35:00,2013-07-06 00:00:00,Intact Female,1.0,0.0,2014,7
+A756507,2017-08-21 11:01:00,Owner Surrender,Normal,Other,Intact Male,0.4166666666666667,Rabbit Sh Mix,medium,2017-08-24 18:17:00,2017-03-21 00:00:00,Intact Male,0.4166666666666667,0.0,2017,8
+A758330,2017-09-14 11:54:00,Owner Surrender,Normal,Other,Intact Female,0.4166666666666667,Guinea Pig Mix,light,2017-09-14 15:37:00,2017-04-14 00:00:00,Intact Female,0.4166666666666667,0.0,2017,9
+A807992,2019-11-02 16:25:00,Stray,Normal,Cat,Intact Female,2.0,Domestic Shorthair,medium,2019-11-10 09:02:00,2017-11-02 00:00:00,Intact Female,2.0,1.0,2019,11
+A790714,2019-03-15 11:07:00,Stray,Normal,Dog,Intact Female,1.0,Alaskan Husky Mix,light,2019-03-19 16:23:00,2018-03-15 00:00:00,Spayed Female,1.0,0.0,2019,3
+A751859,2017-10-09 12:05:00,Owner Surrender,Normal,Cat,Spayed Female,0.4166666666666667,Domestic Shorthair Mix,medium,2017-10-12 13:35:00,2017-04-27 00:00:00,Spayed Female,0.4166666666666667,0.0,2017,10
+A780947,2018-09-22 14:07:00,Stray,Normal,Dog,Intact Male,2.0,Wire Hair Fox Terrier Mix,Tricolor,2018-09-26 16:53:00,2016-09-22 00:00:00,Neutered Male,2.0,0.0,2018,9
+A793067,2019-07-12 17:21:00,Public Assist,Normal,Dog,Intact Male,2.0,German Shepherd,dark,2019-07-19 18:34:00,2017-04-19 00:00:00,Intact Male,2.0,0.0,2019,7
+A716491,2015-11-19 22:38:00,Stray,Normal,Dog,Intact Male,4.0,Australian Cattle Dog Mix,medium,2015-11-28 17:10:00,2011-11-19 00:00:00,Neutered Male,4.0,0.0,2015,11
+A667990,2013-11-26 11:12:00,Stray,Normal,Dog,Intact Female,2.0,Pit Bull Mix,dark,2014-01-27 16:17:00,2011-11-26 00:00:00,Spayed Female,2.0,0.0,2013,11
+A667336,2013-11-16 12:37:00,Stray,Normal,Dog,Intact Female,2.0,Chihuahua Shorthair Mix,light,2013-12-04 12:04:00,2011-11-16 00:00:00,Spayed Female,2.0,0.0,2013,11
+A800022,2019-07-15 13:41:00,Stray,Normal,Cat,Unknown,1.0,Domestic Medium Hair,medium,2019-07-19 11:54:00,2018-07-15 00:00:00,Unknown,1.0,0.0,2019,7
+A679330,2014-05-27 16:04:00,Owner Surrender,Normal,Dog,Intact Male,0.5833333333333334,Pit Bull Mix,light,2014-06-18 12:49:00,2013-10-19 00:00:00,Neutered Male,0.5833333333333334,0.0,2014,5
+A714028,2015-10-17 09:39:00,Owner Surrender,Normal,Cat,Neutered Male,5.0,Domestic Shorthair Mix,medium,2016-09-21 13:39:00,2010-10-10 00:00:00,Neutered Male,5.0,0.0,2015,10
+A723818,2016-04-07 13:11:00,Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Shorthair Mix,light,2016-05-14 19:07:00,2016-03-07 00:00:00,Neutered Male,0.16666666666666666,0.0,2016,4
+A746553,2017-04-04 17:15:00,Stray,Normal,Cat,Intact Female,0.019230769230769232,Domestic Shorthair Mix,dark,2017-04-04 17:16:00,2017-03-28 00:00:00,Intact Female,0.019230769230769232,0.0,2017,4
+A808522,2019-11-10 12:08:00,Stray,Normal,Cat,Intact Female,4.0,Domestic Shorthair,dark,2019-11-14 12:23:00,2015-11-10 00:00:00,Intact Female,4.0,0.0,2019,11
+A689617,2014-10-07 11:12:00,Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair Mix,dark,2014-10-12 12:24:00,2014-07-23 00:00:00,Neutered Male,0.16666666666666666,0.0,2014,10
+A674654,2014-03-16 13:55:00,Wildlife,Sick,Other,Unknown,1.0,Raccoon Mix,dark,2014-03-16 15:17:00,2013-03-16 00:00:00,Unknown,1.0,1.0,2014,3
+A732994,2017-10-17 11:15:00,Stray,Normal,Cat,Intact Female,2.0,Domestic Shorthair Mix,medium,2017-10-19 13:04:00,2015-05-03 00:00:00,Intact Female,2.0,0.0,2017,10
+A713214,2015-10-04 11:37:00,Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Shorthair Mix,dark,2015-10-07 14:22:00,2015-09-04 00:00:00,Intact Male,0.07692307692307693,0.0,2015,10
+A753778,2017-07-11 10:52:00,Stray,Normal,Dog,Intact Female,0.08333333333333333,German Shepherd Mix,dark,2017-07-16 18:11:00,2017-05-11 00:00:00,Spayed Female,0.16666666666666666,0.0,2017,7
+A731496,2017-08-16 17:45:00,Stray,Normal,Dog,Neutered Male,2.0,Pit Bull Mix,light,2017-08-23 19:02:00,2015-07-23 00:00:00,Neutered Male,2.0,0.0,2017,8
+A712880,2015-09-29 13:01:00,Owner Surrender,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair Mix,light,2015-10-07 12:21:00,2015-07-14 00:00:00,Neutered Male,0.16666666666666666,0.0,2015,9
+A681260,2014-06-14 12:15:00,Stray,Normal,Cat,Intact Female,0.16666666666666666,Domestic Medium Hair Mix,dark,2014-07-02 16:57:00,2014-04-03 00:00:00,Spayed Female,0.16666666666666666,0.0,2014,6
+A669764,2013-12-26 18:32:00,Stray,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever Mix,dark,2014-01-02 11:21:00,2013-10-11 00:00:00,Intact Female,0.16666666666666666,0.0,2013,12
+A707936,2015-07-20 13:34:00,Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair Mix,dark,2015-07-21 09:00:00,2014-07-20 00:00:00,Intact Female,1.0,0.0,2015,7
+A754515,2017-07-29 14:47:00,Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair Mix,light,2017-07-31 16:37:00,2017-05-09 00:00:00,Intact Male,0.16666666666666666,0.0,2017,7
+A678126,2014-05-04 12:09:00,Stray,Normal,Cat,Intact Female,0.07692307692307693,Domestic Shorthair Mix,dark,2014-06-16 12:57:00,2014-04-04 00:00:00,Spayed Female,0.16666666666666666,0.0,2014,5
+A785767,2018-12-09 15:08:00,Stray,Normal,Dog,Intact Male,2.0,Alaskan Husky Mix,light,2019-01-02 18:30:00,2016-12-09 00:00:00,Neutered Male,2.0,0.0,2018,12
+A688062,2014-09-14 08:16:00,Stray,Normal,Dog,Intact Male,0.4166666666666667,Labrador Retriever Mix,dark,2014-09-27 15:09:00,2014-04-14 00:00:00,Neutered Male,0.4166666666666667,0.0,2014,9
+A708141,2017-10-10 13:49:00,Stray,Normal,Dog,Spayed Female,4.0,Chinese Sharpei Mix,medium,2017-10-10 16:20:00,2013-07-23 00:00:00,Spayed Female,4.0,0.0,2017,10
+A754917,2017-10-06 13:46:00,Owner Surrender,Normal,Other,Neutered Male,0.5,Rabbit Sh Mix,dark,2017-11-12 12:53:00,2017-03-26 00:00:00,Neutered Male,0.5833333333333334,0.0,2017,10
+A796696,2019-06-04 13:26:00,Public Assist,Normal,Dog,Intact Male,3.0,Lhasa Apso,light,2019-06-10 14:44:00,2016-06-04 00:00:00,Intact Male,3.0,0.0,2019,6
+A796085,2019-05-28 14:46:00,Stray,Normal,Cat,Intact Female,0.07692307692307693,Domestic Shorthair,dark,2019-07-07 17:57:00,2019-04-24 00:00:00,Spayed Female,0.16666666666666666,0.0,2019,5
+A691114,2014-10-30 11:39:00,Stray,Normal,Dog,Intact Male,0.5,Landseer Mix,dark,2014-11-23 17:42:00,2014-04-30 00:00:00,Neutered Male,0.5,0.0,2014,10
+A695441,2015-01-15 16:58:00,Stray,Normal,Dog,Intact Male,2.0,Pit Bull Mix,dark,2015-01-22 17:18:00,2013-01-15 00:00:00,Intact Male,2.0,0.0,2015,1
+A706573,2015-06-30 15:39:00,Stray,Normal,Cat,Intact Male,0.038461538461538464,Domestic Shorthair Mix,dark,2015-07-03 13:59:00,2015-06-15 00:00:00,Intact Male,0.038461538461538464,0.0,2015,6
+A729208,2016-06-14 17:18:00,Stray,Normal,Cat,Unknown,0.07692307692307693,Domestic Shorthair Mix,medium,2016-06-14 19:57:00,2016-05-14 00:00:00,Unknown,0.07692307692307693,0.0,2016,6
+A745323,2017-03-16 11:11:00,Stray,Normal,Dog,Intact Female,2.0,Black Mouth Cur Mix,medium,2017-03-24 16:00:00,2015-03-16 00:00:00,Intact Female,2.0,0.0,2017,3
+A741410,2017-05-21 16:13:00,Owner Surrender,Normal,Dog,Spayed Female,8.0,Australian Cattle Dog Mix,dark,2018-06-12 13:10:00,2009-01-01 00:00:00,Spayed Female,9.0,0.0,2017,5
+A695204,2015-01-11 04:45:00,Stray,Normal,Dog,Neutered Male,1.0,Rhod Ridgeback Mix,medium,2015-01-26 17:02:00,2014-01-11 00:00:00,Neutered Male,1.0,0.0,2015,1
+A666390,2013-10-31 13:03:00,Stray,Normal,Dog,Intact Female,2.0,Pit Bull Mix,dark,2013-10-31 15:43:00,2011-10-31 00:00:00,Intact Female,2.0,0.0,2013,10
+A790213,2019-03-06 15:07:00,Stray,Normal,Dog,Intact Female,1.0,German Shepherd/Pointer,dark,2019-03-20 12:59:00,2018-03-06 00:00:00,Spayed Female,1.0,0.0,2019,3
+A748245,2017-05-01 11:29:00,Owner Surrender,Normal,Dog,Intact Female,0.08333333333333333,Chihuahua Shorthair Mix,medium,2017-05-03 14:48:00,2017-03-01 00:00:00,Intact Female,0.16666666666666666,0.0,2017,5
+A703343,2015-05-23 13:24:00,Stray,Normal,Cat,Unknown,0.019230769230769232,Domestic Shorthair Mix,dark,2015-05-23 15:45:00,2015-05-16 00:00:00,Unknown,0.019230769230769232,0.0,2015,5
+A632476,2014-02-15 14:26:00,Stray,Normal,Dog,Spayed Female,3.0,Labrador Retriever Mix,dark,2014-02-16 14:42:00,2010-07-16 00:00:00,Spayed Female,3.0,0.0,2014,2
+A736413,2016-10-10 12:20:00,Stray,Normal,Cat,Unknown,0.057692307692307696,Domestic Shorthair Mix,dark,2016-10-10 14:45:00,2016-09-18 00:00:00,Unknown,0.057692307692307696,0.0,2016,10
+A703228,2015-05-22 07:17:00,Wildlife,Injured,Other,Unknown,1.0,Opossum Mix,dark,2015-05-26 15:52:00,2014-05-22 00:00:00,Unknown,1.0,0.0,2015,5
+A692558,2014-11-22 16:09:00,Stray,Normal,Cat,Intact Male,0.057692307692307696,Domestic Shorthair Mix,dark,2015-01-06 08:14:00,2014-10-29 00:00:00,Neutered Male,0.16666666666666666,0.0,2014,11
+A719691,2016-02-13 11:51:00,Stray,Normal,Dog,Neutered Male,6.0,Collie Rough Mix,dark,2016-02-18 11:28:00,2009-02-20 00:00:00,Neutered Male,6.0,0.0,2016,2
+A810202,2019-12-09 10:48:00,Owner Surrender,Normal,Dog,Neutered Male,0.08333333333333333,Labrador Retriever,dark,2019-12-12 19:19:00,2019-10-09 00:00:00,Neutered Male,0.16666666666666666,0.0,2019,12
+A665256,2013-10-15 17:25:00,Owner Surrender,Sick,Cat,Neutered Male,1.0,Domestic Shorthair Mix,light,2013-10-15 19:02:00,2012-10-15 00:00:00,Neutered Male,1.0,1.0,2013,10
+A742508,2017-01-22 17:14:00,Stray,Normal,Dog,Intact Female,1.0,Pit Bull Mix,medium,2017-01-23 13:02:00,2016-01-22 00:00:00,Intact Female,1.0,0.0,2017,1
+A668766,2013-12-09 10:57:00,Stray,Normal,Dog,Intact Male,1.0,Newfoundland/Queensland Heeler,dark,2013-12-29 18:33:00,2012-12-09 00:00:00,Neutered Male,1.0,0.0,2013,12
+A696218,2015-01-31 11:37:00,Stray,Normal,Cat,Intact Male,0.4166666666666667,Domestic Shorthair Mix,dark,2015-02-06 16:50:00,2014-08-31 00:00:00,Neutered Male,0.4166666666666667,0.0,2015,1
+A806012,2019-10-04 18:45:00,Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair,medium,2019-10-10 12:26:00,2019-07-13 00:00:00,Neutered Male,0.16666666666666666,0.0,2019,10
+A726487,2016-05-11 12:58:00,Stray,Normal,Dog,Intact Female,0.5833333333333334,Pit Bull Mix,light,2016-05-19 18:29:00,2015-10-11 00:00:00,Spayed Female,0.5833333333333334,0.0,2016,5
+A700057,2015-04-07 10:54:00,Stray,Normal,Dog,Intact Female,3.0,Boxer Mix,dark,2015-04-16 13:58:00,2012-04-07 00:00:00,Spayed Female,3.0,0.0,2015,4
+A354540,2014-12-11 11:48:00,Owner Surrender,Normal,Cat,Neutered Male,10.0,Domestic Shorthair Mix,dark,2015-01-22 12:07:00,2004-04-28 00:00:00,Neutered Male,10.0,0.0,2014,12
+A741273,2016-12-30 12:42:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Medium Hair Mix,dark,2017-01-03 18:56:00,2016-10-30 00:00:00,Neutered Male,0.16666666666666666,0.0,2016,12
+A704385,2015-06-04 11:25:00,Stray,Normal,Dog,Spayed Female,6.0,Beagle/Dachshund,dark,2015-06-08 13:49:00,2009-06-04 00:00:00,Spayed Female,6.0,0.0,2015,6
+A791128,2019-03-21 15:21:00,Stray,Normal,Dog,Intact Female,1.0,Pit Bull Mix,dark,2019-03-28 18:24:00,2018-03-21 00:00:00,Spayed Female,1.0,0.0,2019,3
+A784327,2018-11-14 13:25:00,Owner Surrender,Normal,Cat,Neutered Male,0.5,Domestic Medium Hair Mix,medium,2018-11-19 11:57:00,2018-05-14 00:00:00,Neutered Male,0.5,0.0,2018,11
+A741550,2017-01-03 16:49:00,Stray,Normal,Dog,Intact Male,2.0,Rat Terrier Mix,light,2017-01-14 09:22:00,2015-01-03 00:00:00,Intact Male,2.0,1.0,2017,1
+A736984,2016-10-20 13:59:00,Stray,Normal,Dog,Intact Female,1.0,Rottweiler Mix,dark,2016-10-29 18:00:00,2015-10-20 00:00:00,Spayed Female,1.0,0.0,2016,10
+A800095,2019-07-16 11:52:00,Public Assist,Normal,Other,Unknown,1.0,Cold Water,dark,2019-07-17 12:43:00,2018-07-16 00:00:00,Unknown,1.0,1.0,2019,7
+A807473,2019-10-25 13:48:00,Owner Surrender,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,dark,2019-10-31 18:55:00,2019-08-25 00:00:00,Spayed Female,0.16666666666666666,0.0,2019,10
+A782687,2018-10-19 16:31:00,Stray,Normal,Dog,Intact Female,3.0,Dachshund/Chihuahua Shorthair,medium,2018-10-22 15:41:00,2014-10-22 00:00:00,Intact Female,4.0,0.0,2018,10
+A805155,2019-09-23 13:32:00,Owner Surrender,Normal,Cat,Spayed Female,2.0,Domestic Shorthair Mix,dark,2019-10-01 13:10:00,2017-09-23 00:00:00,Spayed Female,2.0,0.0,2019,9
+A707685,2015-07-16 11:05:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,dark,2015-08-21 15:43:00,2015-06-01 00:00:00,Neutered Male,0.16666666666666666,0.0,2015,7
+A761451,2017-11-05 09:29:00,Public Assist,Sick,Dog,Intact Female,0.07692307692307693,Border Collie Mix,dark,2017-11-08 07:48:00,2017-10-05 00:00:00,Intact Female,0.07692307692307693,0.0,2017,11
+A804731,2019-09-18 11:36:00,Owner Surrender,Normal,Dog,Intact Male,1.0,Pointer Mix,light,2019-09-27 15:43:00,2018-02-18 00:00:00,Intact Male,1.0,0.0,2019,9
+A808878,2019-11-15 14:09:00,Stray,Normal,Dog,Intact Female,1.0,Pit Bull,dark,2019-12-03 14:21:00,2018-11-15 00:00:00,Intact Female,1.0,0.0,2019,11
+A689155,2014-09-30 11:01:00,Owner Surrender,Normal,Cat,Spayed Female,13.0,Domestic Shorthair Mix,medium,2014-10-19 17:23:00,2001-09-30 00:00:00,Spayed Female,13.0,0.0,2014,9
+A800099,2019-07-16 11:52:00,Public Assist,Normal,Other,Unknown,1.0,Cold Water,dark,2019-07-20 09:55:00,2018-07-16 00:00:00,Unknown,1.0,1.0,2019,7
+A758216,2017-09-12 18:57:00,Stray,Normal,Cat,Intact Female,0.25,Domestic Shorthair Mix,medium,2017-09-17 18:06:00,2017-06-12 00:00:00,Spayed Female,0.25,0.0,2017,9
+A756195,2017-08-15 15:06:00,Stray,Normal,Dog,Intact Male,0.25,Great Pyrenees Mix,light,2017-08-15 15:07:00,2017-05-15 00:00:00,Intact Male,0.25,0.0,2017,8
+A739429,2016-12-03 09:36:00,Stray,Other,Dog,Intact Female,5.0,Pit Bull Mix,dark,2016-12-06 13:10:00,2010-12-06 00:00:00,Intact Female,6.0,0.0,2016,12
+A722351,2016-03-15 11:33:00,Stray,Normal,Dog,Neutered Male,3.0,Chihuahua Shorthair Mix,dark,2016-03-19 15:39:00,2013-03-15 00:00:00,Neutered Male,3.0,0.0,2016,3
+A725878,2016-05-03 15:40:00,Stray,Normal,Cat,Spayed Female,2.0,Domestic Shorthair Mix,dark,2016-05-06 10:49:00,2014-05-03 00:00:00,Spayed Female,2.0,0.0,2016,5
+A778165,2018-08-09 13:34:00,Stray,Nursing,Cat,Unknown,0.038461538461538464,Domestic Medium Hair Mix,light,2018-08-09 17:38:00,2018-07-25 00:00:00,Unknown,0.038461538461538464,0.0,2018,8
+A809800,2019-12-01 16:01:00,Stray,Normal,Dog,Intact Male,1.0,Dachshund/Chihuahua Shorthair,dark,2019-12-06 18:14:00,2018-12-01 00:00:00,Neutered Male,1.0,0.0,2019,12
+A773269,2018-05-29 17:40:00,Stray,Normal,Dog,Intact Female,1.0,Labrador Retriever Mix,light,2018-06-04 18:37:00,2017-05-29 00:00:00,Spayed Female,1.0,0.0,2018,5
+A772039,2018-05-13 23:45:00,Public Assist,Normal,Dog,Intact Female,2.0,Pit Bull Mix,medium,2018-05-15 18:42:00,2016-05-13 00:00:00,Intact Female,2.0,0.0,2018,5
+A693035,2014-11-30 16:44:00,Stray,Normal,Dog,Intact Female,5.0,Beagle Mix,light,2014-12-06 17:33:00,2009-11-30 00:00:00,Spayed Female,5.0,0.0,2014,11
+A770430,2019-03-16 18:13:00,Stray,Normal,Dog,Intact Male,1.0,German Shepherd/Labrador Retriever,dark,2019-03-30 14:47:00,2018-01-19 00:00:00,Neutered Male,1.0,0.0,2019,3
+A764390,2017-12-29 11:30:00,Stray,Normal,Dog,Intact Female,0.16666666666666666,Pit Bull Mix,light,2018-01-03 21:12:00,2017-10-19 00:00:00,Spayed Female,0.16666666666666666,0.0,2017,12
+A787117,2019-01-07 19:13:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair Mix,dark,2019-01-14 17:39:00,2018-11-14 00:00:00,Intact Female,0.08333333333333333,0.0,2019,1
+A786286,2018-12-21 12:19:00,Owner Surrender,Normal,Dog,Spayed Female,2.0,Australian Shepherd Mix,dark,2018-12-27 12:16:00,2016-12-21 00:00:00,Spayed Female,2.0,0.0,2018,12
+A743577,2017-02-12 23:45:00,Public Assist,Normal,Dog,Intact Female,2.0,German Shepherd Mix,medium,2017-02-20 13:48:00,2015-02-13 00:00:00,Intact Female,2.0,0.0,2017,2
+A679692,2014-08-05 18:45:00,Owner Surrender,Normal,Cat,Spayed Female,2.0,Domestic Shorthair Mix,dark,2014-08-06 15:52:00,2012-05-24 00:00:00,Spayed Female,2.0,0.0,2014,8
+A757137,2017-08-30 14:45:00,Stray,Injured,Cat,Intact Female,0.16666666666666666,Domestic Medium Hair Mix,medium,2017-08-30 15:25:00,2017-06-15 00:00:00,Intact Female,0.16666666666666666,1.0,2017,8
+A774816,2018-06-20 16:23:00,Owner Surrender,Normal,Cat,Spayed Female,1.0,Domestic Shorthair Mix,medium,2018-07-05 19:01:00,2016-12-20 00:00:00,Spayed Female,1.0,0.0,2018,6
+A750697,2017-05-31 12:08:00,Public Assist,Normal,Dog,Neutered Male,2.0,Maltese/Toy Poodle,light,2017-06-09 19:17:00,2015-05-30 00:00:00,Neutered Male,2.0,0.0,2017,5
+A767103,2018-02-23 15:11:00,Owner Surrender,Normal,Cat,Intact Female,2.0,Siamese,medium,2018-02-27 15:03:00,2016-02-23 00:00:00,Spayed Female,2.0,0.0,2018,2
+A734163,2016-09-02 12:22:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Medium Hair Mix,light,2016-09-28 08:37:00,2016-07-18 00:00:00,Neutered Male,0.16666666666666666,0.0,2016,9
+A727057,2016-05-17 16:43:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair Mix,dark,2016-07-09 20:29:00,2016-04-10 00:00:00,Spayed Female,0.16666666666666666,0.0,2016,5
+A700946,2015-04-21 15:56:00,Stray,Normal,Dog,Intact Male,1.0,Chihuahua Shorthair/Rat Terrier,Tricolor,2015-05-04 13:14:00,2014-04-21 00:00:00,Neutered Male,1.0,0.0,2015,4
+A803915,2019-09-08 13:11:00,Owner Surrender,Normal,Dog,Intact Male,3.0,Australian Cattle Dog,dark,2019-11-07 00:00:00,2016-09-08 00:00:00,Intact Male,3.0,0.0,2019,9
+A755276,2017-07-31 18:01:00,Stray,Normal,Dog,Intact Female,7.0,Pomeranian Mix,medium,2017-08-02 11:22:00,2010-08-01 00:00:00,Intact Female,7.0,0.0,2017,7
+A711186,2018-10-27 14:42:00,Owner Surrender,Normal,Dog,Neutered Male,10.0,Rat Terrier/Chihuahua Shorthair,light,2018-12-04 11:39:00,2008-09-04 00:00:00,Neutered Male,10.0,0.0,2018,10
+A778676,2018-08-18 16:29:00,Stray,Normal,Cat,Spayed Female,0.25,Domestic Shorthair Mix,dark,2018-08-22 14:14:00,2018-05-18 00:00:00,Spayed Female,0.25,0.0,2018,8
+A725497,2016-04-29 16:30:00,Stray,Normal,Dog,Spayed Female,7.0,Labrador Retriever Mix,dark,2016-05-10 11:45:00,2009-04-30 00:00:00,Spayed Female,7.0,0.0,2016,4
+A607884,2014-11-13 15:45:00,Owner Surrender,Normal,Dog,Spayed Female,8.0,Border Collie Mix,dark,2014-11-16 16:21:00,2006-08-18 00:00:00,Spayed Female,8.0,0.0,2014,11
+A686049,2014-08-15 18:48:00,Wildlife,Normal,Other,Unknown,1.0,Bat Mix,dark,2014-08-16 08:43:00,2013-08-15 00:00:00,Unknown,1.0,1.0,2014,8
+A741561,2017-01-03 18:23:00,Stray,Normal,Dog,Intact Male,1.0,German Shepherd Mix,light,2017-01-05 11:56:00,2016-01-03 00:00:00,Intact Male,1.0,0.0,2017,1
+A699139,2015-03-23 11:44:00,Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Shorthair Mix,dark,2015-05-12 13:59:00,2015-02-23 00:00:00,Neutered Male,0.16666666666666666,0.0,2015,3
+A721866,2016-03-06 11:41:00,Owner Surrender,Normal,Dog,Intact Female,0.08333333333333333,Australian Cattle Dog Mix,medium,2016-03-08 16:36:00,2016-01-06 00:00:00,Spayed Female,0.16666666666666666,0.0,2016,3
+A757096,2017-08-29 16:44:00,Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,Chihuahua Shorthair Mix,dark,2017-09-01 12:44:00,2017-06-29 00:00:00,Neutered Male,0.16666666666666666,0.0,2017,8
+A746654,2017-04-06 11:40:00,Stray,Normal,Dog,Neutered Male,3.0,Dachshund Mix,medium,2017-04-10 17:38:00,2014-04-06 00:00:00,Neutered Male,3.0,0.0,2017,4
+A796489,2019-06-02 12:20:00,Owner Surrender,Normal,Dog,Spayed Female,11.0,Doberman Pinsch,dark,2019-06-08 17:52:00,2008-02-02 00:00:00,Spayed Female,11.0,0.0,2019,6
+A695129,2015-01-09 14:31:00,Stray,Normal,Cat,Intact Male,2.0,Domestic Shorthair Mix,dark,2015-01-10 09:00:00,2013-01-09 00:00:00,Intact Male,2.0,0.0,2015,1
+A632131,2016-12-11 12:46:00,Owner Surrender,Normal,Dog,Spayed Female,4.0,Beagle Mix,medium,2017-05-24 09:17:00,2012-05-12 00:00:00,Spayed Female,5.0,0.0,2016,12
+A610074,2016-05-03 12:17:00,Owner Surrender,Normal,Cat,Spayed Female,5.0,Siamese Mix,medium,2016-06-28 15:18:00,2011-05-03 00:00:00,Spayed Female,5.0,0.0,2016,5
+A801368,2019-08-03 11:59:00,Owner Surrender,Normal,Cat,Spayed Female,7.0,Domestic Medium Hair Mix,medium,2019-09-21 12:51:00,2012-08-03 00:00:00,Spayed Female,7.0,0.0,2019,8
+A792996,2019-04-18 10:52:00,Stray,Normal,Dog,Intact Female,0.038461538461538464,Anatol Shepherd/German Shepherd,medium,2019-04-18 13:37:00,2019-03-30 00:00:00,Intact Female,0.038461538461538464,0.0,2019,4
+A773747,2018-11-14 19:44:00,Public Assist,Normal,Dog,Neutered Male,3.0,Boxer Mix,medium,2018-11-25 12:30:00,2015-06-05 00:00:00,Neutered Male,3.0,0.0,2018,11
+A722986,2016-03-24 17:11:00,Wildlife,Normal,Other,Unknown,2.0,Bat Mix,dark,2016-03-24 17:18:00,2014-03-24 00:00:00,Unknown,2.0,1.0,2016,3
+A710333,2015-08-21 16:13:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair Mix,dark,2015-09-21 15:54:00,2015-07-06 00:00:00,Intact Female,0.16666666666666666,0.0,2015,8
+A780158,2018-09-10 13:52:00,Stray,Normal,Cat,Spayed Female,0.5,Domestic Shorthair Mix,dark,2018-09-14 17:00:00,2018-03-10 00:00:00,Spayed Female,0.5,0.0,2018,9
+A777309,2018-07-26 16:24:00,Stray,Normal,Dog,Neutered Male,10.0,Doberman Pinsch Mix,dark,2018-08-05 14:08:00,2008-07-26 00:00:00,Neutered Male,10.0,0.0,2018,7
+A791490,2019-03-26 12:59:00,Stray,Normal,Dog,Intact Female,1.0,Pit Bull Mix,dark,2019-04-04 21:16:00,2017-09-26 00:00:00,Spayed Female,1.0,0.0,2019,3
+A807372,2019-10-24 11:41:00,Owner Surrender,Normal,Dog,Neutered Male,8.0,Dachshund/Chihuahua Shorthair,medium,2019-10-25 13:00:00,2011-10-24 00:00:00,Neutered Male,8.0,0.0,2019,10
+A753879,2017-07-12 09:09:00,Stray,Normal,Cat,Intact Female,2.0,Domestic Shorthair Mix,dark,2017-08-08 18:45:00,2015-07-12 00:00:00,Spayed Female,2.0,0.0,2017,7
+A729250,2016-06-15 11:44:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,light,2016-06-28 00:00:00,2016-04-15 00:00:00,Neutered Male,0.16666666666666666,0.0,2016,6
+A738671,2016-11-19 11:17:00,Stray,Normal,Cat,Intact Female,0.5833333333333334,Domestic Shorthair Mix,dark,2016-11-20 11:20:00,2016-04-07 00:00:00,Intact Female,0.5833333333333334,0.0,2016,11
+A763383,2017-12-08 19:10:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,dark,2017-12-12 15:55:00,2017-10-08 00:00:00,Neutered Male,0.16666666666666666,0.0,2017,12
+A704726,2015-06-08 12:37:00,Stray,Normal,Dog,Spayed Female,8.0,Border Collie Mix,dark,2015-07-05 13:59:00,2007-06-08 00:00:00,Spayed Female,8.0,0.0,2015,6
+A739765,2016-12-06 21:18:00,Stray,Normal,Dog,Intact Female,0.16666666666666666,Great Pyrenees Mix,light,2016-12-13 11:29:00,2016-09-20 00:00:00,Intact Female,0.16666666666666666,0.0,2016,12
+A806685,2019-10-14 13:15:00,Stray,Normal,Cat,Intact Male,0.057692307692307696,Domestic Shorthair,medium,2019-10-14 16:40:00,2019-09-22 00:00:00,Intact Male,0.057692307692307696,0.0,2019,10
+A795097,2019-05-16 10:53:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,medium,2019-06-11 16:35:00,2019-04-08 00:00:00,Spayed Female,0.16666666666666666,0.0,2019,5
+A794129,2019-05-04 12:13:00,Stray,Normal,Dog,Intact Female,2.0,German Shepherd Mix,dark,2019-05-06 13:51:00,2017-05-04 00:00:00,Intact Female,2.0,0.0,2019,5
+A747592,2017-04-21 18:31:00,Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair Mix,medium,2017-04-25 00:00:00,2016-04-21 00:00:00,Neutered Male,1.0,0.0,2017,4
+A788550,2019-02-04 14:34:00,Stray,Normal,Dog,Intact Female,4.0,Shih Tzu Mix,dark,2019-02-08 11:47:00,2015-02-04 00:00:00,Intact Female,4.0,0.0,2019,2
+A770005,2018-04-14 11:05:00,Stray,Normal,Cat,Unknown,1.0,Domestic Shorthair Mix,dark,2018-04-18 00:00:00,2017-04-14 00:00:00,Unknown,1.0,0.0,2018,4
+A695969,2015-06-07 17:11:00,Owner Surrender,Normal,Cat,Spayed Female,1.0,Domestic Shorthair Mix,dark,2015-06-27 14:07:00,2014-01-26 00:00:00,Spayed Female,1.0,0.0,2015,6
+A686235,2014-08-18 18:54:00,Owner Surrender,Normal,Cat,Neutered Male,2.0,Domestic Shorthair Mix,dark,2014-08-31 13:57:00,2012-08-18 00:00:00,Neutered Male,2.0,0.0,2014,8
+A752534,2017-06-23 15:05:00,Wildlife,Sick,Other,Unknown,2.0,Raccoon Mix,dark,2017-06-23 15:44:00,2015-06-23 00:00:00,Unknown,2.0,1.0,2017,6
+A727655,2016-05-24 12:57:00,Owner Surrender,Normal,Cat,Intact Female,1.0,Domestic Shorthair Mix,medium,2016-06-07 13:53:00,2015-05-24 00:00:00,Spayed Female,1.0,0.0,2016,5
+A684923,2014-07-30 14:04:00,Stray,Normal,Cat,Intact Male,0.3333333333333333,Domestic Shorthair Mix,light,2014-07-31 09:00:00,2014-03-02 00:00:00,Intact Male,0.3333333333333333,0.0,2014,7
+A731276,2016-07-19 15:44:00,Stray,Normal,Dog,Intact Male,1.0,Labrador Retriever/Pit Bull,dark,2016-07-25 11:47:00,2015-07-19 00:00:00,Neutered Male,1.0,0.0,2016,7
+A762471,2017-11-21 09:42:00,Stray,Normal,Dog,Intact Male,1.0,Cavalier Span/Chihuahua Shorthair,light,2017-11-26 19:09:00,2016-05-21 00:00:00,Neutered Male,1.0,0.0,2017,11
+A462580,2015-12-30 10:27:00,Public Assist,Normal,Dog,Neutered Male,11.0,Pit Bull,dark,2014-12-06 15:32:00,2004-10-01 00:00:00,Neutered Male,10.0,0.0,2015,12
+A790693,2019-03-14 14:30:00,Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,Rhod Ridgeback/Great Dane,dark,2019-03-16 17:07:00,2019-01-14 00:00:00,Neutered Male,0.08333333333333333,0.0,2019,3
+A713637,2015-10-10 08:56:00,Stray,Injured,Cat,Spayed Female,2.0,Siamese Mix,light,2015-10-11 09:42:00,2013-10-10 00:00:00,Spayed Female,2.0,1.0,2015,10
+A796567,2019-06-03 11:17:00,Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair Mix,light,2019-06-09 17:25:00,2019-03-27 00:00:00,Neutered Male,0.16666666666666666,0.0,2019,6
+A713230,2015-10-04 13:35:00,Wildlife,Injured,Other,Unknown,0.5,Opossum,dark,2015-10-04 13:57:00,2015-04-04 00:00:00,Unknown,0.5,1.0,2015,10
+A680861,2014-06-09 11:40:00,Stray,Normal,Bird,Unknown,0.038461538461538464,Duck,light,2014-06-10 00:00:00,2014-05-25 00:00:00,Unknown,0.038461538461538464,0.0,2014,6
+A684513,2014-07-24 17:25:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,dark,2014-08-19 18:41:00,2014-06-08 00:00:00,Neutered Male,0.16666666666666666,0.0,2014,7
+A777185,2018-07-24 15:17:00,Owner Surrender,Normal,Dog,Neutered Male,4.0,Belgian Malinois/Labrador Retriever,dark,2018-07-29 12:41:00,2014-07-24 00:00:00,Neutered Male,4.0,0.0,2018,7
+A799879,2019-07-13 11:10:00,Owner Surrender,Normal,Dog,Intact Female,0.08333333333333333,Yorkshire Terrier Mix,dark,2019-07-13 14:34:00,2019-05-13 00:00:00,Intact Female,0.08333333333333333,0.0,2019,7
+A561188,2016-01-02 19:45:00,Stray,Normal,Cat,Spayed Female,10.0,Domestic Shorthair Mix,dark,2016-01-06 18:20:00,2005-11-23 00:00:00,Spayed Female,10.0,0.0,2016,1
+A771371,2018-05-04 06:41:00,Public Assist,Normal,Cat,Spayed Female,7.0,Siamese Mix,dark,2018-05-07 12:55:00,2011-05-04 00:00:00,Spayed Female,7.0,0.0,2018,5
+A718905,2016-01-09 11:26:00,Owner Surrender,Normal,Cat,Intact Female,0.4166666666666667,Domestic Shorthair Mix,medium,2016-01-18 14:34:00,2015-07-21 00:00:00,Spayed Female,0.4166666666666667,0.0,2016,1
+A704112,2015-06-01 16:05:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair Mix,dark,2015-06-05 14:25:00,2015-04-16 00:00:00,Intact Female,0.08333333333333333,0.0,2015,6
+A740348,2016-12-15 16:56:00,Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Chihuahua Shorthair Mix,medium,2016-12-18 18:16:00,2016-09-15 00:00:00,Neutered Male,0.25,0.0,2016,12
+A788734,2019-02-07 16:51:00,Stray,Normal,Dog,Intact Female,4.0,Dachshund Wirehair Mix,dark,2019-02-10 17:05:00,2014-02-10 00:00:00,Intact Female,5.0,0.0,2019,2
+A801390,2019-08-03 14:42:00,Stray,Normal,Dog,Intact Female,0.07692307692307693,Labrador Retriever Mix,dark,2019-08-04 16:03:00,2019-07-03 00:00:00,Intact Female,0.07692307692307693,0.0,2019,8
+A772808,2018-05-23 16:06:00,Stray,Normal,Dog,Neutered Male,2.0,American Pit Bull Terrier Mix,light,2018-07-04 12:52:00,2016-05-23 00:00:00,Neutered Male,2.0,0.0,2018,5
+A751126,2017-06-04 13:14:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,light,2017-06-15 15:52:00,2017-04-28 00:00:00,Intact Male,0.08333333333333333,0.0,2017,6
+A741353,2017-01-03 17:32:00,Public Assist,Normal,Dog,Neutered Male,8.0,Labrador Retriever Mix,light,2017-01-10 15:58:00,2009-01-01 00:00:00,Neutered Male,8.0,0.0,2017,1
+A728611,2016-06-07 16:55:00,Public Assist,Normal,Dog,Neutered Male,4.0,Chihuahua Shorthair Mix,dark,2016-06-14 11:21:00,2012-06-07 00:00:00,Neutered Male,4.0,0.0,2016,6
+A797684,2019-06-16 14:11:00,Stray,Normal,Cat,Neutered Male,2.0,Domestic Shorthair,light,2019-06-26 13:56:00,2017-06-16 00:00:00,Neutered Male,2.0,0.0,2019,6
+A742352,2017-02-16 13:02:00,Owner Surrender,Normal,Dog,Neutered Male,5.0,Labrador Retriever Mix,dark,2017-03-03 13:01:00,2012-01-20 00:00:00,Neutered Male,5.0,0.0,2017,2
+A811955,2020-01-13 11:12:00,Stray,Normal,Dog,Spayed Female,3.0,Pit Bull Mix,light,2020-01-15 12:27:00,2017-01-13 00:00:00,Spayed Female,3.0,0.0,2020,1
+A785209,2018-11-28 13:27:00,Owner Surrender,Normal,Cat,Neutered Male,1.0,Domestic Shorthair Mix,medium,2018-12-31 13:41:00,2017-11-28 00:00:00,Neutered Male,1.0,0.0,2018,11
+A775663,2018-07-03 12:23:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,light,2018-07-14 15:25:00,2018-05-10 00:00:00,Intact Male,0.16666666666666666,0.0,2018,7
+A713186,2015-10-03 15:20:00,Stray,Normal,Dog,Intact Male,2.0,Catahoula Mix,Tricolor,2015-10-09 15:25:00,2013-10-03 00:00:00,Intact Male,2.0,0.0,2015,10
+A726750,2016-05-14 11:58:00,Wildlife,Sick,Other,Unknown,0.4166666666666667,Raccoon,dark,2016-05-14 12:30:00,2015-11-14 00:00:00,Unknown,0.4166666666666667,1.0,2016,5
+A703631,2015-05-27 15:22:00,Stray,Normal,Dog,Intact Male,1.0,Labrador Retriever Mix,dark,2015-07-03 18:50:00,2014-05-27 00:00:00,Neutered Male,1.0,0.0,2015,5
+A721439,2016-02-26 18:35:00,Stray,Normal,Dog,Neutered Male,2.0,Labrador Retriever Mix,medium,2016-02-27 12:40:00,2013-02-27 00:00:00,Neutered Male,3.0,0.0,2016,2
+A697571,2015-02-25 13:07:00,Public Assist,Injured,Dog,Intact Female,0.9166666666666666,Pit Bull Mix,medium,2015-02-28 13:57:00,2014-03-25 00:00:00,Intact Female,0.9166666666666666,1.0,2015,2
+A727490,2016-08-26 11:52:00,Stray,Normal,Cat,Neutered Male,0.3333333333333333,Snowshoe Mix,light,2016-08-31 14:02:00,2016-04-22 00:00:00,Neutered Male,0.3333333333333333,0.0,2016,8
+A793523,2019-04-26 13:39:00,Stray,Nursing,Cat,Unknown,0.0027397260273972603,Domestic Shorthair Mix,dark,2019-04-26 00:00:00,2019-04-25 00:00:00,Unknown,0.0027397260273972603,0.0,2019,4
+A684196,2014-07-20 15:18:00,Owner Surrender,Normal,Dog,Intact Male,3.0,Nova Scotia Duck Tolling Retriever/Golden Retriever,medium,2014-08-23 16:26:00,2011-07-20 00:00:00,Neutered Male,3.0,0.0,2014,7
+A781895,2018-10-07 14:42:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Longhair Mix,dark,2019-01-09 12:28:00,2018-08-26 00:00:00,Spayed Female,0.3333333333333333,0.0,2018,10
+A726836,2016-05-15 11:41:00,Owner Surrender,Normal,Cat,Intact Male,0.07692307692307693,Domestic Shorthair Mix,light,2016-05-24 13:16:00,2016-04-15 00:00:00,Intact Male,0.08333333333333333,0.0,2016,5
+A716768,2015-11-24 16:58:00,Stray,Normal,Dog,Spayed Female,4.0,Dalmatian/Labrador Retriever,light,2015-11-30 13:59:00,2011-11-24 00:00:00,Spayed Female,4.0,0.0,2015,11
+A716085,2015-10-17 09:39:00,Owner Surrender,Normal,Cat,Intact Male,0.038461538461538464,Domestic Medium Hair Mix,light,2015-12-20 19:16:00,2015-10-01 00:00:00,Neutered Male,0.16666666666666666,0.0,2015,10
+A798252,2019-06-23 15:06:00,Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,Great Pyrenees Mix,dark,2019-06-24 13:29:00,2019-04-30 00:00:00,Intact Male,0.08333333333333333,0.0,2019,6
+A807503,2019-10-25 15:46:00,Stray,Normal,Cat,Intact Female,2.0,Domestic Shorthair,dark,2019-10-29 13:42:00,2017-10-25 00:00:00,Intact Female,2.0,0.0,2019,10
+A705232,2015-06-15 10:07:00,Stray,Sick,Cat,Neutered Male,5.0,Domestic Shorthair Mix,medium,2017-11-02 06:56:00,2010-06-15 00:00:00,Neutered Male,7.0,0.0,2015,6
+A798340,2019-06-24 17:11:00,Public Assist,Sick,Other,Unknown,0.3333333333333333,Bat,dark,2019-06-24 19:50:00,2019-01-24 00:00:00,Unknown,0.3333333333333333,1.0,2019,6
+A664435,2013-10-03 11:51:00,Stray,Normal,Cat,Intact Female,0.4166666666666667,Domestic Shorthair Mix,dark,2013-10-03 15:33:00,2013-05-03 00:00:00,Intact Female,0.4166666666666667,0.0,2013,10
+A788689,2019-02-06 18:48:00,Stray,Normal,Dog,Spayed Female,5.0,German Shepherd Mix,dark,2019-02-16 13:27:00,2014-02-06 00:00:00,Spayed Female,5.0,0.0,2019,2
+A798139,2019-07-11 17:02:00,Stray,Normal,Dog,Intact Male,1.0,Staffordshire Mix,medium,2019-07-15 15:59:00,2017-07-19 00:00:00,Intact Male,1.0,0.0,2019,7
+A715690,2015-11-08 12:28:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair Mix,dark,2015-12-02 18:20:00,2015-09-23 00:00:00,Spayed Female,0.16666666666666666,0.0,2015,11
+A676308,2014-04-07 18:37:00,Wildlife,Normal,Other,Unknown,3.0,Bat Mix,dark,2014-04-07 19:00:00,2011-04-07 00:00:00,Unknown,3.0,1.0,2014,4
+A762784,2017-12-31 13:51:00,Owner Surrender,Normal,Dog,Spayed Female,3.0,Border Collie Mix,dark,2017-12-27 18:25:00,2014-11-27 00:00:00,Spayed Female,3.0,0.0,2017,12
+A753897,2017-07-12 16:18:00,Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair Mix,dark,2017-08-12 18:48:00,2017-04-12 00:00:00,Neutered Male,0.3333333333333333,0.0,2017,7
+A758219,2017-09-12 18:57:00,Stray,Normal,Cat,Intact Male,0.25,Domestic Shorthair Mix,light,2017-09-23 12:56:00,2017-06-12 00:00:00,Neutered Male,0.25,0.0,2017,9
+A730067,2016-06-28 07:12:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,dark,2016-08-15 19:23:00,2016-05-22 00:00:00,Neutered Male,0.16666666666666666,0.0,2016,6
+A672325,2014-02-08 10:42:00,Stray,Normal,Dog,Intact Male,1.0,German Shepherd Mix,dark,2014-02-17 15:18:00,2013-02-08 00:00:00,Neutered Male,1.0,0.0,2014,2
+A765077,2018-01-12 15:06:00,Stray,Normal,Dog,Intact Male,1.0,Border Collie Mix,dark,2018-01-18 18:07:00,2017-01-12 00:00:00,Neutered Male,1.0,0.0,2018,1
+A754813,2017-07-25 11:22:00,Stray,Normal,Cat,Intact Female,0.16666666666666666,Domestic Shorthair Mix,light,2017-08-11 13:32:00,2017-04-25 00:00:00,Intact Female,0.25,0.0,2017,7
+A681268,2015-02-05 16:10:00,Stray,Normal,Cat,Intact Female,2.0,Siamese Mix,medium,2015-03-14 17:58:00,2012-06-14 00:00:00,Spayed Female,2.0,0.0,2015,2
+A788299,2019-01-30 10:31:00,Stray,Nursing,Dog,Intact Male,0.0,Labrador Retriever Mix,dark,2019-04-05 16:18:00,2019-01-30 00:00:00,Neutered Male,0.16666666666666666,0.0,2019,1
+A612451,2013-10-26 13:56:00,Stray,Normal,Dog,Neutered Male,2.0,Cairn Terrier Mix,medium,2013-10-27 12:29:00,2011-08-01 00:00:00,Neutered Male,2.0,0.0,2013,10
+A732376,2016-08-06 16:14:00,Stray,Nursing,Cat,Intact Male,0.07692307692307693,Domestic Medium Hair Mix,dark,2016-09-16 10:39:00,2016-07-06 00:00:00,Intact Male,0.16666666666666666,1.0,2016,8
+A657392,2017-12-03 11:08:00,Stray,Normal,Dog,Neutered Male,5.0,Rottweiler Mix,dark,2017-12-03 15:19:00,2012-06-27 00:00:00,Neutered Male,5.0,0.0,2017,12
+A702056,2015-09-19 11:03:00,Owner Surrender,Normal,Dog,Neutered Male,1.0,Border Collie Mix,dark,2015-10-03 15:40:00,2014-09-08 00:00:00,Neutered Male,1.0,0.0,2015,9
+A714204,2015-10-19 16:08:00,Stray,Normal,Dog,Intact Male,1.0,Chihuahua Shorthair Mix,dark,2015-10-26 12:28:00,2014-10-19 00:00:00,Neutered Male,1.0,0.0,2015,10
+A673579,2014-02-26 17:49:00,Owner Surrender,Normal,Dog,Intact Female,0.3333333333333333,Labrador Retriever/Pit Bull,light,2014-03-14 18:37:00,2013-09-27 00:00:00,Spayed Female,0.4166666666666667,0.0,2014,2
+A792323,2019-04-09 12:23:00,Stray,Normal,Cat,Intact Female,0.057692307692307696,Domestic Shorthair Mix,dark,2019-04-10 11:41:00,2019-03-16 00:00:00,Intact Female,0.057692307692307696,0.0,2019,4
+A748760,2017-05-06 15:11:00,Stray,Nursing,Cat,Intact Female,0.0136986301369863,Domestic Shorthair Mix,dark,2017-10-08 19:13:00,2017-05-01 00:00:00,Spayed Female,0.4166666666666667,0.0,2017,5
+A774515,2018-06-16 15:13:00,Stray,Normal,Dog,Intact Male,1.0,Pit Bull Mix,dark,2018-08-19 16:59:00,2017-06-16 00:00:00,Neutered Male,1.0,0.0,2018,6
+A713473,2015-10-07 13:29:00,Stray,Sick,Cat,Intact Male,5.0,Domestic Shorthair Mix,dark,2015-10-08 09:35:00,2010-10-07 00:00:00,Intact Male,5.0,1.0,2015,10
+A768683,2018-03-23 14:37:00,Owner Surrender,Normal,Dog,Intact Female,0.08333333333333333,Dachshund Mix,dark,2018-03-26 18:29:00,2018-01-23 00:00:00,Spayed Female,0.16666666666666666,0.0,2018,3
+A779150,2018-08-26 13:19:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Medium Hair Mix,light,2018-10-23 13:32:00,2018-07-10 00:00:00,Spayed Female,0.25,0.0,2018,8
+A721560,2016-02-29 14:12:00,Owner Surrender,Normal,Dog,Intact Female,2.0,Chihuahua Shorthair Mix,light,2016-03-11 11:44:00,2013-03-11 00:00:00,Spayed Female,3.0,0.0,2016,2
+A778269,2018-08-11 11:58:00,Stray,Normal,Cat,Intact Female,0.07692307692307693,Domestic Shorthair Mix,light,2018-08-12 15:29:00,2018-07-11 00:00:00,Intact Female,0.07692307692307693,0.0,2018,8
+A683465,2014-07-10 09:44:00,Stray,Nursing,Dog,Intact Male,0.019230769230769232,Labrador Retriever Mix,light,2014-07-21 18:11:00,2014-06-28 00:00:00,Intact Male,0.057692307692307696,0.0,2014,7
+A668200,2013-11-29 14:26:00,Stray,Injured,Dog,Intact Male,1.0,Labrador Retriever/Siberian Husky,dark,2013-12-22 11:19:00,2012-11-29 00:00:00,Neutered Male,1.0,0.0,2013,11
+A805387,2019-09-26 12:08:00,Stray,Normal,Dog,Intact Male,1.0,Chihuahua Shorthair,dark,2019-09-28 14:11:00,2018-09-26 00:00:00,Intact Male,1.0,0.0,2019,9
+A709470,2015-08-09 14:26:00,Owner Surrender,Normal,Cat,Intact Male,0.25,Domestic Shorthair Mix,dark,2015-08-19 15:17:00,2015-05-09 00:00:00,Neutered Male,0.25,0.0,2015,8
+A646245,2017-02-15 17:49:00,Owner Surrender,Normal,Cat,Neutered Male,4.0,Domestic Shorthair Mix,dark,2017-03-10 12:18:00,2012-10-19 00:00:00,Neutered Male,4.0,0.0,2017,2
+A769749,2018-04-09 17:10:00,Stray,Sick,Dog,Intact Male,2.0,Labrador Retriever,dark,2018-04-27 12:01:00,2015-04-23 00:00:00,Intact Male,3.0,0.0,2018,4
+A774778,2018-08-14 15:46:00,Stray,Normal,Dog,Spayed Female,0.3333333333333333,German Shepherd Mix,dark,2018-08-16 15:31:00,2018-04-05 00:00:00,Spayed Female,0.3333333333333333,0.0,2018,8
+A804584,2019-09-16 11:14:00,Stray,Normal,Cat,Intact Female,0.057692307692307696,Domestic Medium Hair,dark,2019-09-19 18:58:00,2019-08-22 00:00:00,Intact Female,0.07692307692307693,0.0,2019,9
+A772022,2018-05-13 16:23:00,Stray,Normal,Cat,Spayed Female,7.0,Domestic Shorthair Mix,dark,2018-05-13 19:20:00,2011-05-13 00:00:00,Spayed Female,7.0,0.0,2018,5
+A716702,2015-11-23 12:49:00,Stray,Normal,Cat,Spayed Female,2.0,Domestic Shorthair Mix,light,2015-12-05 14:23:00,2013-11-23 00:00:00,Spayed Female,2.0,0.0,2015,11
+A688351,2014-09-18 12:34:00,Stray,Normal,Dog,Intact Male,0.16666666666666666,Chihuahua Shorthair Mix,light,2014-09-22 18:28:00,2014-07-18 00:00:00,Neutered Male,0.16666666666666666,0.0,2014,9
+A739821,2016-12-07 15:20:00,Stray,Normal,Cat,Unknown,0.038461538461538464,Domestic Shorthair Mix,light,2016-12-07 18:05:00,2016-11-22 00:00:00,Unknown,0.038461538461538464,0.0,2016,12
+A467213,2014-04-30 12:39:00,Euthanasia Request,Injured,Cat,Spayed Female,8.0,Domestic Shorthair Mix,dark,2014-04-30 17:29:00,2006-04-05 00:00:00,Spayed Female,8.0,1.0,2014,4
+A754272,2017-07-18 12:03:00,Wildlife,Normal,Other,Unknown,3.0,Bat Mix,dark,2017-07-19 08:27:00,2014-07-18 00:00:00,Unknown,3.0,1.0,2017,7
+A766755,2018-02-15 21:30:00,Stray,Injured,Cat,Neutered Male,2.0,Domestic Shorthair Mix,dark,2018-02-16 16:29:00,2016-02-15 00:00:00,Neutered Male,2.0,1.0,2018,2
+A773546,2018-06-02 17:48:00,Stray,Normal,Dog,Intact Male,0.9166666666666666,Cairn Terrier Mix,light,2018-06-06 18:40:00,2017-06-03 00:00:00,Neutered Male,1.0,0.0,2018,6
+A730070,2016-06-28 08:31:00,Stray,Sick,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,dark,2016-07-02 18:36:00,2016-04-28 00:00:00,Intact Male,0.16666666666666666,0.0,2016,6
+A774857,2018-06-21 11:32:00,Stray,Normal,Dog,Intact Female,0.07692307692307693,Australian Kelpie Mix,medium,2018-07-10 08:56:00,2018-05-21 00:00:00,Intact Female,0.08333333333333333,0.0,2018,6
+A714357,2015-10-22 11:46:00,Owner Surrender,Normal,Dog,Intact Female,0.6666666666666666,Great Dane,dark,2015-10-25 17:56:00,2015-01-22 00:00:00,Spayed Female,0.75,0.0,2015,10
+A780708,2018-09-19 12:28:00,Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Australian Cattle Dog Mix,light,2018-09-21 15:08:00,2018-06-27 00:00:00,Intact Male,0.16666666666666666,0.0,2018,9
+A807664,2019-10-28 11:11:00,Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Medium Hair Mix,dark,2020-01-06 18:27:00,2019-09-28 00:00:00,Neutered Male,0.25,0.0,2019,10
+A720424,2016-02-09 12:55:00,Owner Surrender,Normal,Dog,Neutered Male,5.0,Cocker Spaniel/Miniature Poodle,medium,2016-02-10 16:15:00,2011-02-10 00:00:00,Neutered Male,5.0,0.0,2016,2
+A795273,2019-05-18 16:43:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,medium,2019-06-02 17:18:00,2019-03-30 00:00:00,Spayed Female,0.16666666666666666,0.0,2019,5
+A706595,2015-06-30 15:58:00,Stray,Sick,Cat,Intact Male,0.057692307692307696,Domestic Shorthair Mix,light,2015-06-30 18:33:00,2015-06-08 00:00:00,Intact Male,0.057692307692307696,1.0,2015,6
+A743277,2017-02-07 11:32:00,Owner Surrender,Normal,Dog,Neutered Male,2.0,Boston Terrier Mix,dark,2017-02-09 14:54:00,2015-02-07 00:00:00,Neutered Male,2.0,0.0,2017,2
+A696542,2015-02-07 00:47:00,Public Assist,Normal,Other,Unknown,1.0,Hamster,dark,2015-02-11 17:00:00,2014-02-07 00:00:00,Unknown,1.0,0.0,2015,2
+A790382,2019-03-09 12:49:00,Stray,Normal,Dog,Neutered Male,2.0,American Bulldog Mix,light,2019-03-09 14:24:00,2017-03-09 00:00:00,Neutered Male,2.0,0.0,2019,3
+A805357,2019-09-25 18:17:00,Stray,Normal,Dog,Intact Male,1.0,Border Collie,dark,2019-09-29 14:14:00,2018-09-25 00:00:00,Intact Male,1.0,0.0,2019,9
+A810021,2019-12-05 14:49:00,Stray,Injured,Dog,Intact Female,2.0,Labrador Retriever Mix,dark,2019-12-06 12:56:00,2017-12-05 00:00:00,Intact Female,2.0,0.0,2019,12
+A730999,2016-07-14 14:04:00,Stray,Normal,Cat,Intact Female,0.16666666666666666,Domestic Shorthair Mix,dark,2016-08-14 14:35:00,2016-04-14 00:00:00,Spayed Female,0.3333333333333333,0.0,2016,7
+A730904,2016-07-12 16:30:00,Stray,Normal,Cat,Spayed Female,2.0,Domestic Shorthair Mix,dark,2016-10-07 13:51:00,2014-07-12 00:00:00,Spayed Female,2.0,0.0,2016,7
+A807974,2019-11-02 13:33:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Medium Hair Mix,medium,2019-11-13 11:41:00,2019-09-14 00:00:00,Neutered Male,0.08333333333333333,0.0,2019,11
+A792972,2019-04-17 17:52:00,Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever/Anatol Shepherd,light,2019-04-22 18:24:00,2019-02-03 00:00:00,Spayed Female,0.16666666666666666,0.0,2019,4
+A711489,2015-09-07 14:26:00,Stray,Normal,Dog,Intact Male,0.08333333333333333,Plott Hound Mix,dark,2015-09-10 11:45:00,2015-07-23 00:00:00,Intact Male,0.08333333333333333,0.0,2015,9
+A800386,2019-07-20 11:52:00,Owner Surrender,Sick,Dog,Intact Male,2.0,Chihuahua Longhair,medium,2019-07-20 14:21:00,2017-07-20 00:00:00,Intact Male,2.0,0.0,2019,7
+A713267,2015-10-05 11:06:00,Stray,Normal,Dog,Intact Male,1.0,Labrador Retriever Mix,medium,2015-10-09 17:02:00,2014-10-05 00:00:00,Neutered Male,1.0,0.0,2015,10
+A677650,2014-11-19 12:21:00,Stray,Normal,Cat,Neutered Male,0.5833333333333334,Domestic Shorthair Mix,light,2014-11-25 14:02:00,2014-04-05 00:00:00,Neutered Male,0.5833333333333334,0.0,2014,11
+A730019,2016-06-27 12:24:00,Stray,Normal,Dog,Intact Female,0.5,German Shepherd Mix,dark,2016-07-02 00:00:00,2015-12-27 00:00:00,Spayed Female,0.5,0.0,2016,6
+A705005,2015-06-11 18:25:00,Stray,Normal,Dog,Intact Female,0.5833333333333334,American Pit Bull Terrier Mix,medium,2015-07-02 10:24:00,2014-10-11 00:00:00,Spayed Female,0.6666666666666666,0.0,2015,6
+A705749,2015-07-21 13:27:00,Owner Surrender,Normal,Dog,Spayed Female,2.0,English Bulldog Mix,light,2015-09-02 11:30:00,2013-06-20 00:00:00,Spayed Female,2.0,0.0,2015,7
+A772761,2018-05-23 12:19:00,Stray,Normal,Cat,Intact Male,0.057692307692307696,Domestic Shorthair Mix,light,2018-05-24 16:31:00,2018-04-30 00:00:00,Intact Male,0.057692307692307696,0.0,2018,5
+A699031,2015-09-09 14:54:00,Owner Surrender,Normal,Cat,Spayed Female,10.0,Himalayan Mix,light,2015-09-12 14:45:00,2005-03-21 00:00:00,Spayed Female,10.0,0.0,2015,9
+A756551,2017-08-21 18:27:00,Stray,Normal,Cat,Unknown,0.019230769230769232,Domestic Shorthair Mix,dark,2017-08-21 18:52:00,2017-08-14 00:00:00,Unknown,0.019230769230769232,0.0,2017,8
+A686223,2014-08-18 16:33:00,Stray,Normal,Cat,Neutered Male,2.0,Domestic Shorthair Mix,light,2014-08-19 09:00:00,2012-08-18 00:00:00,Neutered Male,2.0,0.0,2014,8
+A728629,2016-06-06 14:54:00,Stray,Injured,Dog,Intact Male,2.0,Papillon Mix,medium,2016-06-22 20:05:00,2014-06-06 00:00:00,Neutered Male,2.0,0.0,2016,6
+A777833,2018-08-04 11:20:00,Stray,Normal,Cat,Intact Female,0.25,Domestic Shorthair Mix,dark,2018-08-08 19:05:00,2018-05-04 00:00:00,Spayed Female,0.25,0.0,2018,8
+A807445,2019-10-25 12:17:00,Stray,Injured,Dog,Intact Female,2.0,Pit Bull,light,2019-12-05 17:16:00,2017-10-25 00:00:00,Spayed Female,2.0,0.0,2019,10
+A737052,2016-10-21 13:08:00,Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,Pit Bull Mix,dark,2016-10-24 00:00:00,2016-09-06 00:00:00,Intact Male,0.08333333333333333,0.0,2016,10
+A652433,2014-04-01 12:57:00,Stray,Normal,Dog,Neutered Male,12.0,Cocker Spaniel,light,2014-04-02 12:31:00,2001-04-24 00:00:00,Neutered Male,12.0,0.0,2014,4
+A687075,2014-08-30 17:55:00,Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair Mix,medium,2014-09-03 19:37:00,2014-06-15 00:00:00,Neutered Male,0.16666666666666666,0.0,2014,8
+A752554,2017-06-23 22:15:00,Wildlife,Normal,Other,Unknown,1.0,Bat,medium,2017-06-24 10:30:00,2016-06-23 00:00:00,Unknown,1.0,1.0,2017,6
+A386276,2015-12-19 12:52:00,Owner Surrender,Normal,Cat,Neutered Male,10.0,Domestic Shorthair Mix,light,2015-12-28 16:24:00,2005-02-25 00:00:00,Neutered Male,10.0,0.0,2015,12
+A801847,2019-08-10 11:55:00,Stray,Normal,Dog,Intact Male,1.0,Miniature Poodle Mix,dark,2019-08-14 16:13:00,2018-08-10 00:00:00,Neutered Male,1.0,0.0,2019,8
+A805108,2019-09-22 16:18:00,Stray,Normal,Dog,Intact Male,2.0,Pit Bull,dark,2019-10-18 19:12:00,2017-09-22 00:00:00,Neutered Male,2.0,0.0,2019,9
+A807241,2019-10-22 16:58:00,Stray,Normal,Dog,Intact Female,0.3333333333333333,Dachshund/Miniature Pinscher,dark,2019-10-26 16:20:00,2019-06-22 00:00:00,Spayed Female,0.3333333333333333,0.0,2019,10
+A712326,2015-09-21 14:16:00,Stray,Normal,Cat,Intact Female,0.16666666666666666,Domestic Shorthair Mix,light,2015-09-25 17:24:00,2015-07-21 00:00:00,Spayed Female,0.16666666666666666,0.0,2015,9
+A776291,2018-07-11 12:51:00,Stray,Normal,Cat,Intact Female,13.0,Domestic Shorthair Mix,dark,2019-04-03 16:10:00,2005-01-15 00:00:00,Spayed Female,14.0,0.0,2018,7
+A762679,2017-11-24 10:40:00,Stray,Normal,Dog,Intact Male,0.4166666666666667,Pit Bull Mix,medium,2017-11-29 11:02:00,2017-06-24 00:00:00,Intact Male,0.4166666666666667,0.0,2017,11
+A807803,2019-10-30 12:28:00,Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair,medium,2019-12-16 13:29:00,2019-08-15 00:00:00,Neutered Male,0.3333333333333333,0.0,2019,10
+A668653,2015-10-31 16:30:00,Stray,Normal,Dog,Neutered Male,2.0,Chihuahua Shorthair Mix,dark,2015-11-05 14:23:00,2013-06-06 00:00:00,Neutered Male,2.0,0.0,2015,10
+A796186,2019-05-29 18:11:00,Stray,Nursing,Cat,Intact Male,0.019230769230769232,Domestic Shorthair,dark,2019-06-02 13:49:00,2019-05-21 00:00:00,Intact Male,0.019230769230769232,0.0,2019,5
+A766561,2018-02-11 19:42:00,Stray,Normal,Dog,Intact Male,3.0,Pug Mix,dark,2018-02-17 16:27:00,2015-02-11 00:00:00,Neutered Male,3.0,0.0,2018,2
+A768145,2018-03-13 14:59:00,Owner Surrender,Normal,Dog,Intact Female,0.00821917808219178,American Pit Bull Terrier Mix,dark,2018-05-29 12:08:00,2018-03-10 00:00:00,Spayed Female,0.16666666666666666,0.0,2018,3
+A785707,2018-12-08 13:20:00,Stray,Normal,Dog,Intact Female,10.0,Miniature Schnauzer Mix,dark,2018-12-10 11:57:00,2008-12-10 00:00:00,Intact Female,10.0,0.0,2018,12
+A801959,2019-08-12 13:16:00,Stray,Normal,Cat,Unknown,1.0,Domestic Medium Hair,dark,2019-08-16 16:32:00,2018-08-12 00:00:00,Unknown,1.0,0.0,2019,8
+A775510,2018-07-01 12:55:00,Stray,Normal,Cat,Intact Female,0.057692307692307696,Domestic Shorthair Mix,dark,2018-07-01 16:19:00,2018-06-04 00:00:00,Intact Female,0.057692307692307696,0.0,2018,7
+A742532,2017-01-23 13:48:00,Stray,Normal,Dog,Intact Male,1.0,German Shepherd Mix,medium,2017-01-23 18:46:00,2015-01-28 00:00:00,Intact Male,1.0,0.0,2017,1
+A793925,2019-05-01 18:02:00,Stray,Nursing,Cat,Intact Female,0.019230769230769232,Domestic Shorthair Mix,medium,2019-06-22 16:36:00,2019-04-22 00:00:00,Spayed Female,0.08333333333333333,0.0,2019,5
+A809538,2019-11-26 11:26:00,Stray,Normal,Dog,Intact Male,0.16666666666666666,Harrier,Tricolor,2019-12-02 18:39:00,2019-09-11 00:00:00,Neutered Male,0.16666666666666666,0.0,2019,11
+A756219,2017-08-15 19:00:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,dark,2017-08-17 10:31:00,2017-07-08 00:00:00,Intact Male,0.08333333333333333,0.0,2017,8
+A716810,2015-11-25 13:13:00,Stray,Normal,Cat,Intact Male,0.25,Domestic Shorthair Mix,dark,2015-11-30 18:56:00,2015-08-25 00:00:00,Intact Male,0.25,0.0,2015,11
+A707198,2015-07-09 14:36:00,Stray,Normal,Dog,Intact Male,0.3333333333333333,Australian Shepherd/Dachshund,dark,2015-07-13 18:04:00,2015-02-22 00:00:00,Neutered Male,0.3333333333333333,0.0,2015,7
+A501433,2016-10-19 18:53:00,Stray,Normal,Dog,Neutered Male,9.0,Labrador Retriever/Pit Bull,dark,2016-10-20 11:54:00,2007-10-13 00:00:00,Neutered Male,9.0,0.0,2016,10
+A773529,2018-06-02 14:24:00,Stray,Normal,Dog,Intact Female,1.0,German Shepherd,dark,2018-06-20 13:20:00,2017-06-02 00:00:00,Spayed Female,1.0,0.0,2018,6
+A695719,2015-01-21 11:14:00,Stray,Normal,Cat,Unknown,1.0,Domestic Medium Hair Mix,dark,2015-01-22 09:00:00,2014-01-21 00:00:00,Unknown,1.0,0.0,2015,1
+A790618,2019-03-13 12:10:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Medium Hair Mix,dark,2019-05-09 10:15:00,2019-01-29 00:00:00,Spayed Female,0.25,0.0,2019,3
+A812357,2020-01-21 11:40:00,Public Assist,Normal,Cat,Intact Female,0.6666666666666666,Domestic Shorthair,dark,2020-01-29 14:50:00,2019-05-21 00:00:00,Spayed Female,0.6666666666666666,0.0,2020,1
+A676033,2015-04-07 15:43:00,Public Assist,Normal,Dog,Spayed Female,3.0,Chihuahua Shorthair Mix,Tricolor,2015-04-16 11:03:00,2012-04-03 00:00:00,Spayed Female,3.0,0.0,2015,4
+A770712,2018-04-24 13:12:00,Stray,Injured,Cat,Intact Male,4.0,Domestic Shorthair Mix,light,2018-08-27 19:46:00,2014-04-25 00:00:00,Neutered Male,4.0,0.0,2018,4
+A755585,2017-08-05 13:06:00,Owner Surrender,Normal,Other,Intact Male,0.4166666666666667,Rabbit Sh Mix,light,2017-08-12 15:35:00,2017-02-05 00:00:00,Neutered Male,0.5,0.0,2017,8
+A776188,2018-07-10 13:53:00,Owner Surrender,Normal,Cat,Spayed Female,11.0,Domestic Shorthair Mix,dark,2018-07-11 00:00:00,2007-01-10 00:00:00,Spayed Female,11.0,0.0,2018,7
+A682323,2014-06-26 14:21:00,Stray,Normal,Cat,Intact Female,0.057692307692307696,Domestic Shorthair Mix,medium,2014-06-26 15:55:00,2014-06-04 00:00:00,Intact Female,0.057692307692307696,0.0,2014,6
+A804498,2019-09-15 11:14:00,Stray,Normal,Cat,Spayed Female,2.0,Domestic Shorthair Mix,dark,2019-09-18 15:26:00,2017-09-15 00:00:00,Spayed Female,2.0,0.0,2019,9
+A794761,2019-05-11 17:38:00,Stray,Normal,Dog,Intact Female,5.0,Pit Bull Mix,light,2019-07-03 15:51:00,2014-05-11 00:00:00,Intact Female,5.0,0.0,2019,5
+A769907,2018-04-12 12:23:00,Stray,Normal,Dog,Intact Female,3.0,Yorkshire Terrier Mix,dark,2018-04-12 19:06:00,2015-04-12 00:00:00,Intact Female,3.0,0.0,2018,4
+A697451,2015-05-30 11:40:00,Owner Surrender,Normal,Dog,Spayed Female,3.0,Miniature Schnauzer/Cairn Terrier,dark,2015-06-07 17:59:00,2012-02-24 00:00:00,Spayed Female,3.0,0.0,2015,5
+A697421,2015-02-23 16:10:00,Stray,Normal,Dog,Intact Male,0.25,Labrador Retriever/Greyhound,medium,2015-02-27 19:00:00,2014-11-08 00:00:00,Neutered Male,0.25,0.0,2015,2
+A758827,2017-09-22 13:59:00,Stray,Normal,Cat,Neutered Male,3.0,Domestic Shorthair Mix,light,2017-12-22 19:01:00,2014-09-22 00:00:00,Neutered Male,3.0,0.0,2017,9
+A667328,2013-11-16 12:00:00,Owner Surrender,Normal,Cat,Intact Male,0.3333333333333333,Domestic Shorthair Mix,light,2013-12-01 17:25:00,2013-07-01 00:00:00,Neutered Male,0.4166666666666667,0.0,2013,11
+A710780,2015-08-27 14:43:00,Stray,Normal,Dog,Neutered Male,2.0,Catahoula Mix,medium,2015-08-28 16:51:00,2013-08-27 00:00:00,Neutered Male,2.0,0.0,2015,8
+A714859,2015-10-29 09:14:00,Stray,Normal,Dog,Intact Male,0.75,Chihuahua Shorthair Mix,dark,2015-11-01 18:04:00,2014-12-29 00:00:00,Neutered Male,0.8333333333333334,0.0,2015,10
+A807965,2019-11-02 12:03:00,Stray,Normal,Dog,Intact Male,1.0,Maltese Mix,medium,2019-11-06 16:11:00,2018-11-02 00:00:00,Neutered Male,1.0,0.0,2019,11
+A735702,2016-09-27 16:21:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,medium,2016-09-29 12:43:00,2016-08-13 00:00:00,Intact Male,0.08333333333333333,0.0,2016,9
+A673788,2014-03-02 14:35:00,Stray,Normal,Cat,Neutered Male,2.0,Domestic Shorthair Mix,dark,2014-03-03 15:03:00,2012-03-02 00:00:00,Neutered Male,2.0,0.0,2014,3
+A796662,2019-06-04 07:37:00,Stray,Nursing,Dog,Intact Male,0.00821917808219178,American Staffordshire Terrier Mix,dark,2019-07-13 06:46:00,2019-06-01 00:00:00,Intact Male,0.08333333333333333,0.0,2019,6
+A683230,2014-07-09 12:58:00,Public Assist,Normal,Cat,Intact Male,3.0,Domestic Shorthair Mix,light,2014-07-24 12:49:00,2011-07-09 00:00:00,Neutered Male,3.0,0.0,2014,7
+A697278,2015-02-20 17:24:00,Owner Surrender,Normal,Dog,Neutered Male,3.0,Pit Bull Mix,medium,2015-02-25 17:57:00,2011-08-20 00:00:00,Neutered Male,3.0,0.0,2015,2
+A733698,2016-08-26 08:09:00,Stray,Injured,Cat,Unknown,0.01643835616438356,Domestic Shorthair Mix,dark,2016-08-26 12:58:00,2016-08-20 00:00:00,Unknown,0.01643835616438356,0.0,2016,8
+A703526,2015-05-25 18:29:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair Mix,medium,2015-08-18 11:20:00,2015-04-16 00:00:00,Spayed Female,0.3333333333333333,0.0,2015,5
+A733440,2016-08-21 16:49:00,Stray,Normal,Dog,Intact Female,0.25,Labrador Retriever Mix,light,2016-08-25 17:28:00,2016-05-21 00:00:00,Spayed Female,0.25,0.0,2016,8
+A693134,2014-12-02 16:15:00,Wildlife,Normal,Other,Unknown,3.0,Bat Mix,dark,2014-12-02 17:17:00,2011-12-02 00:00:00,Unknown,3.0,1.0,2014,12
+A615369,2016-10-16 14:09:00,Owner Surrender,Normal,Cat,Spayed Female,5.0,Siamese Mix,medium,2016-11-06 12:55:00,2011-05-06 00:00:00,Spayed Female,5.0,0.0,2016,10
+A706471,2015-06-29 12:48:00,Stray,Normal,Dog,Intact Female,1.0,Labrador Retriever Mix,dark,2015-07-13 17:57:00,2014-06-29 00:00:00,Spayed Female,1.0,0.0,2015,6
+A775426,2018-06-29 17:05:00,Stray,Normal,Cat,Unknown,0.019230769230769232,Domestic Shorthair Mix,dark,2018-06-29 18:20:00,2018-06-22 00:00:00,Unknown,0.019230769230769232,0.0,2018,6
+A766697,2018-02-26 00:29:00,Public Assist,Normal,Dog,Neutered Male,0.6666666666666666,Pit Bull Mix,light,2018-02-27 14:37:00,2017-06-14 00:00:00,Neutered Male,0.6666666666666666,0.0,2018,2
+A810720,2019-12-18 15:02:00,Stray,Normal,Dog,Intact Male,0.75,Chihuahua Shorthair/Rat Terrier,medium,2019-12-22 16:21:00,2019-03-18 00:00:00,Neutered Male,0.75,0.0,2019,12
+A768468,2018-03-20 09:31:00,Wildlife,Normal,Other,Unknown,2.0,Opossum Mix,dark,2018-03-20 09:46:00,2016-03-20 00:00:00,Unknown,2.0,1.0,2018,3
+A674699,2014-03-16 21:14:00,Public Assist,Normal,Dog,Intact Male,0.16666666666666666,Labrador Retriever Mix,light,2014-03-17 11:24:00,2013-12-26 00:00:00,Intact Male,0.16666666666666666,0.0,2014,3
+A703260,2015-05-22 13:19:00,Stray,Normal,Dog,Spayed Female,16.0,Chihuahua Shorthair Mix,light,2015-05-23 14:59:00,1999-05-23 00:00:00,Spayed Female,16.0,0.0,2015,5
+A806595,2019-10-13 01:06:00,Public Assist,Normal,Dog,Unknown,4.0,Border Collie Mix,light,2019-10-13 17:22:00,2015-10-13 00:00:00,Unknown,4.0,0.0,2019,10
+A797005,2019-07-07 11:05:00,Owner Surrender,Sick,Cat,Spayed Female,10.0,Snowshoe Mix,medium,2019-07-10 12:58:00,2009-06-08 00:00:00,Spayed Female,10.0,0.0,2019,7
+A777226,2018-07-25 12:57:00,Stray,Normal,Dog,Neutered Male,10.0,Staffordshire Mix,dark,2018-08-08 16:38:00,2008-03-25 00:00:00,Neutered Male,10.0,0.0,2018,7
+A695048,2015-01-08 11:08:00,Owner Surrender,Normal,Cat,Intact Female,0.5,Domestic Shorthair Mix,dark,2015-01-13 14:42:00,2014-07-08 00:00:00,Spayed Female,0.5,0.0,2015,1
+A742356,2017-01-20 13:39:00,Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair Mix,dark,2017-01-26 00:00:00,2016-01-20 00:00:00,Spayed Female,1.0,0.0,2017,1
+A712942,2016-11-23 09:08:00,Public Assist,Normal,Dog,Neutered Male,3.0,American Bulldog Mix,dark,2016-12-18 12:52:00,2013-09-30 00:00:00,Neutered Male,3.0,0.0,2016,11
+A715875,2015-11-11 16:18:00,Stray,Normal,Dog,Intact Male,0.08333333333333333,Labrador Retriever Mix,light,2015-11-17 16:22:00,2015-09-11 00:00:00,Neutered Male,0.16666666666666666,0.0,2015,11
+A775814,2018-07-05 11:19:00,Stray,Normal,Dog,Spayed Female,4.0,Shih Tzu Mix,light,2018-07-06 19:13:00,2014-07-06 00:00:00,Spayed Female,4.0,0.0,2018,7
+A703986,2015-05-31 12:26:00,Stray,Normal,Dog,Intact Male,1.0,Siberian Husky Mix,light,2015-06-05 17:01:00,2014-05-31 00:00:00,Neutered Male,1.0,0.0,2015,5
+A771274,2018-05-02 18:07:00,Stray,Normal,Cat,Intact Female,0.00821917808219178,Domestic Shorthair Mix,dark,2018-05-02 18:23:00,2018-04-29 00:00:00,Intact Female,0.00821917808219178,0.0,2018,5
+A752755,2017-06-27 11:16:00,Stray,Injured,Dog,Spayed Female,10.0,Chinese Sharpei,medium,2017-06-27 13:20:00,2007-06-27 00:00:00,Spayed Female,10.0,0.0,2017,6
+A769014,2018-03-28 18:08:00,Stray,Normal,Dog,Intact Male,0.08333333333333333,Pit Bull Mix,dark,2018-04-02 19:05:00,2018-01-28 00:00:00,Neutered Male,0.16666666666666666,0.0,2018,3
+A807659,2019-10-28 10:12:00,Stray,Injured,Dog,Neutered Male,2.0,Pointer,dark,2019-10-28 18:37:00,2017-10-28 00:00:00,Neutered Male,2.0,0.0,2019,10
+A717924,2015-12-17 16:43:00,Stray,Normal,Dog,Intact Female,0.6666666666666666,Catahoula Mix,dark,2015-12-20 18:47:00,2015-04-17 00:00:00,Spayed Female,0.6666666666666666,0.0,2015,12
+A689039,2014-10-02 12:25:00,Stray,Normal,Dog,Neutered Male,1.0,Pit Bull Mix,medium,2014-10-09 15:49:00,2013-09-28 00:00:00,Neutered Male,1.0,1.0,2014,10
+A802332,2019-09-26 16:40:00,Stray,Injured,Cat,Spayed Female,1.0,Siamese,light,2019-09-27 11:37:00,2018-08-16 00:00:00,Spayed Female,1.0,1.0,2019,9
+A761760,2019-12-16 10:39:00,Stray,Normal,Dog,Neutered Male,8.0,Pit Bull Mix,medium,2017-11-09 19:14:00,2011-05-09 00:00:00,Neutered Male,6.0,0.0,2019,12
+A704302,2015-06-03 14:29:00,Stray,Normal,Dog,Intact Female,1.0,Chihuahua Shorthair Mix,medium,2015-06-08 18:25:00,2014-06-03 00:00:00,Spayed Female,1.0,0.0,2015,6
+A738711,2016-11-19 15:28:00,Stray,Normal,Cat,Intact Female,0.07692307692307693,Domestic Shorthair Mix,medium,2017-02-04 08:31:00,2016-10-18 00:00:00,Spayed Female,0.25,0.0,2016,11
+A784997,2018-11-24 16:15:00,Stray,Normal,Cat,Spayed Female,2.0,Domestic Shorthair Mix,dark,2018-11-28 16:49:00,2016-11-24 00:00:00,Spayed Female,2.0,0.0,2018,11
+A812383,2020-01-21 15:40:00,Stray,Normal,Dog,Intact Female,1.0,Australian Cattle Dog,medium,2020-01-26 16:56:00,2019-01-21 00:00:00,Spayed Female,1.0,0.0,2020,1
+A788071,2019-01-25 17:22:00,Stray,Normal,Dog,Intact Male,2.0,Pit Bull Mix,light,2019-02-08 18:26:00,2017-01-25 00:00:00,Neutered Male,2.0,0.0,2019,1
+A686548,2014-08-23 13:32:00,Stray,Normal,Cat,Intact Female,4.0,Domestic Longhair Mix,light,2014-08-24 16:44:00,2010-08-23 00:00:00,Intact Female,4.0,0.0,2014,8
+A759345,2017-09-30 16:58:00,Stray,Normal,Cat,Intact Female,0.16666666666666666,Domestic Shorthair Mix,medium,2017-10-18 13:26:00,2017-07-09 00:00:00,Intact Female,0.25,0.0,2017,9
+A741173,2016-12-29 18:44:00,Public Assist,Normal,Dog,Intact Male,2.0,Great Dane,light,2017-01-20 16:31:00,2014-12-30 00:00:00,Neutered Male,2.0,0.0,2016,12
+A737138,2016-10-22 15:50:00,Stray,Normal,Dog,Intact Male,1.0,Chihuahua Shorthair Mix,dark,2016-10-23 17:55:00,2015-01-27 00:00:00,Intact Male,1.0,0.0,2016,10
+A734152,2016-09-02 10:40:00,Owner Surrender,Normal,Cat,Intact Female,0.08333333333333333,Domestic Medium Hair Mix,dark,2016-09-14 00:00:00,2016-07-18 00:00:00,Intact Female,0.08333333333333333,0.0,2016,9
+A552877,2016-02-14 15:17:00,Owner Surrender,Normal,Cat,Spayed Female,8.0,Domestic Shorthair Mix,medium,2016-02-21 14:00:00,2007-08-25 00:00:00,Spayed Female,8.0,0.0,2016,2
+A808701,2019-11-12 15:04:00,Owner Surrender,Normal,Cat,Spayed Female,2.0,Domestic Longhair,dark,2020-01-14 13:51:00,2017-11-12 00:00:00,Spayed Female,2.0,0.0,2019,11
+A769102,2018-03-30 13:27:00,Stray,Normal,Dog,Intact Female,0.08333333333333333,Labrador Retriever Mix,dark,2018-04-03 18:10:00,2018-01-30 00:00:00,Spayed Female,0.16666666666666666,0.0,2018,3
+A773104,2018-05-27 17:20:00,Stray,Normal,Dog,Intact Female,0.08333333333333333,Pbgv Mix,light,2018-05-28 16:23:00,2018-04-15 00:00:00,Intact Female,0.08333333333333333,0.0,2018,5
+A745399,2017-03-17 11:42:00,Stray,Nursing,Cat,Unknown,0.019230769230769232,Domestic Shorthair Mix,dark,2017-03-17 13:35:00,2017-03-10 00:00:00,Unknown,0.019230769230769232,0.0,2017,3
+A809089,2019-11-18 18:38:00,Stray,Normal,Dog,Intact Male,1.0,Chihuahua Longhair/Norfolk Terrier,medium,2019-11-19 12:04:00,2018-11-18 00:00:00,Intact Male,1.0,0.0,2019,11
+A732330,2016-08-06 11:04:00,Stray,Normal,Dog,Intact Female,0.08333333333333333,Labrador Retriever Mix,dark,2016-08-12 18:32:00,2016-06-10 00:00:00,Spayed Female,0.16666666666666666,0.0,2016,8
+A797822,2019-06-18 11:33:00,Owner Surrender,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,dark,2019-10-08 10:47:00,2019-04-18 00:00:00,Spayed Female,0.4166666666666667,0.0,2019,6
+A665235,2013-10-15 14:08:00,Owner Surrender,Nursing,Dog,Intact Female,0.08333333333333333,Australian Kelpie Mix,Tricolor,2013-10-15 16:10:00,2013-09-08 00:00:00,Intact Female,0.08333333333333333,0.0,2013,10
+A728445,2017-07-02 08:43:00,Stray,Normal,Dog,Intact Male,1.0,Pit Bull Mix,dark,2017-09-15 19:20:00,2015-12-16 00:00:00,Neutered Male,1.0,1.0,2017,7
+A732158,2016-08-03 13:46:00,Stray,Normal,Dog,Intact Female,1.0,Labrador Retriever Mix,dark,2016-08-11 17:19:00,2015-08-03 00:00:00,Spayed Female,1.0,0.0,2016,8
+A675581,2014-03-29 13:23:00,Owner Surrender,Normal,Dog,Intact Male,0.07692307692307693,Pit Bull Mix,light,2014-04-03 13:22:00,2014-02-23 00:00:00,Intact Male,0.08333333333333333,0.0,2014,3
+A784305,2018-11-13 18:19:00,Stray,Normal,Dog,Spayed Female,10.0,Beagle Mix,dark,2018-11-15 17:56:00,2008-11-13 00:00:00,Spayed Female,10.0,0.0,2018,11
+A685480,2014-08-08 10:17:00,Owner Surrender,Normal,Cat,Intact Female,0.25,Domestic Shorthair Mix,dark,2014-08-16 13:51:00,2014-04-23 00:00:00,Spayed Female,0.25,0.0,2014,8
+A796247,2019-05-30 14:50:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,dark,2019-06-01 15:16:00,2019-03-30 00:00:00,Intact Female,0.16666666666666666,0.0,2019,5
+A679156,2014-07-09 17:14:00,Owner Surrender,Normal,Dog,Spayed Female,0.16666666666666666,Labrador Retriever/German Shepherd,light,2014-07-09 18:45:00,2014-05-05 00:00:00,Spayed Female,0.16666666666666666,0.0,2014,7
+A707683,2015-07-16 11:05:00,Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,dark,2015-08-24 19:32:00,2015-06-01 00:00:00,Neutered Male,0.16666666666666666,0.0,2015,7
+A678978,2014-05-14 16:23:00,Owner Surrender,Normal,Dog,Neutered Male,4.0,Australian Shepherd Mix,dark,2014-05-25 12:31:00,2010-05-14 00:00:00,Neutered Male,4.0,0.0,2014,5
+A687149,2014-09-01 12:48:00,Stray,Feral,Dog,Intact Male,2.0,Blue Lacy Mix,medium,2014-09-06 16:57:00,2012-09-01 00:00:00,Neutered Male,2.0,0.0,2014,9
+A752830,2017-06-28 08:19:00,Stray,Injured,Cat,Intact Female,0.08333333333333333,Domestic Shorthair Mix,dark,2017-07-04 16:29:00,2017-04-28 00:00:00,Intact Female,0.16666666666666666,1.0,2017,6
+A722810,2016-03-22 16:35:00,Stray,Normal,Dog,Intact Female,4.0,Pit Bull/Labrador Retriever,light,2016-04-25 17:28:00,2012-03-22 00:00:00,Spayed Female,4.0,0.0,2016,3
+A785003,2018-11-24 17:01:00,Stray,Normal,Dog,Intact Male,0.25,Staffordshire Mix,dark,2018-12-01 12:22:00,2018-08-09 00:00:00,Intact Male,0.25,0.0,2018,11
+A810147,2019-12-07 23:16:00,Stray,Normal,Dog,Intact Female,5.0,German Shepherd,dark,2019-12-31 13:39:00,2014-12-08 00:00:00,Intact Female,5.0,0.0,2019,12
+A585277,2018-04-26 15:51:00,Stray,Normal,Dog,Neutered Male,8.0,Finnish Spitz Mix,dark,2018-06-03 18:16:00,2009-09-23 00:00:00,Neutered Male,8.0,0.0,2018,4
+A773770,2018-06-05 12:34:00,Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Shorthair Mix,light,2018-08-11 12:23:00,2018-05-08 00:00:00,Neutered Male,0.25,0.0,2018,6
+A735871,2016-09-30 17:02:00,Owner Surrender,Normal,Other,Intact Male,0.75,Guinea Pig Mix,medium,2016-10-06 14:26:00,2015-12-30 00:00:00,Intact Male,0.75,0.0,2016,9
+A805826,2019-10-02 12:44:00,Owner Surrender,Normal,Dog,Intact Female,0.9166666666666666,Black Mouth Cur Mix,medium,2019-11-07 14:50:00,2018-10-11 00:00:00,Spayed Female,1.0,0.0,2019,10
+A715546,2015-11-05 19:06:00,Owner Surrender,Normal,Cat,Intact Female,1.0,Domestic Shorthair Mix,medium,2015-11-14 14:05:00,2014-11-05 00:00:00,Intact Female,1.0,0.0,2015,11
+A787401,2019-01-16 11:16:00,Public Assist,Normal,Dog,Intact Male,6.0,Bullmastiff,dark,2019-01-22 16:02:00,2012-03-15 00:00:00,Intact Male,6.0,0.0,2019,1
+A701441,2015-04-29 15:32:00,Stray,Normal,Dog,Intact Female,0.4166666666666667,Labrador Retriever/German Shepherd,dark,2015-05-12 12:02:00,2014-10-29 00:00:00,Spayed Female,0.5,0.0,2015,4
+A786321,2018-12-22 10:59:00,Stray,Normal,Dog,Neutered Male,1.0,Plott Hound Mix,dark,2019-01-11 18:49:00,2017-12-22 00:00:00,Neutered Male,1.0,0.0,2018,12
+A774223,2018-06-11 19:01:00,Wildlife,Injured,Bird,Unknown,1.0,Finch Mix,dark,2018-06-11 19:09:00,2017-06-11 00:00:00,Unknown,1.0,1.0,2018,6
+A794530,2019-05-09 13:57:00,Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Shorthair,dark,2019-06-19 12:48:00,2019-04-09 00:00:00,Neutered Male,0.16666666666666666,0.0,2019,5
+A683887,2014-07-16 16:13:00,Stray,Normal,Dog,Intact Female,2.0,Pit Bull Mix,dark,2014-10-20 19:15:00,2012-07-16 00:00:00,Spayed Female,2.0,0.0,2014,7
+A668511,2013-12-04 18:21:00,Stray,Normal,Dog,Intact Male,1.0,Pit Bull Mix,dark,2014-01-01 11:34:00,2012-12-04 00:00:00,Neutered Male,1.0,0.0,2013,12
+A788165,2019-01-27 16:28:00,Stray,Injured,Dog,Intact Female,3.0,Blue Lacy Mix,medium,2019-03-24 13:06:00,2016-01-27 00:00:00,Spayed Female,3.0,0.0,2019,1
+A736584,2016-10-13 13:51:00,Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair Mix,dark,2016-10-24 16:08:00,2015-10-13 00:00:00,Spayed Female,1.0,0.0,2016,10
+A664565,2013-10-05 13:24:00,Stray,Normal,Cat,Intact Male,0.005479452054794521,Domestic Shorthair Mix,dark,2013-10-05 14:17:00,2013-10-03 00:00:00,Intact Male,0.005479452054794521,0.0,2013,10
+A729633,2016-12-16 16:13:00,Stray,Normal,Cat,Neutered Male,5.0,Domestic Shorthair Mix,medium,2016-06-22 09:00:00,2010-12-20 00:00:00,Neutered Male,5.0,0.0,2016,12
+A673705,2014-02-28 17:57:00,Stray,Normal,Dog,Neutered Male,2.0,Dachshund Wirehair/Pbgv,dark,2014-03-07 17:33:00,2012-02-28 00:00:00,Neutered Male,2.0,0.0,2014,2
+A670151,2014-01-02 17:11:00,Stray,Normal,Dog,Spayed Female,1.0,Redbone Hound Mix,dark,2014-02-15 17:55:00,2013-01-02 00:00:00,Spayed Female,1.0,0.0,2014,1
+A685868,2014-08-13 18:15:00,Public Assist,Normal,Cat,Spayed Female,0.75,Domestic Shorthair Mix,dark,2014-08-13 19:00:00,2013-10-13 00:00:00,Spayed Female,0.75,0.0,2014,8
+A729427,2016-06-18 12:27:00,Stray,Normal,Dog,Intact Female,1.0,Chihuahua Shorthair/Dachshund,light,2016-06-30 11:33:00,2015-06-18 00:00:00,Spayed Female,1.0,0.0,2016,6
+A723156,2016-03-27 15:41:00,Wildlife,Injured,Other,Unknown,1.0,Squirrel,dark,2016-03-27 16:45:00,2015-03-27 00:00:00,Unknown,1.0,1.0,2016,3
+A782269,2018-10-12 17:22:00,Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Shorthair Mix,dark,2019-02-24 17:37:00,2018-09-12 00:00:00,Neutered Male,0.4166666666666667,0.0,2018,10
+A727403,2016-05-21 16:28:00,Stray,Normal,Cat,Spayed Female,1.0,Domestic Longhair Mix,dark,2016-06-30 13:54:00,2015-05-21 00:00:00,Spayed Female,1.0,0.0,2016,5
+A770919,2018-04-27 11:54:00,Stray,Normal,Dog,Intact Male,1.0,Pbgv Mix,medium,2018-05-01 18:19:00,2017-04-27 00:00:00,Neutered Male,1.0,0.0,2018,4
+A738927,2016-11-23 14:57:00,Stray,Normal,Dog,Intact Female,1.0,German Shepherd Mix,medium,2016-11-28 14:17:00,2015-11-23 00:00:00,Intact Female,1.0,0.0,2016,11
+A673357,2014-02-22 17:27:00,Wildlife,Sick,Other,Unknown,0.07692307692307693,Raccoon,dark,2014-02-22 17:44:00,2014-01-22 00:00:00,Unknown,0.07692307692307693,1.0,2014,2
+A708897,2015-08-02 11:44:00,Owner Surrender,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair Mix,light,2015-08-13 12:43:00,2015-06-02 00:00:00,Neutered Male,0.16666666666666666,0.0,2015,8
+A760608,2017-10-20 18:30:00,Stray,Normal,Dog,Intact Male,0.6666666666666666,Alaskan Husky/Labrador Retriever,light,2017-10-30 16:02:00,2017-02-07 00:00:00,Neutered Male,0.6666666666666666,0.0,2017,10
+A809162,2019-11-20 11:14:00,Stray,Normal,Dog,Intact Female,3.0,Dachshund/Pug,dark,2019-11-24 18:31:00,2016-11-20 00:00:00,Spayed Female,3.0,0.0,2019,11
+A752878,2017-06-28 14:44:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair Mix,light,2017-07-17 11:11:00,2017-04-28 00:00:00,Spayed Female,0.16666666666666666,0.0,2017,6
+A809941,2019-12-04 14:06:00,Stray,Normal,Dog,Intact Female,5.0,Labrador Retriever,light,2019-12-05 16:06:00,2014-12-05 00:00:00,Intact Female,5.0,0.0,2019,12
+A676343,2014-04-08 12:40:00,Stray,Normal,Cat,Intact Female,0.038461538461538464,Domestic Shorthair Mix,dark,2014-04-08 13:59:00,2014-03-24 00:00:00,Intact Female,0.038461538461538464,0.0,2014,4
+A665185,2013-10-14 18:32:00,Stray,Normal,Cat,Intact Male,0.057692307692307696,Domestic Shorthair Mix,dark,2013-12-03 15:35:00,2013-09-22 00:00:00,Neutered Male,0.16666666666666666,0.0,2013,10
+A691236,2014-11-01 11:14:00,Stray,Normal,Cat,Intact Female,0.057692307692307696,Domestic Shorthair Mix,light,2014-11-01 14:31:00,2014-10-10 00:00:00,Intact Female,0.057692307692307696,0.0,2014,11
+A782328,2018-10-13 15:32:00,Stray,Normal,Cat,Intact Male,0.057692307692307696,Domestic Shorthair Mix,dark,2018-10-15 15:19:00,2018-09-19 00:00:00,Intact Male,0.057692307692307696,0.0,2018,10
+A738616,2016-11-18 13:25:00,Stray,Normal,Dog,Intact Female,0.5,Cairn Terrier Mix,light,2016-11-22 16:51:00,2016-05-18 00:00:00,Spayed Female,0.5,0.0,2016,11
+A755913,2017-08-10 18:52:00,Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Chihuahua Shorthair Mix,dark,2017-08-12 19:04:00,2017-05-28 00:00:00,Spayed Female,0.16666666666666666,0.0,2017,8
+A690582,2014-10-22 17:41:00,Stray,Normal,Cat,Intact Male,0.3333333333333333,Domestic Shorthair Mix,light,2014-10-28 15:34:00,2014-06-22 00:00:00,Neutered Male,0.3333333333333333,0.0,2014,10
+A794976,2019-09-26 16:49:00,Owner Surrender,Normal,Dog,Spayed Female,0.5,Chihuahua Shorthair Mix,dark,2019-09-28 13:05:00,2019-03-14 00:00:00,Spayed Female,0.5,0.0,2019,9
+A714273,2015-10-20 14:37:00,Stray,Injured,Cat,Spayed Female,3.0,Domestic Shorthair Mix,medium,2015-10-20 14:51:00,2012-10-20 00:00:00,Spayed Female,3.0,1.0,2015,10
+A675662,2014-03-31 10:38:00,Stray,Normal,Dog,Intact Male,3.0,Dogo Argentino Mix,light,2014-07-12 11:25:00,2011-03-31 00:00:00,Neutered Male,3.0,0.0,2014,3
+A689460,2014-10-04 12:06:00,Stray,Normal,Dog,Intact Male,6.0,Norfolk Terrier Mix,Tricolor,2014-10-08 18:23:00,2007-10-08 00:00:00,Neutered Male,7.0,0.0,2014,10
+A696583,2015-02-21 15:17:00,Stray,Normal,Dog,Spayed Female,2.0,Dachshund Mix,dark,2015-03-13 17:50:00,2013-02-07 00:00:00,Spayed Female,2.0,0.0,2015,2
+A806983,2019-10-19 11:41:00,Stray,Normal,Cat,Unknown,1.0,Domestic Shorthair,light,2019-10-23 10:39:00,2018-10-19 00:00:00,Unknown,1.0,0.0,2019,10
+A666211,2013-10-28 18:30:00,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair Mix,dark,2013-11-17 18:03:00,2013-08-28 00:00:00,Spayed Female,0.16666666666666666,0.0,2013,10
+A787296,2019-01-26 13:07:00,Owner Surrender,Normal,Dog,Neutered Male,0.8333333333333334,Great Pyrenees Mix,light,2019-01-31 14:34:00,2018-03-11 00:00:00,Neutered Male,0.8333333333333334,0.0,2019,1
+A732754,2016-08-13 10:51:00,Stray,Normal,Dog,Intact Female,0.3333333333333333,Rat Terrier/Chihuahua Shorthair,light,2016-08-18 12:27:00,2016-04-13 00:00:00,Spayed Female,0.3333333333333333,0.0,2016,8
+A733913,2016-08-29 12:09:00,Stray,Normal,Dog,Intact Female,5.0,Labrador Retriever Mix,dark,2016-09-24 15:23:00,2011-08-29 00:00:00,Intact Female,5.0,0.0,2016,8
+A721641,2016-03-01 16:56:00,Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair Mix,medium,2016-06-01 13:54:00,2015-03-01 00:00:00,Spayed Female,1.0,0.0,2016,3
+A741076,2016-12-27 17:54:00,Stray,Normal,Cat,Intact Male,0.5,Domestic Medium Hair Mix,light,2017-01-26 18:24:00,2016-06-27 00:00:00,Neutered Male,0.5833333333333334,0.0,2016,12
+A769012,2018-03-28 17:48:00,Stray,Normal,Dog,Spayed Female,7.0,Chihuahua Shorthair Mix,medium,2018-04-01 12:36:00,2011-03-29 00:00:00,Spayed Female,7.0,0.0,2018,3
+A783743,2018-11-05 13:22:00,Owner Surrender,Normal,Dog,Spayed Female,8.0,Maltese Mix,light,2018-11-07 13:05:00,2010-11-05 00:00:00,Spayed Female,8.0,0.0,2018,11
+A797120,2019-06-09 15:09:00,Stray,Normal,Dog,Intact Female,0.08333333333333333,Boxer,dark,2019-06-10 17:38:00,2019-04-09 00:00:00,Intact Female,0.16666666666666666,0.0,2019,6
+A724594,2016-04-19 15:36:00,Stray,Nursing,Cat,Intact Male,0.005479452054794521,Domestic Shorthair Mix,dark,2016-04-19 17:32:00,2016-04-17 00:00:00,Intact Male,0.005479452054794521,0.0,2016,4
+A516260,2015-12-16 14:49:00,Owner Surrender,Normal,Dog,Spayed Female,10.0,Pit Bull Mix,medium,2016-02-12 10:42:00,2005-07-16 00:00:00,Spayed Female,10.0,1.0,2015,12
+A763313,2017-12-07 12:46:00,Stray,Normal,Dog,Intact Male,0.08333333333333333,Bernese Mountain Dog Mix,dark,2017-12-12 17:20:00,2017-10-15 00:00:00,Neutered Male,0.08333333333333333,0.0,2017,12
+A778106,2018-08-08 16:20:00,Stray,Normal,Cat,Intact Female,0.057692307692307696,Domestic Shorthair Mix,medium,2018-11-14 10:48:00,2018-07-17 00:00:00,Spayed Female,0.25,0.0,2018,8
+A762780,2017-11-27 11:10:00,Stray,Normal,Dog,Intact Male,2.0,Chihuahua Shorthair Mix,dark,2017-12-02 14:36:00,2015-11-27 00:00:00,Neutered Male,2.0,0.0,2017,11
+A781662,2018-10-03 13:48:00,Owner Surrender,Normal,Dog,Intact Male,0.9166666666666666,German Shepherd Mix,dark,2019-01-03 16:43:00,2017-10-20 00:00:00,Neutered Male,1.0,0.0,2018,10
+A740553,2016-12-19 12:44:00,Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,German Shepherd Mix,dark,2016-12-20 17:30:00,2016-10-04 00:00:00,Neutered Male,0.16666666666666666,0.0,2016,12
+A688949,2014-09-26 18:51:00,Stray,Normal,Dog,Intact Male,3.0,Boxer Mix,dark,2014-09-27 11:55:00,2011-09-26 00:00:00,Intact Male,3.0,0.0,2014,9
+A781658,2018-10-03 13:07:00,Stray,Normal,Dog,Intact Female,0.5,Labrador Retriever Mix,dark,2018-10-07 17:02:00,2018-04-03 00:00:00,Spayed Female,0.5,0.0,2018,10
+A503431,2017-03-29 09:08:00,Owner Surrender,Normal,Dog,Spayed Female,10.0,Norwich Terrier Mix,dark,2017-05-02 00:00:00,2007-03-31 00:00:00,Spayed Female,10.0,0.0,2017,3
+A771544,2018-08-10 15:09:00,Owner Surrender,Normal,Cat,Spayed Female,2.0,Domestic Shorthair Mix,medium,2018-08-11 12:08:00,2016-05-06 00:00:00,Spayed Female,2.0,0.0,2018,8
+A798475,2019-06-26 13:10:00,Stray,Normal,Cat,Intact Female,0.25,Domestic Shorthair,dark,2019-10-29 18:00:00,2019-03-26 00:00:00,Spayed Female,0.5833333333333334,0.0,2019,6
+A809587,2019-11-27 12:09:00,Stray,Normal,Dog,Neutered Male,1.0,Siberian Husky Mix,light,2019-12-02 17:09:00,2018-11-27 00:00:00,Neutered Male,1.0,0.0,2019,11
+A764462,2017-12-30 14:14:00,Stray,Normal,Dog,Intact Female,0.08333333333333333,Rat Terrier Mix,dark,2018-01-13 17:13:00,2017-11-15 00:00:00,Spayed Female,0.08333333333333333,0.0,2017,12
+A746730,2017-04-08 12:01:00,Stray,Normal,Dog,Intact Male,0.16666666666666666,Australian Cattle Dog Mix,dark,2017-04-12 17:28:00,2017-01-28 00:00:00,Neutered Male,0.16666666666666666,0.0,2017,4
+A744776,2017-03-07 12:38:00,Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair Mix,dark,2017-03-30 00:00:00,2016-03-07 00:00:00,Neutered Male,1.0,0.0,2017,3
+A760011,2017-10-11 12:55:00,Stray,Normal,Cat,Intact Male,3.0,Domestic Shorthair Mix,dark,2017-10-15 19:23:00,2014-10-11 00:00:00,Intact Male,3.0,0.0,2017,10
+A704490,2015-06-05 14:05:00,Stray,Nursing,Dog,Intact Male,0.08333333333333333,Labrador Retriever/Plott Hound,dark,2015-06-05 16:03:00,2015-04-28 00:00:00,Intact Male,0.08333333333333333,0.0,2015,6
+A719587,2016-01-23 11:01:00,Stray,Normal,Dog,Intact Male,0.75,German Shepherd/Border Collie,dark,2016-02-10 13:20:00,2015-03-30 00:00:00,Neutered Male,0.8333333333333334,0.0,2016,1
+A722597,2016-03-19 11:51:00,Owner Surrender,Normal,Dog,Neutered Male,13.0,Shih Tzu Mix,dark,2016-03-20 16:12:00,2003-03-19 00:00:00,Neutered Male,13.0,0.0,2016,3
+A806005,2019-10-04 18:03:00,Stray,Nursing,Cat,Unknown,0.005479452054794521,Domestic Shorthair,dark,2019-10-04 18:51:00,2019-10-02 00:00:00,Unknown,0.005479452054794521,0.0,2019,10
+A800167,2019-07-17 11:50:00,Stray,Normal,Cat,Intact Female,0.038461538461538464,Domestic Shorthair,light,2019-07-17 15:17:00,2019-06-29 00:00:00,Intact Female,0.038461538461538464,0.0,2019,7

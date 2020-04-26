@@ -1,0 +1,9 @@
+Feature,count,unique,top,freq,card
+IntakeType,1000,6,Stray,699,6
+IntakeCondition,1000,8,Normal,865,8
+AnimalType_Intake,1000,5,Dog,536,5
+SexuponIntake,1000,5,Intact Male,328,5
+Breed_Intake,1000,207,Domestic Shorthair Mix,274,207
+Color_Intake,1000,117,Black/White,123,117
+SexuponOutcome,1000,5,Neutered Male,343,5
+Result,1000.0,2.0,0.0,921.0,2
